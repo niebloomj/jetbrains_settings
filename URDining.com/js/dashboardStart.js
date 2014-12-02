@@ -5,11 +5,120 @@ var danfStations = "VEGAN, SOUP, SAUTE, PM, MG, G, DELI, D, BO, or BHZ";
 function dashboardLoad() {
     Parse.initialize("aEGq7Uw6GgqbGZo8JWxPQAEYdxSgexrv9zLLXVJu",
         "ahEsV3cewyapjRJ7Wudks47q10eh9fGnerBb3pBy");
-    downloadAndSetTable("DG_MENU", "dougTable");
-    downloadAndSetTable("DF_Menu", "danfTable");
-    downloadAndSetTable("TC_Menu", "commTable");
+    resetTables();
+
+    $("#analytics").click(function() {
+        event.preventDefault();
+    });
+
     $("#addFood").click(function() {
-        newFood();
+        event.preventDefault();
+        question(3, "Which dining hall?", "Douglas", "Danforth", "The Commons",
+            function() {
+                question(3, "Which time of food is this?", "Breakfast",
+                    "Lunch", "Dinner",
+                    function() {
+                        bootbox.prompt("What stationID? - " + dougStations, function(stationID) {
+                            if (stationID === null) {} else {
+                                bootbox.prompt("What is that name of the dish?", function(dish) {
+                                    if (dish === null) {} else {
+                                        bootbox.prompt("How many calories are there per serving?", function(cal) {
+                                            if (cal === null) {} else {
+                                                var Table = Parse.Object.extend("DG_MENU")
+                                                sendFoodToDB(Table, 1, stationID, dish, cal);
+                                            }
+                                        });
+                                    }
+                                });
+                            }
+                        });
+                    },
+                    function() {
+                        bootbox.prompt("What stationID? - " + dougStations, function(stationID) {
+                            if (stationID === null) {} else {
+                                bootbox.prompt("What is that name of the dish?", function(dish) {
+                                    if (dish === null) {} else {
+                                        bootbox.prompt("How many calories are there per serving?", function(cal) {
+                                            if (cal === null) {} else {
+                                                var Table = Parse.Object.extend("DG_MENU")
+                                                sendFoodToDB(Table, 2, stationID, dish, cal);
+                                            }
+                                        });
+                                    }
+                                });
+                            }
+                        });
+                    },
+                    function() {
+                        bootbox.prompt("What stationID? - " + dougStations, function(stationID) {
+                            if (stationID === null) {} else {
+                                bootbox.prompt("What is that name of the dish?", function(dish) {
+                                    if (dish === null) {} else {
+                                        bootbox.prompt("How many calories are there per serving?", function(cal) {
+                                            if (cal === null) {} else {
+                                                var Table = Parse.Object.extend("DG_MENU")
+                                                sendFoodToDB(Table, 3, stationID, dish, cal);
+                                            }
+                                        });
+                                    }
+                                });
+                            }
+                        });
+                    })
+            },
+            function() {
+                question(2, "Which time of food is this?", "Lunch",
+                    "Dinner", null,
+                    function() {
+                        bootbox.prompt("What stationID? - " + danfStations, function(stationID) {
+                            if (stationID === null) {} else {
+                                bootbox.prompt("What is that name of the dish?", function(dish) {
+                                    if (dish === null) {} else {
+                                        bootbox.prompt("How many calories are there per serving?", function(cal) {
+                                            if (cal === null) {} else {
+                                                var Table = Parse.Object.extend("DF_Menu")
+                                                sendFoodToDB(Table, 2, stationID, dish, cal);
+                                            }
+                                        });
+                                    }
+                                });
+                            }
+                        });
+                    },
+                    function() {
+                        bootbox.prompt("What stationID? - " + danfStations, function(stationID) {
+                            if (stationID === null) {} else {
+                                bootbox.prompt("What is that name of the dish?", function(dish) {
+                                    if (dish === null) {} else {
+                                        bootbox.prompt("How many calories are there per serving?", function(cal) {
+                                            if (cal === null) {} else {
+                                                var Table = Parse.Object.extend("DF_Menu")
+                                                sendFoodToDB(Table, 3, stationID, dish, cal);
+                                            }
+                                        });
+                                    }
+                                });
+                            }
+                        });
+                    },
+                    null)
+            },
+            function() {
+                bootbox.prompt("What stationID? - Pizza, or Panda?", function(stationID) {
+                    if (stationID === null) {} else {
+                        bootbox.prompt("What is that name of the dish?", function(dish) {
+                            if (dish === null) {} else {
+                                bootbox.prompt("How many calories are there per serving?", function(cal) {
+                                    if (cal === null) {} else {
+                                        var Table = Parse.Object.extend("TC_Menu")
+                                        sendFoodToDB(Table, 3, stationID, dish, cal);
+                                    }
+                                });
+                            }
+                        });
+                    }
+                });
+            });
     });
 
     $("#removeFood").click(function() {
@@ -25,13 +134,40 @@ function dashboardLoad() {
                         bootbox.prompt("What stationID? - " + dougStations, function(stationID) {
                             if (stationID === null) {} else {
                                 var table = document.getElementById("dougTable");
+                                var list = "";
                                 for (var i = 1, row; row = table.rows[i]; i++) {
-                                    // for (var j = 0, col; col = row.cells[j]; j++) {
-                                    // console.log(stationID + "≠" + row.cells[1].innerText);
                                     if (stationID == row.cells[1].innerText) {
-                                        console.log(row.cells[2].innerText);
+                                        list += row.cells[2].innerText + ", ";
                                     }
                                 }
+                                console.log(list);
+                                bootbox.prompt("Which food would you like to delete? - " + list, function(food) {
+                                    if (food == null) {} else {
+                                        console.log("deleting " + food);
+                                        var Table = Parse.Object.extend("DG_MENU");
+                                        var query = new Parse.Query(Table);
+                                        query.equalTo("stationID", stationID);
+                                        query.equalTo("foodItem", food);
+                                        query.find({
+                                            success: function(object) {
+                                                if (object.length == 1) {
+                                                    object[0].destroy({
+                                                        success: function(object) {
+                                                            bootbox.alert("Food removed successfully", function() {});
+                                                        },
+                                                        error: function(object, error) {}
+                                                    })
+                                                } else {
+                                                    bootbox.alert("Failed. Either food doesn't exist or multiple references of this food exist.", function() {});
+                                                }
+                                                console.log(object);
+                                            },
+                                            error: function(object, error) {
+                                                console.log(object + error);
+                                            }
+                                        });
+                                    }
+                                });
                             }
                         });
                     }
@@ -40,13 +176,90 @@ function dashboardLoad() {
                     label: "Danforth",
                     className: "btn-danger",
                     callback: function() {
-
+                        bootbox.prompt("What stationID? - " + danfStations, function(stationID) {
+                            if (stationID === null) {} else {
+                                var table = document.getElementById("danfTable");
+                                var list = "";
+                                for (var i = 1, row; row = table.rows[i]; i++) {
+                                    if (stationID == row.cells[1].innerText) {
+                                        list += row.cells[2].innerText + ", ";
+                                    }
+                                }
+                                console.log(list);
+                                bootbox.prompt("Which food would you like to delete? - " + list, function(food) {
+                                    if (food == null) {} else {
+                                        console.log("deleting " + food);
+                                        var Table = Parse.Object.extend("DF_Menu");
+                                        var query = new Parse.Query(Table);
+                                        query.equalTo("stationID", stationID);
+                                        query.equalTo("foodItem", food);
+                                        query.find({
+                                            success: function(object) {
+                                                if (object.length == 1) {
+                                                    object[0].destroy({
+                                                        success: function(object) {
+                                                            bootbox.alert("Food removed successfully", function() {});
+                                                        },
+                                                        error: function(object, error) {}
+                                                    })
+                                                } else {
+                                                    bootbox.alert("Failed. Either food doesn't exist or multiple references of this food exist.", function() {});
+                                                }
+                                                console.log(object);
+                                            },
+                                            error: function(object, error) {
+                                                console.log(object + error);
+                                            }
+                                        });
+                                    }
+                                });
+                            }
+                        });
                     }
                 },
                 main: {
                     label: "The Commons",
                     className: "btn-primary",
                     callback: function() {
+                        bootbox.prompt("What stationID? - ", function(stationID) {
+                            if (stationID === null) {} else {
+                                var table = document.getElementById("commTable");
+                                var list = "";
+                                for (var i = 1, row; row = table.rows[i]; i++) {
+                                    if (stationID == row.cells[1].innerText) {
+                                        list += row.cells[2].innerText + ", ";
+                                    }
+                                }
+                                console.log(list);
+                                bootbox.prompt("Which food would you like to delete? - " + list, function(food) {
+                                    if (food == null) {} else {
+                                        console.log("deleting " + food);
+                                        var Table = Parse.Object.extend("TC_Menu");
+                                        var query = new Parse.Query(Table);
+                                        query.equalTo("stationID", stationID);
+                                        query.equalTo("foodItem", food);
+                                        query.find({
+                                            success: function(object) {
+                                                if (object.length == 1) {
+                                                    object[0].destroy({
+                                                        success: function(object) {
+                                                            bootbox.alert("Food removed successfully", function() {});
+                                                        },
+                                                        error: function(object, error) {}
+                                                    })
+                                                } else {
+                                                    bootbox.alert("Failed. Either food doesn't exist or multiple references of this food exist.", function() {});
+                                                }
+                                                console.log(object);
+                                            },
+                                            error: function(object, error) {
+                                                console.log(object + error);
+                                            }
+                                        });
+                                    }
+                                });
+                            }
+                        });
 
                     }
                 }
@@ -64,149 +277,74 @@ function dashboardLoad() {
                     label: "Douglas",
                     className: "btn-success",
                     callback: function() {
-
+                        bootbox.confirm("Are you sure?", function(result) {
+                            if (result) {
+                                console.log("DELETE");
+                            }
+                        });
                     }
                 },
                 danger: {
                     label: "Danforth",
                     className: "btn-danger",
                     callback: function() {
-
+                        bootbox.confirm("Are you sure?", function(result) {
+                            if (result) {
+                                console.log("DELETE");
+                            }
+                        });
                     }
                 },
                 main: {
                     label: "The Commons",
                     className: "btn-primary",
                     callback: function() {
-
+                        bootbox.confirm("Are you sure?", function(result) {
+                            if (result) {
+                                console.log("DELETE");
+                            }
+                        });
                     }
                 }
             }
         });
     });
+
+    $("#refreshFoods").click(function() {
+        event.preventDefault();
+        downloadAndSetTable("DG_MENU", "dougTable");
+        downloadAndSetTable("DF_Menu", "danfTable");
+        downloadAndSetTable("TC_Menu", "commTable");
+        bootbox.alert("Food Refreshed", function() {});
+    });
 }
 
-
-
-
-function newFood() {
-    event.preventDefault();
-    question(3, "Which dining hall?", "Douglas", "Danforth", "The Commons",
-        function() {
-            question(3, "Which time of food is this?", "Breakfast",
-                "Lunch", "Dinner",
-                function() {
-                    bootbox.prompt("What stationID? - " + dougStations, function(stationID) {
-                        if (stationID === null) {} else {
-                            newFoodNext("DG", stationID, 1);
-                        }
-                    });
-                },
-                function() {
-                    bootbox.prompt("What stationID? - " + dougStations, function(stationID) {
-                        if (stationID === null) {} else {
-                            newFoodNext("DG", stationID, 2);
-                        }
-                    });
-                },
-                function() {
-                    bootbox.prompt("What stationID? - " + dougStations, function(stationID) {
-                        if (stationID === null) {} else {
-                            newFoodNext("DG", stationID, 3);
-                        }
-                    });
-                })
-        },
-        function() {
-            question(2, "Which time of food is this?", "Lunch",
-                "Dinner", null,
-                function() {
-                    bootbox.prompt("What stationID? - " + danfStations, function(stationID) {
-                        if (stationID === null) {} else {
-                            newFoodNext("DF", stationID, 2);
-                        }
-                    });
-                },
-                function() {
-                    bootbox.prompt("What stationID? - " + danfStations, function(stationID) {
-                        if (stationID === null) {} else {
-                            newFoodNext("DF", stationID, 3);
-                        }
-                    });
-                },
-                null)
-        },
-        function() {
-            bootbox.prompt("What stationID? - Pizza, or Panda?", function(stationID) {
-                if (stationID === null) {} else {
-                    newFoodNext("TC", stationID, 3);
-                }
-            });
-        });
-}
-
-function newFoodNext(inputHall, stationID, inputMealTime) {
-    bootbox.prompt("What is that name of the dish?", function(dish) {
-        if (dish === null) {} else {
-            bootbox.prompt("How many calories are there per serving?", function(cal) {
-                if (cal === null) {} else {
-                    //Send data to database;
-                    //Variable:
-                    //InputHall, stationID, inputMealTime, dish, cal;
-                    if (inputHall === "DG") {
-                        var Table = Parse.Object.extend("DG_MENU")
-                        var table = new Table();
-                        table.set("mealTime", inputMealTime);
-                        table.set("stationID", stationID);
-                        table.set("foodItem", dish);
-                        table.set("cal", cal);
-                        table.save(null, {
-                            success: function(table) {
-                                bootbox.alert("Food added successfully", function() {
-
-                                });
-                            }
-                        });
-                    } else if (inputHall === "DF") {
-                        var Table = Parse.Object.extend("DF_Menu")
-                        var table = new Table();
-                        table.set("mealTime", inputMealTime);
-                        table.set("stationID", stationID);
-                        table.set("foodItem", dish);
-                        table.set("cal", cal + "/serving");
-                        table.save(null, {
-                            success: function(table) {
-                                bootbox.alert("Food added successfully", function() {
-
-                                });
-                            }
-                        });
-                    } else if (inputHall === "TC") {
-                        var Table = Parse.Object.extend("TC_Menu")
-                        var table = new Table();
-                        table.set("mealTime", inputMealTime);
-                        table.set("stationID", stationID);
-                        table.set("foodItem", dish);
-                        table.set("cal", cal + "/serving");
-                        table.save(null, {
-                            success: function(table) {
-                                bootbox.alert("Food added successfully", function() {
-
-                                });
-                            }
-                        });
-                    }
-                }
+function sendFoodToDB(Table, mealTime, stationID, dish, calories) {
+    var table = new Table();
+    table.set("mealTime", mealTime);
+    table.set("stationID", stationID);
+    table.set("foodItem", dish);
+    table.set("cal", calories);
+    table.save(null, {
+        success: function(table) {
+            bootbox.alert("Food added successfully", function() {
+                resetTables();
             });
         }
     });
 }
 
-function sendFoodToDB(hall, mealTime, stationID, dish, calories) {
-
+function resetTables() {
+    downloadAndSetTable("DG_MENU", "dougTable");
+    downloadAndSetTable("DF_Menu", "danfTable");
+    downloadAndSetTable("TC_Menu", "commTable");
 }
 
 function downloadAndSetTable(tableName, tableID) {
+    var r = document.getElementById(tableID).rows.length;
+    for (var i = 1; i < r; i++) {
+        document.getElementById(tableID).deleteRow(1);
+    }
     var Table = Parse.Object.extend(tableName);
     var query = new Parse.Query(Table);
     query.descending("mealTime");
