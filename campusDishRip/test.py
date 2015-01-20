@@ -16,19 +16,20 @@ def getPageSource(url):
 	return pagesource
 
 pagesource = getPageSource("http://www.campusdish.com/en-US/CSNE/Rochester/Menus/DouglassDiningCenter.htm")
-days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
-dayNum = 15
+weekdays = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+fullweek = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
+dayNum = 8
 
-for ConceptTabText in pagesource:
+for ConceptTabText in pagesource[1:]:
 	rn = str(ConceptTabText).split("RN=")
 	for elem in rn:
 		if "RecipeTable" in elem:
 			try:
-				test = days[dayNum] != "testNoPrint"
+				weekdays[dayNum]
 			except:
-				printElem(elem)
 				dayNum = 0
-			print("\n"+days[dayNum])
+				printElem(elem)
+			print("\n"+weekdays[dayNum])
 			dayNum += 1
 			continue
 		printElem(elem)
