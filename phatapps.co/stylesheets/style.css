@@ -277,6 +277,13 @@ a, a:hover {
 #logo img {
 }
 
+#logoText {
+    display: none;
+}
+
+#logoText img {
+}
+
 #intro {
     text-align: center;
 }
