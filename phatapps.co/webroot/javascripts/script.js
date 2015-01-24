@@ -70,19 +70,19 @@ $(function ($) {
   }, 800);//1000
   setTimeout(function(){
   $('#logo').show().addClass('animated rotateIn');
-  }, 1200);
+  }, 1200);//1200
   setTimeout(function(){
   $('#logoText').show().addClass('animated fadeInUpBig');
-  }, 1500);
+  }, 1500);//1500
  // setTimeout(function(){
  //  $('#intro h1').show().addClass('animated fadeInUpBig');
  //  }, 1500);
   setTimeout(function(){
   $('#intro h2 > span').fadeIn('slow');
-  }, 2500);
+  }, 2600);//2500
   setTimeout(function(){
   $('#explore a img').fadeIn('slow');
-  }, 3000);//3600
+  }, 3700);//3600
 
 
     $('#explore a img').mouseenter(function(){
