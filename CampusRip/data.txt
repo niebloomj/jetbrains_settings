@@ -1,0 +1,1189 @@
+[
+    [
+        "Douglas Breakfast",
+        [
+            "BREAKFAST PASTRIES",
+            [
+                "Monday",
+                "BAGELS YOUR WAY",
+                "DONUT BITES",
+                "RASPBERRY WHITE CHOCOLATE SCONE",
+                "BANANA NUT MUFFIN"
+            ],
+            [
+                "Tuesday",
+                "BAGELS YOUR WAY",
+                "VANILLA ICED DONUT WITH SPRINKLES",
+                "BLUEBERRY MUFFIN",
+                "PINEAPPLE HUSHPUPPIES"
+            ],
+            [
+                "Wednesday",
+                "BAGELS YOUR WAY",
+                "LEMON POPPY SEED MUFFIN",
+                "MOIST APPLE CRUMB CAKE",
+                "BLUEBERRY SCONE"
+            ],
+            [
+                "Thursday",
+                "BAGELS YOUR WAY",
+                "HONEY BRAN MUFFIN",
+                "ORANGE CRANBERRY COFFEE CAKE",
+                "POWDERED SUGAR DONUT"
+            ],
+            [
+                "Friday",
+                "BAGELS YOUR WAY",
+                "CORN MUFFIN",
+                "BLUEBERRY SCONE",
+                "CINNAMON-SUGAR DONUT"
+            ]
+        ],
+        [
+            "GRILL",
+            [
+                "Monday",
+                "EGG OMELET"
+            ],
+            [
+                "Tuesday",
+                "EGG OMELET"
+            ],
+            [
+                "Wednesday",
+                "EGG OMELET"
+            ],
+            [
+                "Thursday",
+                "EGG OMELET"
+            ],
+            [
+                "Friday",
+                "EGG OMELET"
+            ]
+        ],
+        [
+            "HOME ZONE",
+            [
+                "Monday",
+                "PORK SAUSAGE PATTY",
+                "TURKEY BACON",
+                "FRENCH TOAST",
+                "SCRAMBLED EGGS"
+            ],
+            [
+                "Tuesday",
+                "PANCAKES",
+                "SCRAMBLED EGGS",
+                "TURKEY SAUSAGE LINK",
+                "BACON"
+            ],
+            [
+                "Wednesday",
+                "TURKEY BACON",
+                "SCRAMBLED EGGS",
+                "FRENCH TOAST",
+                "PORK SAUSAGE LINKS"
+            ],
+            [
+                "Thursday",
+                "TURKEY SAUSAGE PATTY",
+                "PANCAKES",
+                "BACON",
+                "SCRAMBLED EGGS"
+            ],
+            [
+                "Friday",
+                "PORK SAUSAGE PATTY",
+                "TURKEY BACON",
+                "SCRAMBLED EGGS",
+                "FRENCH TOAST"
+            ]
+        ],
+        [
+            "PIZZA",
+            [
+                "Monday",
+                "OLD FASHIONED OATMEAL"
+            ],
+            [
+                "Tuesday",
+                "OLD FASHIONED OATMEAL"
+            ],
+            [
+                "Wednesday",
+                "OLD FASHIONED OATMEAL"
+            ],
+            [
+                "Thursday",
+                "OLD FASHIONED OATMEAL"
+            ],
+            [
+                "Friday",
+                "OLD FASHIONED OATMEAL"
+            ]
+        ],
+        [
+            "PRODUCE MARKET",
+            [
+                "Monday",
+                "FRUIT AND YOGURT BAR"
+            ],
+            [
+                "Tuesday",
+                "FRUIT AND YOGURT BAR"
+            ],
+            [
+                "Wednesday",
+                "FRUIT AND YOGURT BAR"
+            ],
+            [
+                "Thursday",
+                "FRUIT AND YOGURT BAR"
+            ],
+            [
+                "Friday",
+                "FRUIT AND YOGURT BAR"
+            ]
+        ]
+    ],
+    [
+        "Douglas Lunch",
+        [
+            "DESSERT",
+            [
+                "Monday",
+                "CHOCOLATE CHIP COOKIE",
+                "VANILLA CAKE",
+                "LUCKY CHARMS (R) BAR",
+                "OATMEAL RAISIN COOKIE"
+            ],
+            [
+                "Tuesday",
+                "SUGAR COOKIE",
+                "STICKY PECAN UPSIDE DOWN CUPCAKE",
+                "VEGAN BROWNIE",
+                "CHOCOLATE CHIP COOKIE"
+            ],
+            [
+                "Wednesday",
+                "FRENCH TOAST CRUNCH BARS",
+                "PEANUT BUTTER COOKIE",
+                "CHOCOLATE CHIP COOKIE",
+                "BANANA CAKE PARFAIT"
+            ],
+            [
+                "Thursday",
+                "OATMEAL RAISIN COOKIE",
+                "CHOCOLATE CHIP COOKIE",
+                "ROCKY ROAD BROWNIE",
+                "BROWNIE OREO(R) PUDDING PARFAIT"
+            ],
+            [
+                "Friday",
+                "RASPBERRY JELL-O (R) PARFAIT",
+                "PEANUT BUTTER COOKIE",
+                "CHOCOLATE CHIP COOKIE",
+                "CHOCOLATE CRINKLE WHOOPIE PIE"
+            ]
+        ],
+        [
+            "GRILL",
+            [
+                "Monday",
+                "TURKEY BURGER",
+                "GRILLED CHICKEN BREAST",
+                "SPICY CHICKEN CHIPOTLE SANDWICH",
+                "CHICKEN SANDWICH",
+                "HOT DOG",
+                "CHEESEBURGER",
+                "CRISPY SHOESTRING FRENCH FRIES"
+            ],
+            [
+                "Tuesday",
+                "GRILLED CHICKEN BREAST",
+                "TURKEY BURGER",
+                "REUBEN PANINI",
+                "CRISPY SHOESTRING FRENCH FRIES",
+                "CHEESEBURGER",
+                "CHICKEN SANDWICH",
+                "HOT DOG"
+            ],
+            [
+                "Wednesday",
+                "SALSA CHEDDAR QUESADILLA",
+                "GRILLED CHICKEN BREAST",
+                "TURKEY BURGER",
+                "CHICKEN SANDWICH",
+                "HOT DOG",
+                "CHEESEBURGER",
+                "CRISPY SHOESTRING FRENCH FRIES"
+            ],
+            [
+                "Thursday",
+                "SLOPPY JOE",
+                "TURKEY BURGER",
+                "GRILLED CHICKEN BREAST",
+                "CRISPY SHOESTRING FRENCH FRIES",
+                "CHEESEBURGER",
+                "HOT DOG",
+                "CHICKEN SANDWICH"
+            ],
+            [
+                "Friday",
+                "FISH TACO WITH KALE SLAW",
+                "GRILLED CHICKEN BREAST",
+                "TURKEY BURGER",
+                "CHICKEN SANDWICH",
+                "HOT DOG",
+                "CHEESEBURGER",
+                "CRISPY SHOESTRING FRENCH FRIES"
+            ]
+        ],
+        [
+            "HOME ZONE",
+            [
+                "Monday",
+                "BASMATI RICE",
+                "FRESH ZUCCHINI",
+                "FRESH TOMATO || BASIL PENNE",
+                "KUNG PAO PORK"
+            ],
+            [
+                "Tuesday",
+                "STEAMED FRESH BROCCOLI",
+                "HEARTY LASAGNA",
+                "BLACKENED TOFU WITH SPANISH RICE"
+            ],
+            [
+                "Wednesday",
+                "SZECHUAN GREEN BEANS",
+                "GENERAL TSO'S CHICKEN",
+                "QUINOA CAKE WITH TOMATO CHUTNEY",
+                "VEGGIE || BLACK BEAN SAUTE"
+            ],
+            [
+                "Thursday",
+                "CHICKEN PICCATA",
+                "BUTTERNUT SQUASH || TOMATO BARLEY",
+                "ROTINI MARINARA",
+                "ITALIAN ROASTED VEGETABLES"
+            ],
+            [
+                "Friday",
+                "CILANTRO-LIME RICE",
+                "MEDITERRANEAN STIR-FRY",
+                "PUERCO COMINO",
+                "VEGETABLE MEDLEY"
+            ]
+        ],
+        [
+            "PIZZA",
+            [
+                "Monday",
+                "CLASSIC CHEESE PIZZA",
+                "PEPPERONI PIZZA",
+                "MINI CHEESESTEAK CALZONE",
+                "FARFALLE"
+            ],
+            [
+                "Tuesday",
+                "ONION, PEPPERONCINI, SAUSAGE PIZZA",
+                "CLASSIC CHEESE PIZZA",
+                "PEPPERONI PIZZA"
+            ],
+            [
+                "Wednesday",
+                "SAUSAGE, ONION || PEPPER STROMBOLI",
+                "FARFALLE",
+                "PEPPERONI PIZZA",
+                "CLASSIC CHEESE PIZZA"
+            ],
+            [
+                "Thursday",
+                "PEPPERONI MELT",
+                "CLASSIC CHEESE PIZZA",
+                "PEPPERONI PIZZA"
+            ],
+            [
+                "Friday",
+                "FARFALLE",
+                "MARGHERITA PIZZA",
+                "CLASSIC CHEESE PIZZA",
+                "PEPPERONI PIZZA"
+            ]
+        ],
+        [
+            "PRODUCE MARKET",
+            [
+                "Monday",
+                "TANGY KALE SLAW"
+            ],
+            [
+                "Tuesday",
+                "FRUITED BULGUR SALAD"
+            ],
+            [
+                "Wednesday",
+                "QUINOA || EDAMAME SALAD"
+            ],
+            [
+                "Thursday",
+                "CAESAR SALAD"
+            ],
+            [
+                "Friday",
+                "RED POTATO SALAD"
+            ]
+        ]
+    ],
+    [
+        "Douglas Dinner",
+        [
+            "DESSERT",
+            [
+                "Monday",
+                "STRAWBERRY-MINT SHORTCAKE",
+                "RAINBOW SPRINKLE WHOOPIE PIE",
+                "PEANUT BUTTER COOKIE",
+                "CHOCOLATE CHIP COOKIE",
+                "TANGY KALE SLAW"
+            ],
+            [
+                "Tuesday",
+                "CAESAR SALAD",
+                "CHOCOLATE CHIP COOKIE",
+                "APPLE BETTY",
+                "SUGAR COOKIE",
+                "GRILLED POUND CAKE || STRAWBERRIES"
+            ],
+            [
+                "Wednesday",
+                "PEANUT BUTTER PRETZEL CEREAL BAR",
+                "CHOCOLATE CHIP COOKIE",
+                "BROWNIE CUPCAKE",
+                "OATMEAL RAISIN COOKIE",
+                "MUSTARD-HORSERADISH COLESLAW"
+            ],
+            [
+                "Thursday",
+                "QUINOA || EDAMAME SALAD",
+                "PEANUT BUTTER COOKIE",
+                "CARROT CAKE WHOOPIE PIE",
+                "DEVIL'S FOOD CAKE",
+                "CHOCOLATE CHIP COOKIE"
+            ]
+        ],
+        [
+            "GRILL",
+            [
+                "Monday",
+                "GRILLED CHICKEN BREAST",
+                "TURKEY CHILI || CHEESE CORN DOG",
+                "CHICKEN SANDWICH",
+                "HOT DOG",
+                "CHEESEBURGER",
+                "CRISPY SHOESTRING FRENCH FRIES"
+            ],
+            [
+                "Tuesday",
+                "GRILLED CHICKEN BREAST",
+                "HOT DOG",
+                "CHEESEBURGER",
+                "TURKEY BURGER",
+                "CHICKEN SANDWICH",
+                "CRISPY SHOESTRING FRENCH FRIES"
+            ],
+            [
+                "Wednesday",
+                "CHICKEN SANDWICH",
+                "CHEESEBURGER",
+                "HOT DOG",
+                "CHICKEN CHEESESTEAK WRAP",
+                "GRILLED CHICKEN BREAST",
+                "CRISPY SHOESTRING FRENCH FRIES"
+            ],
+            [
+                "Thursday",
+                "GRILLED CHICKEN BREAST",
+                "BACON || SPINACH TOPPED WAFFLE",
+                "CHICKEN SANDWICH",
+                "HOT DOG",
+                "CHEESEBURGER",
+                "CRISPY SHOESTRING FRENCH FRIES"
+            ]
+        ],
+        [
+            "HOME ZONE",
+            [
+                "Monday",
+                "STEAMED BROCCOLI FLORETS",
+                "COUNTRY BEEF GRAVY",
+                "DELMONICO POTATOES",
+                "TOMATO-GLAZED MEATLOAF",
+                "RATATOUILLE PENNE"
+            ],
+            [
+                "Tuesday",
+                "SAUTEED BASA",
+                "BLACK BEAN CAKES",
+                "GREEN BEANS || CARROTS",
+                "HONEY ORANGE ROASTED POTATOES"
+            ],
+            [
+                "Wednesday",
+                "MACARONI || CHEESE",
+                "ZUCCHINI || TOMATOES",
+                "COUSCOUS",
+                "BEEF TAGINE"
+            ],
+            [
+                "Thursday",
+                "ZESTY RED BEANS",
+                "CAJUN ROASTED PORK LOIN",
+                "SPICY CORN || TOMATOES",
+                "MOROCCAN VEGETABLE STEW"
+            ]
+        ],
+        [
+            "PIZZA",
+            [
+                "Monday",
+                "FARFALLE",
+                "BUFFALO CHICKEN PIZZA",
+                "CLASSIC CHEESE PIZZA",
+                "PEPPERONI PIZZA"
+            ],
+            [
+                "Tuesday",
+                "BACON || GRILLED POTATO FLATBREAD",
+                "CLASSIC CHEESE PIZZA",
+                "PEPPERONI PIZZA"
+            ],
+            [
+                "Wednesday",
+                "CLASSIC CHEESE PIZZA",
+                "PEPPERONI PIZZA",
+                "GRILLED VEGETABLE PIZZA",
+                "FARFALLE"
+            ],
+            [
+                "Thursday",
+                "CHICKEN FAJITA PIZZA",
+                "PEPPERONI PIZZA",
+                "CLASSIC CHEESE PIZZA"
+            ]
+        ],
+        [
+            "PRODUCE MARKET",
+            [
+                "Monday",
+                "TANGY KALE SLAW"
+            ],
+            [
+                "Tuesday",
+                "CAESAR SALAD"
+            ],
+            [
+                "Wednesday",
+                "MUSTARD-HORSERADISH COLESLAW"
+            ],
+            [
+                "Thursday",
+                "QUINOA || EDAMAME SALAD"
+            ]
+        ]
+    ],
+    [
+        "Danforth Lunch",
+        [
+            "BISTRO HOME ZONE",
+            [
+                "Sunday",
+                "PORK SAUSAGE PATTY",
+                "SCRAMBLED EGGS",
+                "BLUEBERRY BUTTERMILK PANCAKES",
+                "HASH BROWN POTATOES"
+            ],
+            [
+                "Monday",
+                "WASABI MASHED POTATOES",
+                "LEMON SESAME GREEN BEANS",
+                "CHICKEN NUGGETS WITH SWEET CHILI SAUCE"
+            ],
+            [
+                "Tuesday",
+                "MARINATED TOMATO SALAD",
+                "MEATBALL SANDWICH"
+            ],
+            [
+                "Wednesday",
+                "LOADED BBQ PORK WAFFLE FRIES",
+                "GARDEN VEGETABLES"
+            ],
+            [
+                "Thursday",
+                "CHICKEN PARMESAN",
+                "ROTINI MARINARA",
+                "BROCCOLI RABE WITH TOMATOES"
+            ],
+            [
+                "Friday",
+                "GARDEN VEGETABLES",
+                "CILANTRO-LIME RICE",
+                "BAKED COD WITH LEMON DILL SAUCE"
+            ]
+        ],
+        [
+            "BRICK OVEN",
+            [
+                "Sunday",
+                "BREAKFAST STROMBOLI WITH SAUSAGE",
+                "BREAKFAST STROMBOLI WITH SPINACH"
+            ],
+            [
+                "Monday",
+                "CLASSIC CHEESE PIZZA",
+                "MEAT LOVER'S PIZZA",
+                "CHEESELESS MARGHERITA PIZZA"
+            ],
+            [
+                "Tuesday",
+                "FRENCH DIP SANDWICH"
+            ],
+            [
+                "Wednesday",
+                "CHEESELESS VEGETABLE PIZZA",
+                "DELUXE PEPPERONI PIZZA",
+                "MEATBALL PIZZA"
+            ],
+            [
+                "Thursday",
+                "SPINACH AND BACON QUICHE",
+                "SPINACH PARMESAN QUICHE"
+            ],
+            [
+                "Friday",
+                "CHICKEN PARMESAN PIZZA",
+                "CLASSIC CHEESE PIZZA",
+                "CHEESELESS SPINACH AND ONION PIZZA"
+            ]
+        ],
+        [
+            "DELI/CHANGE",
+            [
+                "Sunday",
+                "BAGELS YOUR WAY",
+                "GARLIC POTATO CHIPS",
+                "SOUTHWEST TUNA CIABATTA"
+            ],
+            [
+                "Monday",
+                "RANCH POTATO CHIPS",
+                "ROAST BEEF || PROVOLONE PANINI"
+            ],
+            [
+                "Tuesday",
+                "TURKEY PEPPER WRAP",
+                "SALT || PEPPER CHIPS"
+            ],
+            [
+                "Wednesday",
+                "MEDITERRANEAN VEGETABLE WRAP",
+                "SIGNATURE CHIPS"
+            ],
+            [
+                "Thursday",
+                "TURKEY || PEPPER JACK PANINI",
+                "CAJUN POTATO CHIPS"
+            ],
+            [
+                "Friday",
+                "MESQUITE POTATO CHIPS",
+                "ROASTED VEGETABLE PITA POCKET"
+            ]
+        ],
+        [
+            "DESSERT",
+            [
+                "Sunday",
+                "POWDERED SUGAR DONUT BITES",
+                "CHOCOLATE CHIP COOKIE",
+                "DANISH PASTRY"
+            ],
+            [
+                "Monday",
+                "CHOCOLATE CHIP COOKIE",
+                "SPICED PEACH COBBLER"
+            ],
+            [
+                "Tuesday",
+                "BANANA PUDDING PARFAIT",
+                "CHOCOLATE CHIP COOKIE"
+            ],
+            [
+                "Wednesday",
+                "SWEET POTATO COFFEE CAKE",
+                "SUGAR COOKIE",
+                "CHOCOLATE CHIP COOKIE"
+            ],
+            [
+                "Thursday",
+                "CHOCOLATE CHIP COOKIE",
+                "BROWNIES"
+            ],
+            [
+                "Friday",
+                "CHOCOLATE CHIP COOKIE",
+                "LEMON CAKE"
+            ],
+            [
+                "Saturday",
+                "CHOCOLATE CHIP COOKIE"
+            ]
+        ],
+        [
+            "GRILL",
+            [
+                "Sunday",
+                "BBQ CHEDDAR GRILLED CHICKEN",
+                "CRISPY FRENCH FRIES"
+            ],
+            [
+                "Monday",
+                "LOCO MOCO"
+            ],
+            [
+                "Tuesday",
+                "CHILI CHEDDAR DOG",
+                "SWEET POTATO FRIES"
+            ],
+            [
+                "Wednesday",
+                "SOUTHWEST CHICKEN SANDWICH"
+            ],
+            [
+                "Thursday",
+                "GRILLED CHEESE WITH BACON",
+                "CRISPY FRENCH FRIES"
+            ],
+            [
+                "Friday",
+                "CHICKEN CHEESESTEAK",
+                "CRISPY FRENCH FRIES"
+            ]
+        ],
+        [
+            "MONGOLIAN GRILL",
+            [
+                "Sunday",
+                "EGG OMELET"
+            ],
+            [
+                "Monday",
+                "CHICKEN AND SAUSAGE JAMBALAYA"
+            ],
+            [
+                "Tuesday",
+                "SEASONED RICE",
+                "PORK TERIYAKI"
+            ],
+            [
+                "Wednesday",
+                "BROWN RICE",
+                "SEARED TILAPIA WITH CITRUS SLAW"
+            ],
+            [
+                "Thursday",
+                "LOADED HASH BROWNS WITH HAM"
+            ],
+            [
+                "Friday",
+                "MIXED GRILL"
+            ]
+        ],
+        [
+            "PRODUCE MARKET",
+            [
+                "Sunday",
+                "FRUIT AND YOGURT BAR"
+            ],
+            [
+                "Monday",
+                "SEAFOOD PASTA SALAD"
+            ],
+            [
+                "Tuesday",
+                "APPLE COLESLAW",
+                "SEAFOOD PASTA SALAD"
+            ],
+            [
+                "Wednesday",
+                "MACARONI SALAD"
+            ],
+            [
+                "Thursday",
+                "DILLED POTATO || EGG SALAD"
+            ],
+            [
+                "Friday",
+                "OLD-FASHIONED COLE SLAW"
+            ]
+        ],
+        [
+            "SAUTE",
+            [
+                "Sunday",
+                "CHICKEN TIKKA MASALA"
+            ],
+            [
+                "Monday",
+                "INSIDE OUT EGG ROLL"
+            ],
+            [
+                "Tuesday",
+                "SHRIMP || GRITS"
+            ],
+            [
+                "Wednesday",
+                "HAM, EGG, AND VEGETABLE BREAKFAST WRAP"
+            ],
+            [
+                "Thursday",
+                "CHICKEN || PENNE CACCIATORE"
+            ],
+            [
+                "Friday",
+                "CHICKEN BIRYANI"
+            ]
+        ],
+        [
+            "SOUP",
+            [
+                "Sunday",
+                "CHEDDAR CAULIFLOWER SOUP",
+                "FIVE BEAN SOUP",
+                "CHICKEN, VEGETABLE AND RICE SOUP"
+            ],
+            [
+                "Monday",
+                "LENTIL VEGETABLE SOUP",
+                "BROCCOLI CHEDDAR SOUP",
+                "CHICKEN || RICE SOUP FLORENTINE"
+            ],
+            [
+                "Tuesday",
+                "VEGETABLE BEAN AND RICE SOUP",
+                "CREAM OF MUSHROOM SOUP",
+                "TWO-BEAN CHILI SOUP"
+            ],
+            [
+                "Wednesday",
+                "ROASTED CORN CHOWDER",
+                "CURRIED TOMATO LENTIL SOUP",
+                "PASTA FAGIOLI"
+            ],
+            [
+                "Thursday",
+                "MUSHROOM BARLEY SOUP",
+                "BUTTERNUT SQUASH AND SWEET POTATO SOUP",
+                "CHILI CON CARNE"
+            ],
+            [
+                "Friday",
+                "HUNGARIAN CABBAGE || CAULIFLOWER SOUP",
+                "CHEDDAR JACK SOUP",
+                "SIX ONION SOUP"
+            ]
+        ],
+        [
+            "VEGAN",
+            [
+                "Sunday",
+                "VEGAN BANANA OATMEAL COOKIE",
+                "GARDEN  MALIBU BURGER",
+                "TOFU FAJITA"
+            ],
+            [
+                "Monday",
+                "VEGETABLE BARLEY PILAF",
+                "GARDEN  MALIBU BURGER",
+                "VEGAN APPLE CRISP"
+            ],
+            [
+                "Tuesday",
+                "GARDEN  MALIBU BURGER",
+                "VEGAN GINGER COCONUT RICE PUDDING",
+                "CELLENTANI MARINARA WITH SPINACH"
+            ],
+            [
+                "Wednesday",
+                "RATATOUILLE",
+                "GARDEN  MALIBU BURGER",
+                "BROWN RICE"
+            ],
+            [
+                "Thursday",
+                "TOFU FAJITA",
+                "VEGAN APPLE STRUDEL",
+                "GARDEN  MALIBU BURGER"
+            ],
+            [
+                "Friday",
+                "GARDEN  MALIBU BURGER",
+                "CHILLED GRILLED VEGETABLES",
+                "BARLEY CAKE",
+                "VEGAN PUMPKIN BARS"
+            ],
+            [
+                "Saturday",
+                "GARDEN  MALIBU BURGER"
+            ]
+        ]
+    ],
+    [
+        "Danforth Dinner",
+        [
+            "BISTRO HOME ZONE",
+            [
+                "Sunday",
+                "ITALIAN ROASTED VEGETABLES",
+                "SCALLION MASHED POTATOES",
+                "HONEY LEMON BBQ CHICKEN"
+            ],
+            [
+                "Monday",
+                "CALABACITAS",
+                "TURKEY BURRITO"
+            ],
+            [
+                "Tuesday",
+                "BAKED CHIPOTLE-ORANGE CHICKEN",
+                "ROASTED SWEET POTATOES",
+                "SPICY CORN || TOMATOES"
+            ],
+            [
+                "Thursday",
+                "GLAZED CARROTS",
+                "ROASTED HERBED TURKEY",
+                "TURKEY GRAVY",
+                "HOMESTYLE MASHED POTATOES"
+            ],
+            [
+                "Friday",
+                "CHEESY LASAGNA",
+                "GARLIC ROASTED VEGETABLES"
+            ],
+            [
+                "Saturday",
+                "CONFETTI RICE",
+                "COUNTRY CHICKEN GRAVY",
+                "CHICKEN NUGGETS",
+                "GARLIC BROCCOLI"
+            ]
+        ],
+        [
+            "BRICK OVEN",
+            [
+                "Sunday",
+                "BREAKFAST STROMBOLI WITH SAUSAGE",
+                "BREAKFAST STROMBOLI WITH SPINACH"
+            ],
+            [
+                "Monday",
+                "TURKEY, BACON AND RANCH MELT",
+                "TOMATO  MOZZARELLA  SPINACH MELT"
+            ],
+            [
+                "Tuesday",
+                "CHEESELESS VEGETABLE PIZZA",
+                "CLASSIC CHEESE PIZZA",
+                "ONION, PEPPERONCINI, SAUSAGE PIZZA"
+            ],
+            [
+                "Thursday",
+                "GRILLED VEGETABLE PIZZA",
+                "MEAT LOVER'S PIZZA"
+            ],
+            [
+                "Friday",
+                "CHICKEN PARMESAN PIZZA",
+                "CLASSIC CHEESE PIZZA"
+            ],
+            [
+                "Saturday",
+                "PEPPERONI PIZZA",
+                "CLASSIC CHEESE PIZZA"
+            ]
+        ],
+        [
+            "DELI/CHANGE",
+            [
+                "Sunday",
+                "SOUTHWEST TUNA CIABATTA",
+                "GARLIC POTATO CHIPS"
+            ],
+            [
+                "Monday",
+                "MINI CHIPOTLE CHICKEN SANDWICH",
+                "RANCH POTATO CHIPS"
+            ],
+            [
+                "Tuesday",
+                "THAI CHICKEN LETTUCE WRAPS",
+                "SALT || PEPPER CHIPS"
+            ],
+            [
+                "Thursday",
+                "GRILLED VEGETABLE QUESADILLA",
+                "CAJUN POTATO CHIPS"
+            ],
+            [
+                "Friday",
+                "CALIFORNIA TURKEY BACON WRAP",
+                "MESQUITE POTATO CHIPS"
+            ],
+            [
+                "Saturday",
+                "MINI ITALIAN SANDWICH",
+                "OLD BAY (R) POTATO CHIPS"
+            ]
+        ],
+        [
+            "DESSERT",
+            [
+                "Sunday",
+                "CRUNCHY S'MORES BAR",
+                "OATMEAL RAISIN COOKIE"
+            ],
+            [
+                "Monday",
+                "CREAMY CHEESECAKE PARFAIT",
+                "CHOCOLATE CHIP COOKIE"
+            ],
+            [
+                "Tuesday",
+                "OATMEAL RAISIN COOKIE",
+                "DULCE DE LECHE BROWNIE",
+                "CHOCOLATE CHIP COOKIE"
+            ],
+            [
+                "Wednesday",
+                "CHOCOLATE CHIP COOKIE"
+            ],
+            [
+                "Thursday",
+                "BROWNIE CUPCAKE",
+                "SUGAR COOKIE",
+                "CHOCOLATE CHIP COOKIE"
+            ],
+            [
+                "Friday",
+                "CHOCOLATE CHIP COOKIE",
+                "OATMEAL RAISIN COOKIE",
+                "STRAWBERRY-LEMON THIMBLE CAKE"
+            ],
+            [
+                "Saturday",
+                "BANANA PUDDING PARFAIT",
+                "CHOCOLATE CHIP COOKIE"
+            ]
+        ],
+        [
+            "GRILL",
+            [
+                "Sunday",
+                "BBQ CHEDDAR GRILLED CHICKEN",
+                "CRISPY FRENCH FRIES"
+            ],
+            [
+                "Monday",
+                "RACHEL PANINI",
+                "CRISS CUT FRIES"
+            ],
+            [
+                "Tuesday",
+                "ITALIAN MEAT LOVER'S PANINI",
+                "CRISPY FRENCH FRIES"
+            ],
+            [
+                "Thursday",
+                "ITALIAN SAUSAGE || PEPPERS SANDWICH",
+                "SEASONED TWISTER FRIES"
+            ],
+            [
+                "Friday",
+                "CHICKEN CHEESESTEAK",
+                "CRISPY FRENCH FRIES"
+            ],
+            [
+                "Saturday",
+                "ANGUS BURGER",
+                "CRISPY FRENCH FRIES"
+            ]
+        ],
+        [
+            "MONGOLIAN GRILL",
+            [
+                "Sunday",
+                "CHICKEN WITH VEGETABLES AND CILANTRO CHILI SAUCE"
+            ],
+            [
+                "Monday",
+                "SWEET || SOUR PORK",
+                "SEASONED RICE"
+            ],
+            [
+                "Tuesday",
+                "EGG OMELET"
+            ],
+            [
+                "Thursday",
+                "RICE NOODLE STIR FRY"
+            ],
+            [
+                "Friday",
+                "BEEF || BROCCOLI STIR-FRY",
+                "SEASONED RICE"
+            ],
+            [
+                "Saturday",
+                "SAUTEED SPINACH",
+                "GRILLED MESQUITE CHICKEN",
+                "MASHED POTATOES WITH CORN"
+            ]
+        ],
+        [
+            "PRODUCE MARKET",
+            [
+                "Monday",
+                "SEAFOOD PASTA SALAD"
+            ],
+            [
+                "Tuesday",
+                "APPLE COLESLAW"
+            ],
+            [
+                "Thursday",
+                "DILLED POTATO || EGG SALAD"
+            ],
+            [
+                "Friday",
+                "OLD-FASHIONED COLE SLAW"
+            ]
+        ],
+        [
+            "SAUTE",
+            [
+                "Sunday",
+                "RED CURRY CHICKEN"
+            ],
+            [
+                "Monday",
+                "CHEESY SHRIMP ALFREDO"
+            ],
+            [
+                "Tuesday",
+                "SPICY JERK CHICKEN || CELLENTANI"
+            ],
+            [
+                "Thursday",
+                "SAUTEED BRUSCHETTA RAVIOLI"
+            ],
+            [
+                "Friday",
+                "MALAYSIAN RICE"
+            ],
+            [
+                "Saturday",
+                "KADAI JHINGA MASALA"
+            ]
+        ],
+        [
+            "SOUP",
+            [
+                "Sunday",
+                "CHICKEN, VEGETABLE AND RICE SOUP",
+                "CHEDDAR CAULIFLOWER SOUP",
+                "FIVE BEAN SOUP"
+            ],
+            [
+                "Monday",
+                "CHICKEN || RICE SOUP FLORENTINE",
+                "LENTIL VEGETABLE SOUP",
+                "BROCCOLI CHEDDAR SOUP"
+            ],
+            [
+                "Tuesday",
+                "VEGETABLE BEAN AND RICE SOUP",
+                "CREAM OF MUSHROOM SOUP",
+                "TWO-BEAN CHILI SOUP"
+            ],
+            [
+                "Thursday",
+                "CHILI CON CARNE",
+                "BUTTERNUT SQUASH AND SWEET POTATO SOUP",
+                "MUSHROOM BARLEY SOUP"
+            ],
+            [
+                "Friday",
+                "NEW ENGLAND CLAM CHOWDER",
+                "VEGETABLE BEAN SOUP",
+                "CREAMY TOMATO BASIL SOUP"
+            ],
+            [
+                "Saturday",
+                "HUNGARIAN CABBAGE || CAULIFLOWER SOUP",
+                "CHEDDAR JACK SOUP",
+                "SIX ONION SOUP"
+            ]
+        ],
+        [
+            "VEGAN",
+            [
+                "Sunday",
+                "GARDEN  MALIBU BURGER",
+                "VEGAN BANANA OATMEAL COOKIE",
+                "VEGAN APPLE CRISP",
+                "VEGAN TWO BEAN SOFT TACOS"
+            ],
+            [
+                "Monday",
+                "VEGAN APPLE CRISP",
+                "GARDEN  MALIBU BURGER",
+                "FRESH TOMATO || BASIL PENNE"
+            ],
+            [
+                "Tuesday",
+                "GARDEN  MALIBU BURGER",
+                "CRISPY TOFU",
+                "SAUTEED KALE",
+                "BOLD BBQ SAUCE",
+                "BROWN RICE"
+            ],
+            [
+                "Wednesday",
+                "GARDEN  MALIBU BURGER"
+            ],
+            [
+                "Thursday",
+                "VEGAN APPLE STRUDEL",
+                "GARDEN  MALIBU BURGER",
+                "VEGGIE || BLACK BEAN SAUTE"
+            ],
+            [
+                "Friday",
+                "MU SHU TOFU",
+                "GARDEN  MALIBU BURGER",
+                "VEGAN PUMPKIN BARS",
+                "SEASONED RICE"
+            ],
+            [
+                "Saturday",
+                "GARDEN  MALIBU BURGER",
+                "BLACKENED TOFU WITH SPANISH RICE",
+                "VEGAN OATMEAL COOKIE"
+            ]
+        ]
+    ]
+]
