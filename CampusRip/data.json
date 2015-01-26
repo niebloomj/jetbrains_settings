@@ -6,9 +6,9 @@
             [
                 "Monday",
                 "BAGELS YOUR WAY",
-                "DONUT BITES",
                 "RASPBERRY WHITE CHOCOLATE SCONE",
-                "BANANA NUT MUFFIN"
+                "BANANA NUT MUFFIN",
+                "DONUT BITES"
             ],
             [
                 "Tuesday",
@@ -20,22 +20,22 @@
             [
                 "Wednesday",
                 "BAGELS YOUR WAY",
-                "LEMON POPPY SEED MUFFIN",
+                "BLUEBERRY SCONE",
                 "MOIST APPLE CRUMB CAKE",
-                "BLUEBERRY SCONE"
+                "LEMON POPPY SEED MUFFIN"
             ],
             [
                 "Thursday",
                 "BAGELS YOUR WAY",
+                "POWDERED SUGAR DONUT",
                 "HONEY BRAN MUFFIN",
-                "ORANGE CRANBERRY COFFEE CAKE",
-                "POWDERED SUGAR DONUT"
+                "ORANGE CRANBERRY COFFEE CAKE"
             ],
             [
                 "Friday",
                 "BAGELS YOUR WAY",
-                "CORN MUFFIN",
                 "BLUEBERRY SCONE",
+                "CORN MUFFIN",
                 "CINNAMON-SUGAR DONUT"
             ]
         ],
@@ -66,38 +66,38 @@
             "HOME ZONE",
             [
                 "Monday",
-                "PORK SAUSAGE PATTY",
-                "TURKEY BACON",
                 "FRENCH TOAST",
-                "SCRAMBLED EGGS"
+                "SCRAMBLED EGGS",
+                "PORK SAUSAGE PATTY",
+                "TURKEY BACON"
             ],
             [
                 "Tuesday",
                 "PANCAKES",
-                "SCRAMBLED EGGS",
+                "BACON",
                 "TURKEY SAUSAGE LINK",
-                "BACON"
+                "SCRAMBLED EGGS"
             ],
             [
                 "Wednesday",
                 "TURKEY BACON",
-                "SCRAMBLED EGGS",
                 "FRENCH TOAST",
-                "PORK SAUSAGE LINKS"
-            ],
-            [
-                "Thursday",
-                "TURKEY SAUSAGE PATTY",
-                "PANCAKES",
-                "BACON",
+                "PORK SAUSAGE LINKS",
                 "SCRAMBLED EGGS"
             ],
             [
+                "Thursday",
+                "PANCAKES",
+                "BACON",
+                "SCRAMBLED EGGS",
+                "TURKEY SAUSAGE PATTY"
+            ],
+            [
                 "Friday",
+                "FRENCH TOAST",
                 "PORK SAUSAGE PATTY",
                 "TURKEY BACON",
-                "SCRAMBLED EGGS",
-                "FRENCH TOAST"
+                "SCRAMBLED EGGS"
             ]
         ],
         [
@@ -154,22 +154,22 @@
             [
                 "Monday",
                 "CHOCOLATE CHIP COOKIE",
-                "VANILLA CAKE",
                 "LUCKY CHARMS (R) BAR",
-                "OATMEAL RAISIN COOKIE"
+                "OATMEAL RAISIN COOKIE",
+                "VANILLA CAKE"
             ],
             [
                 "Tuesday",
+                "CHOCOLATE CHIP COOKIE",
                 "SUGAR COOKIE",
                 "STICKY PECAN UPSIDE DOWN CUPCAKE",
-                "VEGAN BROWNIE",
-                "CHOCOLATE CHIP COOKIE"
+                "VEGAN BROWNIE"
             ],
             [
                 "Wednesday",
                 "FRENCH TOAST CRUNCH BARS",
-                "PEANUT BUTTER COOKIE",
                 "CHOCOLATE CHIP COOKIE",
+                "PEANUT BUTTER COOKIE",
                 "BANANA CAKE PARFAIT"
             ],
             [
@@ -191,11 +191,11 @@
             "GRILL",
             [
                 "Monday",
-                "TURKEY BURGER",
                 "GRILLED CHICKEN BREAST",
+                "TURKEY BURGER",
                 "SPICY CHICKEN CHIPOTLE SANDWICH",
-                "CHICKEN SANDWICH",
                 "HOT DOG",
+                "CHICKEN SANDWICH",
                 "CHEESEBURGER",
                 "CRISPY SHOESTRING FRENCH FRIES"
             ],
@@ -204,8 +204,8 @@
                 "GRILLED CHICKEN BREAST",
                 "TURKEY BURGER",
                 "REUBEN PANINI",
-                "CRISPY SHOESTRING FRENCH FRIES",
                 "CHEESEBURGER",
+                "CRISPY SHOESTRING FRENCH FRIES",
                 "CHICKEN SANDWICH",
                 "HOT DOG"
             ],
@@ -214,29 +214,29 @@
                 "SALSA CHEDDAR QUESADILLA",
                 "GRILLED CHICKEN BREAST",
                 "TURKEY BURGER",
-                "CHICKEN SANDWICH",
                 "HOT DOG",
+                "CHICKEN SANDWICH",
                 "CHEESEBURGER",
                 "CRISPY SHOESTRING FRENCH FRIES"
             ],
             [
                 "Thursday",
                 "SLOPPY JOE",
-                "TURKEY BURGER",
-                "GRILLED CHICKEN BREAST",
-                "CRISPY SHOESTRING FRENCH FRIES",
-                "CHEESEBURGER",
-                "HOT DOG",
-                "CHICKEN SANDWICH"
-            ],
-            [
-                "Friday",
-                "FISH TACO WITH KALE SLAW",
                 "GRILLED CHICKEN BREAST",
                 "TURKEY BURGER",
                 "CHICKEN SANDWICH",
                 "HOT DOG",
                 "CHEESEBURGER",
+                "CRISPY SHOESTRING FRENCH FRIES"
+            ],
+            [
+                "Friday",
+                "FISH TACO WITH KALE SLAW",
+                "GRILLED CHICKEN BREAST",
+                "CHICKEN SANDWICH",
+                "TURKEY BURGER",
+                "CHEESEBURGER",
+                "HOT DOG",
                 "CRISPY SHOESTRING FRENCH FRIES"
             ]
         ],

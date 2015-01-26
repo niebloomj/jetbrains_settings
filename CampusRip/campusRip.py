@@ -61,7 +61,7 @@ def processPageSource(site, week):
 
 for site in sites:
 	processPageSource(site, fullweek)
-with open('data.txt', 'w') as outfile:
+with open('data.json', 'w') as outfile:
 	json.dump(dataArray, outfile, indent=4, separators=(',', ': '))
 
 
