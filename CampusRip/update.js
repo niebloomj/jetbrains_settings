@@ -32,7 +32,8 @@ function update() {
                                         //Set the name of the food
                                         menuObject.set("foodItem", data[key][i][property][j].split("%20").join(" ").split(",")[0]);
                                         //Set the mealTime
-                                        menuObject.set("calories", data[key][i][property][j].split("%20").join(" ").split(",")[1]);
+                                        menuObject.set("calories", parseInt(data[key][i][property][j].split("%20").join(" ").split(",")[1]));
+                                        menuObject.set("protein", parseInt(data[key][i][property][j].split("%20").join(" ").split(",")[2]));
                                         if (restNum == 1) {
                                             menuObject.set("mealTime", 1);
                                         } else if (restNum == 2 || restNum == 4) {
