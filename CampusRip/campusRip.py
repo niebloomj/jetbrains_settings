@@ -54,9 +54,26 @@ def processPageSource(site, week):
 				continue
 			menuText = dayMenu.split("menuTxt")
 			for dayItem in menuText:
-				rnSplit = dayItem.split("RN=")
-				if len(rnSplit) > 1:
-					processElem(rnSplit[1], 3)
+				nutSplit = dayItem.split('<a href="')
+				if len(nutSplit) > 1:
+					nutSplit = nutSplit[1].split('"')[0]
+					nutSplit = nutSplit.replace(" ","%20")
+					rnSplit = nutSplit.split("RN=")[1].replace("%20"," ")
+					print(nutSplit)
+					try:
+						nutritionSource = getPageSource(nutSplit)
+						calories = nutritionSource.split("lblCal")[1]
+						calories = calories.split('RDANutValue">')[1]
+						calories = calories.split('<')[0]
+						protein = nutritionSource.split("lblProtein")[1]
+						protein = protein.split('RDANutValue">')[1]
+						protein = protein.split('<')[0]
+						# print(nutritionSource)
+						# print(rnSplit)
+						dataArray[restaurantNum][stationNum][stationDayNum].append(rnSplit +"," +calories+"," +protein)
+					except:
+						dataArray[restaurantNum][stationNum][stationDayNum].append(rnSplit + 
+							",Not Available,Not Available,Not Available,Not Available")
 		dayNum = 0
 
 for site in sites:

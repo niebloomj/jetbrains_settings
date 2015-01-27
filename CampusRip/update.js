@@ -19,19 +19,20 @@ function update() {
                             for (var property in data[key][i]) {
                                 for (var j = 1; j < data[key][i][property].length; j++) {
                                     if (data[key][i][property][j].length != 1) {
-                                    	//Set Table
+                                        //Set Table
+                                        var MenuObject = Parse.Object.extend("Menu");
+                                        var menuObject = new MenuObject();
                                         if (restNum >= 1 && restNum <= 3) {
-                                            var MenuObject = Parse.Object.extend("testDoug");
-                                            var menuObject = new MenuObject();
-                                        } else if (restNum >= 4 && restNum <= 6){
-                                        	var MenuObject = Parse.Object.extend("testDanf");
-                                            var menuObject = new MenuObject();
+                                            menuObject.set("Restaurant", "Douglass");
+                                        } else if (restNum >= 4 && restNum <= 6) {
+                                        	menuObject.set("Restaurant", "Danforth");
                                         }
                                         //Set StationID
                                         menuObject.set("stationID", data[key][i][0]);
                                         //Set the name of the food
-                                        menuObject.set("foodItem", data[key][i][property][j]);
+                                        menuObject.set("foodItem", data[key][i][property][j].split("%20").join(" ").split(",")[0]);
                                         //Set the mealTime
+                                        menuObject.set("calories", data[key][i][property][j].split("%20").join(" ").split(",")[1]);
                                         if (restNum == 1) {
                                             menuObject.set("mealTime", 1);
                                         } else if (restNum == 2 || restNum == 4) {
