@@ -1,4 +1,5 @@
 Parse.initialize("aEGq7Uw6GgqbGZo8JWxPQAEYdxSgexrv9zLLXVJu", "ahEsV3cewyapjRJ7Wudks47q10eh9fGnerBb3pBy");
+var jsonFile = '1_18_2015.json';
 var year = 2015;
 var month = 1;
 var day = 18;
@@ -7,7 +8,7 @@ function update() {
     console.log("Update Started");
     restNum = 0;
     $(function() {
-        $.getJSON('data.json', function(data) {
+        $.getJSON(jsonFile, function(data) {
             var items = [];
             for (var key in data) {
                 if (typeof data[key] === "object") {
@@ -34,6 +35,8 @@ function update() {
                                         //Set the mealTime
                                         menuObject.set("calories", parseInt(data[key][i][property][j].split("%20").join(" ").split(",")[1]));
                                         menuObject.set("protein", parseInt(data[key][i][property][j].split("%20").join(" ").split(",")[2]));
+                                        menuObject.set("carbs", parseInt(data[key][i][property][j].split("%20").join(" ").split(",")[3]));
+                                        menuObject.set("colest", parseInt(data[key][i][property][j].split("%20").join(" ").split(",")[4]));
                                         if (restNum == 1) {
                                             menuObject.set("mealTime", 1);
                                         } else if (restNum == 2 || restNum == 4) {

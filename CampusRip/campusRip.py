@@ -1,11 +1,13 @@
 import json
 from urllib.request import urlopen
 
-sites   = ["http://www.campusdish.com/en-US/CSNE/Rochester/Menus/DouglassDiningCenter.htm?LocationName=Douglass%20Dining%20Center&MealID=1&OrgID=195030&Date=1_18_2015&ShowPrice=False&ShowNutrition=True",
-		"http://www.campusdish.com/en-US/CSNE/Rochester/Menus/DouglassDiningCenter.htm?LocationName=Douglass%20Dining%20Center&MealID=16&OrgID=195030&Date=1_18_2015&ShowPrice=False&ShowNutrition=True",
-		"http://www.campusdish.com/en-US/CSNE/Rochester/Menus/DouglassDiningCenter.htm?LocationName=Douglass%20Dining%20Center&MealID=17&OrgID=195030&Date=1_18_2015&ShowPrice=False&ShowNutrition=True",
-		"http://www.campusdish.com/en-US/CSNE/Rochester/Menus/DanforthFreshFoodCompany.htm?LocationName=Danforth%20Fresh%20Food%20Company&MealID=16&OrgID=195030&Date=1_18_2015&ShowPrice=False&ShowNutrition=True",
-		"http://www.campusdish.com/en-US/CSNE/Rochester/Menus/DanforthFreshFoodCompany.htm?LocationName=Danforth%20Fresh%20Food%20Company&MealID=17&OrgID=195030&Date=1_18_2015&ShowPrice=False&ShowNutrition=True"]
+date = "1_18_2015"
+
+sites   = ["http://www.campusdish.com/en-US/CSNE/Rochester/Menus/DouglassDiningCenter.htm?LocationName=Douglass%20Dining%20Center&MealID=1&OrgID=195030&Date="+date+"&ShowPrice=False&ShowNutrition=True",
+		"http://www.campusdish.com/en-US/CSNE/Rochester/Menus/DouglassDiningCenter.htm?LocationName=Douglass%20Dining%20Center&MealID=16&OrgID=195030&Date="+date+"&ShowPrice=False&ShowNutrition=True",
+		"http://www.campusdish.com/en-US/CSNE/Rochester/Menus/DouglassDiningCenter.htm?LocationName=Douglass%20Dining%20Center&MealID=17&OrgID=195030&Date="+date+"&ShowPrice=False&ShowNutrition=True",
+		"http://www.campusdish.com/en-US/CSNE/Rochester/Menus/DanforthFreshFoodCompany.htm?LocationName=Danforth%20Fresh%20Food%20Company&MealID=16&OrgID=195030&Date="+date+"&ShowPrice=False&ShowNutrition=True",
+		"http://www.campusdish.com/en-US/CSNE/Rochester/Menus/DanforthFreshFoodCompany.htm?LocationName=Danforth%20Fresh%20Food%20Company&MealID=17&OrgID=195030&Date="+date+"&ShowPrice=False&ShowNutrition=True"]
 fullweek = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
 restaurants = ["Douglas Breakfast", "Douglas Lunch", "Douglas Dinner","Danforth Lunch","Danforth Dinner"]
 dataArray = []
@@ -68,17 +70,20 @@ def processPageSource(site, week):
 						protein = nutritionSource.split("lblProtein")[1]
 						protein = protein.split('RDANutValue">')[1]
 						protein = protein.split('<')[0]
-						# print(nutritionSource)
-						# print(rnSplit)
-						dataArray[restaurantNum][stationNum][stationDayNum].append(rnSplit +"," +calories+"," +protein)
+						carb = nutritionSource.split("lblCarb")[1]
+						carb = carb.split('RDANutValue">')[1]
+						carb = carb.split('<')[0]
+						colest = nutritionSource.split("lblColest")[1]
+						colest = colest.split('RDANutValue">')[1]
+						colest = colest.split('<')[0]
+						dataArray[restaurantNum][stationNum][stationDayNum].append(rnSplit +"," +calories+"," +protein+"," +carb+"," +colest)
 					except:
-						dataArray[restaurantNum][stationNum][stationDayNum].append(rnSplit + 
-							",Not Available,Not Available,Not Available,Not Available")
+						dataArray[restaurantNum][stationNum][stationDayNum].append(rnSplit + ",0,0,0,0")
 		dayNum = 0
 
 for site in sites:
 	processPageSource(site, fullweek)
-with open('data.json', 'w') as outfile:
+with open(date+'.json', 'w') as outfile:
 	json.dump(dataArray, outfile, indent=4, separators=(',', ': '))
 
 

@@ -1,0 +1,1189 @@
+[
+    [
+        "Douglas Breakfast",
+        [
+            "BREAKFAST PASTRIES",
+            [
+                "Monday",
+                "DONUT BITES,208.22,2.29,23.05,8.13",
+                "BANANA NUT MUFFIN,237.05,2.97,36.98,7.37",
+                "BAGELS YOUR WAY,0,0,0,0",
+                "RASPBERRY WHITE CHOCOLATE SCONE,141.8,2.2,20.16,1.76"
+            ],
+            [
+                "Tuesday",
+                "VANILLA ICED DONUT WITH SPRINKLES,500.17,4.11,69.34,0.12",
+                "BLUEBERRY MUFFIN,230.54,2.36,41.03,9.17",
+                "PINEAPPLE HUSHPUPPIES,152.41,1.55,13.14,5.68",
+                "BAGELS YOUR WAY,0,0,0,0"
+            ],
+            [
+                "Wednesday",
+                "BAGELS YOUR WAY,0,0,0,0",
+                "BLUEBERRY SCONE,151.83,2.02,22.71,0.19",
+                "MOIST APPLE CRUMB CAKE,300,2.96,52.46,11.64",
+                "LEMON POPPY SEED MUFFIN,223.33,2.52,38.16,8.6"
+            ],
+            [
+                "Thursday",
+                "POWDERED SUGAR DONUT,283.47,4.07,29.61,0.12",
+                "BAGELS YOUR WAY,0,0,0,0",
+                "HONEY BRAN MUFFIN,246.8,2.97,44.22,0.52",
+                "ORANGE CRANBERRY COFFEE CAKE,287.31,2.65,46.34,2.84"
+            ],
+            [
+                "Friday",
+                "BAGELS YOUR WAY,0,0,0,0",
+                "BLUEBERRY SCONE,151.83,2.02,22.71,0.19",
+                "CINNAMON-SUGAR DONUT,282.55,4.09,29.5,0.12",
+                "CORN MUFFIN,235.45,3.19,41.13,39.96"
+            ]
+        ],
+        [
+            "GRILL",
+            [
+                "Monday",
+                "EGG OMELET,90.01,5.67,2.84,175.06"
+            ],
+            [
+                "Tuesday",
+                "EGG OMELET,90.01,5.67,2.84,175.06"
+            ],
+            [
+                "Wednesday",
+                "EGG OMELET,90.01,5.67,2.84,175.06"
+            ],
+            [
+                "Thursday",
+                "EGG OMELET,90.01,5.67,2.84,175.06"
+            ],
+            [
+                "Friday",
+                "EGG OMELET,90.01,5.67,2.84,175.06"
+            ]
+        ],
+        [
+            "HOME ZONE",
+            [
+                "Monday",
+                "PORK SAUSAGE PATTY,203.16,4.68,0.51,34.45",
+                "FRENCH TOAST,179.59,7.68,27.79,81.49",
+                "SCRAMBLED EGGS,160.5,11.12,0.83,295.12",
+                "TURKEY BACON,21.92,2.42,0.42,10.79"
+            ],
+            [
+                "Tuesday",
+                "SCRAMBLED EGGS,160.5,11.12,0.83,295.12",
+                "BACON,42.74,2.34,0.29,8.61",
+                "TURKEY SAUSAGE LINK,50.65,4.26,0.45,17.15",
+                "PANCAKES,141.23,4.28,16.8,33.15"
+            ],
+            [
+                "Wednesday",
+                "FRENCH TOAST,179.59,7.68,27.79,81.49",
+                "SCRAMBLED EGGS,160.5,11.12,0.83,295.12",
+                "PORK SAUSAGE LINKS,133.13,2.83,0.6,21.94",
+                "TURKEY BACON,21.92,2.42,0.42,10.79"
+            ],
+            [
+                "Thursday",
+                "TURKEY SAUSAGE PATTY,38.98,4.96,0.35,19.49",
+                "PANCAKES,141.23,4.28,16.8,33.15",
+                "SCRAMBLED EGGS,160.5,11.12,0.83,295.12",
+                "BACON,42.74,2.34,0.29,8.61"
+            ],
+            [
+                "Friday",
+                "FRENCH TOAST,179.59,7.68,27.79,81.49",
+                "SCRAMBLED EGGS,160.5,11.12,0.83,295.12",
+                "TURKEY BACON,21.92,2.42,0.42,10.79",
+                "PORK SAUSAGE PATTY,203.16,4.68,0.51,34.45"
+            ]
+        ],
+        [
+            "PIZZA",
+            [
+                "Monday",
+                "OLD FASHIONED OATMEAL,147.86,5.34,27.24,0"
+            ],
+            [
+                "Tuesday",
+                "OLD FASHIONED OATMEAL,147.86,5.34,27.24,0"
+            ],
+            [
+                "Wednesday",
+                "OLD FASHIONED OATMEAL,147.86,5.34,27.24,0"
+            ],
+            [
+                "Thursday",
+                "OLD FASHIONED OATMEAL,147.86,5.34,27.24,0"
+            ],
+            [
+                "Friday",
+                "OLD FASHIONED OATMEAL,147.86,5.34,27.24,0"
+            ]
+        ],
+        [
+            "PRODUCE MARKET",
+            [
+                "Monday",
+                "FRUIT AND YOGURT BAR,0,0,0,0"
+            ],
+            [
+                "Tuesday",
+                "FRUIT AND YOGURT BAR,0,0,0,0"
+            ],
+            [
+                "Wednesday",
+                "FRUIT AND YOGURT BAR,0,0,0,0"
+            ],
+            [
+                "Thursday",
+                "FRUIT AND YOGURT BAR,0,0,0,0"
+            ],
+            [
+                "Friday",
+                "FRUIT AND YOGURT BAR,0,0,0,0"
+            ]
+        ]
+    ],
+    [
+        "Douglas Lunch",
+        [
+            "DESSERT",
+            [
+                "Monday",
+                "CHOCOLATE CHIP COOKIE,124.76,1.2,16.87,3.49",
+                "LUCKY CHARMS (R) BAR,142.79,1.38,23.95,0.01",
+                "OATMEAL RAISIN COOKIE,105.27,1.53,17.15,4.56",
+                "VANILLA CAKE,320.8,2.03,55.74,4.93"
+            ],
+            [
+                "Tuesday",
+                "STICKY PECAN UPSIDE DOWN CUPCAKE,378.62,3.17,49.21,9.67",
+                "SUGAR COOKIE,124.2,1.28,17.61,6.82",
+                "VEGAN BROWNIE,411.63,4.06,55.51,0",
+                "CHOCOLATE CHIP COOKIE,124.76,1.2,16.87,3.49"
+            ],
+            [
+                "Wednesday",
+                "PEANUT BUTTER COOKIE,126.04,1.97,17.04,5.69",
+                "CHOCOLATE CHIP COOKIE,124.76,1.2,16.87,3.49",
+                "BANANA CAKE PARFAIT,106.91,1.05,13.74,1.94",
+                "FRENCH TOAST CRUNCH BARS,347.91,2.78,64.2,15.26"
+            ],
+            [
+                "Thursday",
+                "ROCKY ROAD BROWNIE,271.51,2.96,44.45,0.65",
+                "BROWNIE OREO(R) PUDDING PARFAIT,200.06,1.97,30.82,0.42",
+                "CHOCOLATE CHIP COOKIE,124.76,1.2,16.87,3.49",
+                "OATMEAL RAISIN COOKIE,105.27,1.53,17.15,4.56"
+            ],
+            [
+                "Friday",
+                "PEANUT BUTTER COOKIE,126.04,1.97,17.04,5.69",
+                "CHOCOLATE CHIP COOKIE,124.76,1.2,16.87,3.49",
+                "RASPBERRY JELL-O (R) PARFAIT,122.79,1.94,25.13,0.02",
+                "CHOCOLATE CRINKLE WHOOPIE PIE,263.03,2.17,46.94,0.13"
+            ]
+        ],
+        [
+            "GRILL",
+            [
+                "Monday",
+                "TURKEY BURGER,336.15,20.48,26.7,81.99",
+                "CHICKEN SANDWICH,437.5,16.04,39.59,31.43",
+                "HOT DOG,321.77,10.28,27.08,34.61",
+                "CHEESEBURGER,310.51,19.74,26.49,55.62",
+                "GRILLED CHICKEN BREAST,160.41,24.24,0.67,66.02",
+                "SPICY CHICKEN CHIPOTLE SANDWICH,552.84,16.48,41.49,37.98",
+                "CRISPY SHOESTRING FRENCH FRIES,197.41,2.37,22.67,0"
+            ],
+            [
+                "Tuesday",
+                "REUBEN PANINI,472.68,23.41,35.39,55.97",
+                "GRILLED CHICKEN BREAST,160.41,24.24,0.67,66.02",
+                "CHEESEBURGER,310.51,19.74,26.49,55.62",
+                "CRISPY SHOESTRING FRENCH FRIES,197.41,2.37,22.67,0",
+                "TURKEY BURGER,336.15,20.48,26.7,81.99",
+                "CHICKEN SANDWICH,437.5,16.04,39.59,31.43",
+                "HOT DOG,321.77,10.28,27.08,34.61"
+            ],
+            [
+                "Wednesday",
+                "TURKEY BURGER,336.15,20.48,26.7,81.99",
+                "CHICKEN SANDWICH,437.5,16.04,39.59,31.43",
+                "HOT DOG,321.77,10.28,27.08,34.61",
+                "GRILLED CHICKEN BREAST,160.41,24.24,0.67,66.02",
+                "CHEESEBURGER,310.51,19.74,26.49,55.62",
+                "CRISPY SHOESTRING FRENCH FRIES,197.41,2.37,22.67,0",
+                "SALSA CHEDDAR QUESADILLA,264,13.13,15.5,44.65"
+            ],
+            [
+                "Thursday",
+                "GRILLED CHICKEN BREAST,160.41,24.24,0.67,66.02",
+                "CHEESEBURGER,310.51,19.74,26.49,55.62",
+                "CRISPY SHOESTRING FRENCH FRIES,197.41,2.37,22.67,0",
+                "TURKEY BURGER,336.15,20.48,26.7,81.99",
+                "CHICKEN SANDWICH,437.5,16.04,39.59,31.43",
+                "HOT DOG,321.77,10.28,27.08,34.61",
+                "SLOPPY JOE,307.78,17.1,41.43,27.36"
+            ],
+            [
+                "Friday",
+                "FISH TACO WITH KALE SLAW,160.07,8.21,16.45,19.19",
+                "TURKEY BURGER,336.15,20.48,26.7,81.99",
+                "CHICKEN SANDWICH,437.5,16.04,39.59,31.43",
+                "HOT DOG,321.77,10.28,27.08,34.61",
+                "GRILLED CHICKEN BREAST,160.41,24.24,0.67,66.02",
+                "CHEESEBURGER,310.51,19.74,26.49,55.62",
+                "CRISPY SHOESTRING FRENCH FRIES,197.41,2.37,22.67,0"
+            ]
+        ],
+        [
+            "HOME ZONE",
+            [
+                "Monday",
+                "KUNG PAO PORK,146.3,12.07,9.92,29.13",
+                "BASMATI RICE,134.34,3.25,29.48,0",
+                "FRESH ZUCCHINI,11.61,0.88,2.08,0",
+                "FRESH TOMATO || BASIL PENNE,347.19,9.97,58.45,0"
+            ],
+            [
+                "Tuesday",
+                "STEAMED FRESH BROCCOLI,19.85,1.35,4.07,0",
+                "BLACKENED TOFU WITH SPANISH RICE,370.64,20.83,29.23,0",
+                "HEARTY LASAGNA,288.93,21.82,23.63,90.55"
+            ],
+            [
+                "Wednesday",
+                "SZECHUAN GREEN BEANS,64.15,2.5,11.91,0.01",
+                "QUINOA CAKE WITH TOMATO CHUTNEY,289.57,10.03,42.47,0.04",
+                "GENERAL TSO'S CHICKEN,285.41,9.54,49.34,24.78",
+                "VEGGIE || BLACK BEAN SAUTE,270.14,7.74,45.97,0.43"
+            ],
+            [
+                "Thursday",
+                "ITALIAN ROASTED VEGETABLES,100.04,1.91,10.9,0",
+                "ROTINI MARINARA,141.01,5.12,26.83,1.73",
+                "CHICKEN PICCATA,269.55,25.81,9.89,67.14",
+                "BUTTERNUT SQUASH || TOMATO BARLEY,343.26,7.52,64.55,0.01"
+            ],
+            [
+                "Friday",
+                "MEDITERRANEAN STIR-FRY,248.23,6.69,35.85,0.49",
+                "CILANTRO-LIME RICE,141.5,3.35,29.06,0",
+                "PUERCO COMINO,412.84,26.53,31.23,87",
+                "VEGETABLE MEDLEY,43.48,1.28,5.36,0"
+            ]
+        ],
+        [
+            "PIZZA",
+            [
+                "Monday",
+                "MINI CHEESESTEAK CALZONE,307.46,14.84,37.7,29.06",
+                "CLASSIC CHEESE PIZZA,249.57,13.36,32.72,15.52",
+                "PEPPERONI PIZZA,278.25,14.43,32.82,21.24",
+                "FARFALLE,612.35,22.11,125.87,0"
+            ],
+            [
+                "Tuesday",
+                "ONION, PEPPERONCINI, SAUSAGE PIZZA,306.16,15.3,34.21,24.85",
+                "CLASSIC CHEESE PIZZA,249.57,13.36,32.72,15.52",
+                "PEPPERONI PIZZA,278.25,14.43,32.82,21.24"
+            ],
+            [
+                "Wednesday",
+                "CLASSIC CHEESE PIZZA,249.57,13.36,32.72,15.52",
+                "PEPPERONI PIZZA,278.25,14.43,32.82,21.24",
+                "SAUSAGE, ONION || PEPPER STROMBOLI,324.98,15.15,33.39,29.93",
+                "FARFALLE,612.35,22.11,125.87,0"
+            ],
+            [
+                "Thursday",
+                "CLASSIC CHEESE PIZZA,249.57,13.36,32.72,15.52",
+                "PEPPERONI PIZZA,278.25,14.43,32.82,21.24",
+                "PEPPERONI MELT,324.57,15.28,42.81,23.21"
+            ],
+            [
+                "Friday",
+                "CLASSIC CHEESE PIZZA,249.57,13.36,32.72,15.52",
+                "PEPPERONI PIZZA,278.25,14.43,32.82,21.24",
+                "MARGHERITA PIZZA,244.53,13.16,31.89,15.31",
+                "FARFALLE,612.35,22.11,125.87,0"
+            ]
+        ],
+        [
+            "PRODUCE MARKET",
+            [
+                "Monday",
+                "TANGY KALE SLAW,39.99,0.83,5.13,1.09"
+            ],
+            [
+                "Tuesday",
+                "FRUITED BULGUR SALAD,85.28,2.54,19.68,0"
+            ],
+            [
+                "Wednesday",
+                "QUINOA || EDAMAME SALAD,101.36,5.04,17.61,0"
+            ],
+            [
+                "Thursday",
+                "CAESAR SALAD,83.25,2.04,4.49,3.02"
+            ],
+            [
+                "Friday",
+                "RED POTATO SALAD,279.94,2.07,14.4,26.27"
+            ]
+        ]
+    ],
+    [
+        "Douglas Dinner",
+        [
+            "DESSERT",
+            [
+                "Monday",
+                "PEANUT BUTTER COOKIE,126.04,1.97,17.04,5.69",
+                "CHOCOLATE CHIP COOKIE,124.76,1.2,16.87,3.49",
+                "TANGY KALE SLAW,39.99,0.83,5.13,1.09",
+                "RAINBOW SPRINKLE WHOOPIE PIE,196.98,2.08,30.22,20.3",
+                "STRAWBERRY-MINT SHORTCAKE,208.08,2.94,28.97,0.28"
+            ],
+            [
+                "Tuesday",
+                "APPLE BETTY,199.84,2.23,40.68,0.13",
+                "GRILLED POUND CAKE || STRAWBERRIES,204.17,1.79,24.84,20.77",
+                "SUGAR COOKIE,124.2,1.28,17.61,6.82",
+                "CHOCOLATE CHIP COOKIE,124.76,1.2,16.87,3.49",
+                "CAESAR SALAD,83.25,2.04,4.49,3.02"
+            ],
+            [
+                "Wednesday",
+                "BROWNIE CUPCAKE,134.59,1.55,23.69,0.09",
+                "CHOCOLATE CHIP COOKIE,124.76,1.2,16.87,3.49",
+                "OATMEAL RAISIN COOKIE,105.27,1.53,17.15,4.56",
+                "PEANUT BUTTER PRETZEL CEREAL BAR,300.42,7.08,46.58,0",
+                "MUSTARD-HORSERADISH COLESLAW,91.45,0.83,6.31,0"
+            ],
+            [
+                "Thursday",
+                "CARROT CAKE WHOOPIE PIE,176,2.29,24.99,22.1",
+                "PEANUT BUTTER COOKIE,126.04,1.97,17.04,5.69",
+                "CHOCOLATE CHIP COOKIE,124.76,1.2,16.87,3.49",
+                "QUINOA || EDAMAME SALAD,101.36,5.04,17.61,0",
+                "DEVIL'S FOOD CAKE,359.86,3.53,39.82,52.34"
+            ]
+        ],
+        [
+            "GRILL",
+            [
+                "Monday",
+                "TURKEY CHILI || CHEESE CORN DOG,396.52,17.95,33.94,55.48",
+                "CHICKEN SANDWICH,437.5,16.04,39.59,31.43",
+                "HOT DOG,321.77,10.28,27.08,34.61",
+                "GRILLED CHICKEN BREAST,160.41,24.24,0.67,66.02",
+                "CHEESEBURGER,310.51,19.74,26.49,55.62",
+                "CRISPY SHOESTRING FRENCH FRIES,197.41,2.37,22.67,0"
+            ],
+            [
+                "Tuesday",
+                "GRILLED CHICKEN BREAST,160.41,24.24,0.67,66.02",
+                "CHEESEBURGER,310.51,19.74,26.49,55.62",
+                "CRISPY SHOESTRING FRENCH FRIES,197.41,2.37,22.67,0",
+                "TURKEY BURGER,336.15,20.48,26.7,81.99",
+                "CHICKEN SANDWICH,437.5,16.04,39.59,31.43",
+                "HOT DOG,321.77,10.28,27.08,34.61"
+            ],
+            [
+                "Wednesday",
+                "CHEESEBURGER,310.51,19.74,26.49,55.62",
+                "CHICKEN CHEESESTEAK WRAP,189.39,11.6,17.03,35.5",
+                "GRILLED CHICKEN BREAST,160.41,24.24,0.67,66.02",
+                "CRISPY SHOESTRING FRENCH FRIES,197.41,2.37,22.67,0",
+                "CHICKEN SANDWICH,437.5,16.04,39.59,31.43",
+                "HOT DOG,321.77,10.28,27.08,34.61"
+            ],
+            [
+                "Thursday",
+                "CHEESEBURGER,310.51,19.74,26.49,55.62",
+                "CRISPY SHOESTRING FRENCH FRIES,197.41,2.37,22.67,0",
+                "BACON || SPINACH TOPPED WAFFLE,278.66,14.73,15.72,198.97",
+                "CHICKEN SANDWICH,437.5,16.04,39.59,31.43",
+                "HOT DOG,321.77,10.28,27.08,34.61",
+                "GRILLED CHICKEN BREAST,160.41,24.24,0.67,66.02"
+            ]
+        ],
+        [
+            "HOME ZONE",
+            [
+                "Monday",
+                "STEAMED BROCCOLI FLORETS,20.33,1.37,4.19,0",
+                "DELMONICO POTATOES,207,7.12,24.69,18.74",
+                "COUNTRY BEEF GRAVY,34.93,0.83,2.76,1.21",
+                "TOMATO-GLAZED MEATLOAF,253.4,18.86,20.55,63.21",
+                "RATATOUILLE PENNE,413.83,10.11,58.47,0"
+            ],
+            [
+                "Tuesday",
+                "HONEY ORANGE ROASTED POTATOES,113.53,2.41,23.34,0",
+                "GREEN BEANS || CARROTS,45.12,1.39,6.95,0",
+                "BLACK BEAN CAKES,378.36,21.82,36.09,68.44",
+                "SAUTEED BASA,100.14,12.64,0.38,45.41"
+            ],
+            [
+                "Wednesday",
+                "COUSCOUS,104.92,3.81,21.27,0.57",
+                "BEEF TAGINE,256.77,20.57,27.89,39.29",
+                "MACARONI || CHEESE,312.2,15.46,28.74,42.07",
+                "ZUCCHINI || TOMATOES,43.44,1.26,6.98,0"
+            ],
+            [
+                "Thursday",
+                "ZESTY RED BEANS,157.57,9.97,23.06,5.11",
+                "CAJUN ROASTED PORK LOIN,179.89,25.22,0.96,78.6",
+                "SPICY CORN || TOMATOES,116.97,2.38,17.32,0",
+                "MOROCCAN VEGETABLE STEW,280.06,8.38,49.5,0.47"
+            ]
+        ],
+        [
+            "PIZZA",
+            [
+                "Monday",
+                "CLASSIC CHEESE PIZZA,249.57,13.36,32.72,15.52",
+                "PEPPERONI PIZZA,278.25,14.43,32.82,21.24",
+                "BUFFALO CHICKEN PIZZA,268.29,16.26,31.38,26.83",
+                "FARFALLE,612.35,22.11,125.87,0"
+            ],
+            [
+                "Tuesday",
+                "BACON || GRILLED POTATO FLATBREAD,522.53,17.2,50.14,30.28",
+                "CLASSIC CHEESE PIZZA,249.57,13.36,32.72,15.52",
+                "PEPPERONI PIZZA,278.25,14.43,32.82,21.24"
+            ],
+            [
+                "Wednesday",
+                "FARFALLE,612.35,22.11,125.87,0",
+                "CLASSIC CHEESE PIZZA,249.57,13.36,32.72,15.52",
+                "PEPPERONI PIZZA,278.25,14.43,32.82,21.24",
+                "GRILLED VEGETABLE PIZZA,265.81,13.65,34.69,15.52"
+            ],
+            [
+                "Thursday",
+                "CLASSIC CHEESE PIZZA,249.57,13.36,32.72,15.52",
+                "CHICKEN FAJITA PIZZA,305.2,16.79,33,37.82",
+                "PEPPERONI PIZZA,278.25,14.43,32.82,21.24"
+            ]
+        ],
+        [
+            "PRODUCE MARKET",
+            [
+                "Monday",
+                "TANGY KALE SLAW,39.99,0.83,5.13,1.09"
+            ],
+            [
+                "Tuesday",
+                "CAESAR SALAD,83.25,2.04,4.49,3.02"
+            ],
+            [
+                "Wednesday",
+                "MUSTARD-HORSERADISH COLESLAW,91.45,0.83,6.31,0"
+            ],
+            [
+                "Thursday",
+                "QUINOA || EDAMAME SALAD,101.36,5.04,17.61,0"
+            ]
+        ]
+    ],
+    [
+        "Danforth Lunch",
+        [
+            "BISTRO HOME ZONE",
+            [
+                "Sunday",
+                "PORK SAUSAGE PATTY,203.16,4.68,0.51,34.45",
+                "SCRAMBLED EGGS,160.5,11.12,0.83,295.12",
+                "BLUEBERRY BUTTERMILK PANCAKES,112.97,2.72,21.09,4.71",
+                "HASH BROWN POTATOES,132.02,1.93,21.22,0"
+            ],
+            [
+                "Monday",
+                "CHICKEN NUGGETS WITH SWEET CHILI SAUCE,436.45,13.96,33.89,39.11",
+                "LEMON SESAME GREEN BEANS,55.55,1.85,7.57,0",
+                "WASABI MASHED POTATOES,124.57,2.36,21.45,9.14"
+            ],
+            [
+                "Tuesday",
+                "MEATBALL SANDWICH,476.72,20.26,47.85,45.43",
+                "MARINATED TOMATO SALAD,28.78,0.87,3.09,0.48"
+            ],
+            [
+                "Wednesday",
+                "GARDEN VEGETABLES,17.36,0.9,3.64,0",
+                "LOADED BBQ PORK WAFFLE FRIES,482.24,20.28,32.65,69.07"
+            ],
+            [
+                "Thursday",
+                "CHICKEN PARMESAN,372.54,17.13,19.88,40.8",
+                "BROCCOLI RABE WITH TOMATOES,98.85,2.93,9.97,0",
+                "ROTINI MARINARA,141.01,5.12,26.83,1.73"
+            ],
+            [
+                "Friday",
+                "GARDEN VEGETABLES,17.36,0.9,3.64,0",
+                "BAKED COD WITH LEMON DILL SAUCE,135.18,18.66,4.32,44.57",
+                "CILANTRO-LIME RICE,141.5,3.35,29.06,0"
+            ]
+        ],
+        [
+            "BRICK OVEN",
+            [
+                "Sunday",
+                "BREAKFAST STROMBOLI WITH SPINACH,342.76,17.5,31.9,168.84",
+                "BREAKFAST STROMBOLI WITH SAUSAGE,384.15,19.04,30.94,181.27"
+            ],
+            [
+                "Monday",
+                "CLASSIC CHEESE PIZZA,249.57,13.36,32.72,15.52",
+                "CHEESELESS MARGHERITA PIZZA,0,0,0,0",
+                "MEAT LOVER'S PIZZA,762.23,37.49,78.47,70.95"
+            ],
+            [
+                "Tuesday",
+                "FRENCH DIP SANDWICH,398.95,27.67,39.36,56.3"
+            ],
+            [
+                "Wednesday",
+                "MEATBALL PIZZA,297.56,15.14,32.97,24.85",
+                "CHEESELESS VEGETABLE PIZZA,0,0,0,0",
+                "DELUXE PEPPERONI PIZZA,284.58,14.29,34.51,18.38"
+            ],
+            [
+                "Thursday",
+                "SPINACH PARMESAN QUICHE,283.02,13.08,22.04,188.51",
+                "SPINACH AND BACON QUICHE,0,0,0,0"
+            ],
+            [
+                "Friday",
+                "CLASSIC CHEESE PIZZA,249.57,13.36,32.72,15.52",
+                "CHEESELESS SPINACH AND ONION PIZZA,0,0,0,0",
+                "CHICKEN PARMESAN PIZZA,265.22,16.42,32.9,24.6"
+            ]
+        ],
+        [
+            "DELI/CHANGE",
+            [
+                "Sunday",
+                "GARLIC POTATO CHIPS,149.48,1.77,17.32,0",
+                "SOUTHWEST TUNA CIABATTA,343.85,15.92,54.21,13.51",
+                "BAGELS YOUR WAY,0,0,0,0"
+            ],
+            [
+                "Monday",
+                "RANCH POTATO CHIPS,148.62,1.42,16.67,0.05",
+                "ROAST BEEF || PROVOLONE PANINI,284.33,12.36,24.58,24.83"
+            ],
+            [
+                "Tuesday",
+                "SALT || PEPPER CHIPS,103,1.09,10.72,0",
+                "TURKEY PEPPER WRAP,345.91,17.51,40.28,34.94"
+            ],
+            [
+                "Wednesday",
+                "SIGNATURE CHIPS,144.95,1.55,16.13,0",
+                "MEDITERRANEAN VEGETABLE WRAP,776.09,23.32,89.89,33.77"
+            ],
+            [
+                "Thursday",
+                "TURKEY || PEPPER JACK PANINI,263.54,11.15,25.69,21.53",
+                "CAJUN POTATO CHIPS,150.98,1.82,17.02,0"
+            ],
+            [
+                "Friday",
+                "ROASTED VEGETABLE PITA POCKET,196.31,6.87,27.45,5.17",
+                "MESQUITE POTATO CHIPS,149.92,1.61,17.05,0"
+            ]
+        ],
+        [
+            "DESSERT",
+            [
+                "Sunday",
+                "CHOCOLATE CHIP COOKIE,124.76,1.2,16.87,3.49",
+                "DANISH PASTRY,127.21,1.61,17.69,6.88",
+                "POWDERED SUGAR DONUT BITES,208.71,2.25,23.15,8.13"
+            ],
+            [
+                "Monday",
+                "CHOCOLATE CHIP COOKIE,124.76,1.2,16.87,3.49",
+                "SPICED PEACH COBBLER,147.4,2.38,27.63,21.46"
+            ],
+            [
+                "Tuesday",
+                "CHOCOLATE CHIP COOKIE,124.76,1.2,16.87,3.49",
+                "BANANA PUDDING PARFAIT,222.92,0.66,37.48,0.28"
+            ],
+            [
+                "Wednesday",
+                "SWEET POTATO COFFEE CAKE,0,0,0,0",
+                "SUGAR COOKIE,124.2,1.28,17.61,6.82",
+                "CHOCOLATE CHIP COOKIE,124.76,1.2,16.87,3.49"
+            ],
+            [
+                "Thursday",
+                "BROWNIES,241.1,3.06,34.96,19.97",
+                "CHOCOLATE CHIP COOKIE,124.76,1.2,16.87,3.49"
+            ],
+            [
+                "Friday",
+                "CHOCOLATE CHIP COOKIE,124.76,1.2,16.87,3.49",
+                "LEMON CAKE,150.68,1.19,25.93,2.92"
+            ],
+            [
+                "Saturday",
+                "CHOCOLATE CHIP COOKIE,124.76,1.2,16.87,3.49"
+            ]
+        ],
+        [
+            "GRILL",
+            [
+                "Sunday",
+                "CRISPY FRENCH FRIES,240.67,3.22,27.53,0",
+                "BBQ CHEDDAR GRILLED CHICKEN,392.78,36.43,35.13,87.36"
+            ],
+            [
+                "Monday",
+                "LOCO MOCO,396.7,23.55,23.16,219.51"
+            ],
+            [
+                "Tuesday",
+                "CHILI CHEDDAR DOG,479.48,20.81,38.08,64.4",
+                "SWEET POTATO FRIES,224.24,2.03,25.44,0"
+            ],
+            [
+                "Wednesday",
+                "SOUTHWEST CHICKEN SANDWICH,566.41,20.06,43.33,46.85"
+            ],
+            [
+                "Thursday",
+                "GRILLED CHEESE WITH BACON,438.7,14.89,44.98,30.5",
+                "CRISPY FRENCH FRIES,240.67,3.22,27.53,0"
+            ],
+            [
+                "Friday",
+                "CRISPY FRENCH FRIES,240.67,3.22,27.53,0",
+                "CHICKEN CHEESESTEAK,458.86,31.07,43.49,90.44"
+            ]
+        ],
+        [
+            "MONGOLIAN GRILL",
+            [
+                "Sunday",
+                "EGG OMELET,90.01,5.67,2.84,175.06"
+            ],
+            [
+                "Monday",
+                "CHICKEN AND SAUSAGE JAMBALAYA,0,0,0,0"
+            ],
+            [
+                "Tuesday",
+                "SEASONED RICE,128.45,2.56,25.98,0",
+                "PORK TERIYAKI,104.21,10.25,8.51,29.15"
+            ],
+            [
+                "Wednesday",
+                "SEARED TILAPIA WITH CITRUS SLAW,112.75,20.99,2.5,45.25",
+                "BROWN RICE,106.02,2.48,22.06,0"
+            ],
+            [
+                "Thursday",
+                "LOADED HASH BROWNS WITH HAM,0,0,0,0"
+            ],
+            [
+                "Friday",
+                "MIXED GRILL,339.61,14.57,43.74,42.45"
+            ]
+        ],
+        [
+            "PRODUCE MARKET",
+            [
+                "Sunday",
+                "FRUIT AND YOGURT BAR,0,0,0,0"
+            ],
+            [
+                "Monday",
+                "SEAFOOD PASTA SALAD,265.6,4.99,14.13,33.64"
+            ],
+            [
+                "Tuesday",
+                "APPLE COLESLAW,62.55,0.83,12.8,0",
+                "SEAFOOD PASTA SALAD,265.6,4.99,14.13,33.64"
+            ],
+            [
+                "Wednesday",
+                "MACARONI SALAD,225.87,3.45,19.31,10.97"
+            ],
+            [
+                "Thursday",
+                "DILLED POTATO || EGG SALAD,225.94,2.6,16.94,39.61"
+            ],
+            [
+                "Friday",
+                "OLD-FASHIONED COLE SLAW,161.22,0.93,4.77,8.73"
+            ]
+        ],
+        [
+            "SAUTE",
+            [
+                "Sunday",
+                "CHICKEN TIKKA MASALA,147.47,11.13,7.36,48"
+            ],
+            [
+                "Monday",
+                "INSIDE OUT EGG ROLL,178.9,6.54,23.91,1.5"
+            ],
+            [
+                "Tuesday",
+                "SHRIMP || GRITS,273.07,14.99,22.71,82.44"
+            ],
+            [
+                "Wednesday",
+                "HAM, EGG, AND VEGETABLE BREAKFAST WRAP,0,0,0,0"
+            ],
+            [
+                "Thursday",
+                "CHICKEN || PENNE CACCIATORE,406.43,20.7,47.04,33.83"
+            ],
+            [
+                "Friday",
+                "CHICKEN BIRYANI,0,0,0,0"
+            ]
+        ],
+        [
+            "SOUP",
+            [
+                "Sunday",
+                "FIVE BEAN SOUP,152.55,8.65,25.11,0.33",
+                "CHICKEN, VEGETABLE AND RICE SOUP,111.89,7.11,12.97,15.41",
+                "CHEDDAR CAULIFLOWER SOUP,229.31,10.31,15.49,27.18"
+            ],
+            [
+                "Monday",
+                "CHICKEN || RICE SOUP FLORENTINE,100.19,6.72,10.57,18.2",
+                "LENTIL VEGETABLE SOUP,100.23,3.85,14.96,0.03",
+                "BROCCOLI CHEDDAR SOUP,240.95,10.41,16.1,26.47"
+            ],
+            [
+                "Tuesday",
+                "VEGETABLE BEAN AND RICE SOUP,126.48,4.49,22.52,0.59",
+                "CREAM OF MUSHROOM SOUP,201.24,6.06,16.83,12.25",
+                "TWO-BEAN CHILI SOUP,163.45,5.3,28.41,0.77"
+            ],
+            [
+                "Wednesday",
+                "CURRIED TOMATO LENTIL SOUP,100.6,4.51,14.02,0.03",
+                "PASTA FAGIOLI,132.9,5.97,20.74,4.16",
+                "ROASTED CORN CHOWDER,193.29,4.05,24.77,3.05"
+            ],
+            [
+                "Thursday",
+                "MUSHROOM BARLEY SOUP,130.84,2.41,23.87,0",
+                "BUTTERNUT SQUASH AND SWEET POTATO SOUP,98.27,1.66,16.98,0",
+                "CHILI CON CARNE,257.64,17.87,25.74,40.06"
+            ],
+            [
+                "Friday",
+                "HUNGARIAN CABBAGE || CAULIFLOWER SOUP,86.04,3.3,11.94,0.05",
+                "CHEDDAR JACK SOUP,304.75,13.46,13.83,44.8",
+                "SIX ONION SOUP,88.58,2.22,13.53,1.05"
+            ]
+        ],
+        [
+            "VEGAN",
+            [
+                "Sunday",
+                "GARDEN  MALIBU BURGER,321.34,11.19,48.9,0",
+                "VEGAN BANANA OATMEAL COOKIE,0,0,0,0",
+                "TOFU FAJITA,419.38,14.09,63.34,0"
+            ],
+            [
+                "Monday",
+                "GARDEN  MALIBU BURGER,321.34,11.19,48.9,0",
+                "VEGETABLE BARLEY PILAF,220.01,3.63,43.64,0",
+                "VEGAN APPLE CRISP,0,0,0,0"
+            ],
+            [
+                "Tuesday",
+                "GARDEN  MALIBU BURGER,321.34,11.19,48.9,0",
+                "CELLENTANI MARINARA WITH SPINACH,370.15,8.96,53.1,0",
+                "VEGAN GINGER COCONUT RICE PUDDING,0,0,0,0"
+            ],
+            [
+                "Wednesday",
+                "BROWN RICE,106.02,2.48,22.06,0",
+                "RATATOUILLE,44.64,1.34,7.37,0.01",
+                "GARDEN  MALIBU BURGER,321.34,11.19,48.9,0"
+            ],
+            [
+                "Thursday",
+                "TOFU FAJITA,419.38,14.09,63.34,0",
+                "VEGAN APPLE STRUDEL,0,0,0,0",
+                "GARDEN  MALIBU BURGER,321.34,11.19,48.9,0"
+            ],
+            [
+                "Friday",
+                "BARLEY CAKE,0,0,0,0",
+                "CHILLED GRILLED VEGETABLES,71.98,1.16,8.38,0",
+                "VEGAN PUMPKIN BARS,0,0,0,0",
+                "GARDEN  MALIBU BURGER,321.34,11.19,48.9,0"
+            ],
+            [
+                "Saturday",
+                "GARDEN  MALIBU BURGER,321.34,11.19,48.9,0"
+            ]
+        ]
+    ],
+    [
+        "Danforth Dinner",
+        [
+            "BISTRO HOME ZONE",
+            [
+                "Sunday",
+                "ITALIAN ROASTED VEGETABLES,100.04,1.91,10.9,0",
+                "SCALLION MASHED POTATOES,122.14,2.43,20.88,9.14",
+                "HONEY LEMON BBQ CHICKEN,461.76,44.47,19.23,142.23"
+            ],
+            [
+                "Monday",
+                "CALABACITAS,48.63,1.69,8.55,0",
+                "TURKEY BURRITO,437.99,21.48,53.43,35.06"
+            ],
+            [
+                "Tuesday",
+                "BAKED CHIPOTLE-ORANGE CHICKEN,196.32,24.66,13.08,66.08",
+                "ROASTED SWEET POTATOES,97.03,1.49,19.1,0",
+                "SPICY CORN || TOMATOES,116.97,2.38,17.32,0"
+            ],
+            [
+                "Thursday",
+                "GLAZED CARROTS,100.04,0.64,13.83,0",
+                "TURKEY GRAVY,32.98,0.4,2.35,6.41",
+                "HOMESTYLE MASHED POTATOES,121.76,2.24,20.91,9.14",
+                "ROASTED HERBED TURKEY,122.5,23.01,0.79,65.45"
+            ],
+            [
+                "Friday",
+                "CHEESY LASAGNA,307.62,20.14,25.17,78.27",
+                "GARLIC ROASTED VEGETABLES,59.08,1.9,8.11,0"
+            ],
+            [
+                "Saturday",
+                "COUNTRY CHICKEN GRAVY,32.43,0.73,2.6,1.12",
+                "CONFETTI RICE,152.18,3.02,28.69,0",
+                "CHICKEN NUGGETS,176.21,14.4,13.49,33.63",
+                "GARLIC BROCCOLI,42.14,1.47,4.52,0"
+            ]
+        ],
+        [
+            "BRICK OVEN",
+            [
+                "Sunday",
+                "BREAKFAST STROMBOLI WITH SAUSAGE,384.15,19.04,30.94,181.27",
+                "BREAKFAST STROMBOLI WITH SPINACH,342.76,17.5,31.9,168.84"
+            ],
+            [
+                "Monday",
+                "TURKEY, BACON AND RANCH MELT,383.88,19.74,42,53.22",
+                "TOMATO  MOZZARELLA  SPINACH MELT,307.09,10.54,46.84,9.78"
+            ],
+            [
+                "Tuesday",
+                "CHEESELESS VEGETABLE PIZZA,0,0,0,0",
+                "ONION, PEPPERONCINI, SAUSAGE PIZZA,306.16,15.3,34.21,24.85",
+                "CLASSIC CHEESE PIZZA,249.57,13.36,32.72,15.52"
+            ],
+            [
+                "Thursday",
+                "GRILLED VEGETABLE PIZZA,265.81,13.65,34.69,15.52",
+                "MEAT LOVER'S PIZZA,352.08,17.66,33.97,34.99"
+            ],
+            [
+                "Friday",
+                "CLASSIC CHEESE PIZZA,249.57,13.36,32.72,15.52",
+                "CHICKEN PARMESAN PIZZA,265.22,16.42,32.9,24.6"
+            ],
+            [
+                "Saturday",
+                "CLASSIC CHEESE PIZZA,249.57,13.36,32.72,15.52",
+                "PEPPERONI PIZZA,278.25,14.43,32.82,21.24"
+            ]
+        ],
+        [
+            "DELI/CHANGE",
+            [
+                "Sunday",
+                "SOUTHWEST TUNA CIABATTA,343.85,15.92,54.21,13.51",
+                "GARLIC POTATO CHIPS,149.48,1.77,17.32,0"
+            ],
+            [
+                "Monday",
+                "RANCH POTATO CHIPS,148.62,1.42,16.67,0.05",
+                "MINI CHIPOTLE CHICKEN SANDWICH,142.2,10.79,16.89,22.02"
+            ],
+            [
+                "Tuesday",
+                "SALT || PEPPER CHIPS,103,1.09,10.72,0",
+                "THAI CHICKEN LETTUCE WRAPS,148.7,13.09,9.81,55.21"
+            ],
+            [
+                "Thursday",
+                "CAJUN POTATO CHIPS,150.98,1.82,17.02,0",
+                "GRILLED VEGETABLE QUESADILLA,422.09,15.05,44.93,34.87"
+            ],
+            [
+                "Friday",
+                "MESQUITE POTATO CHIPS,149.92,1.61,17.05,0",
+                "CALIFORNIA TURKEY BACON WRAP,348.94,17.06,38.66,30.86"
+            ],
+            [
+                "Saturday",
+                "OLD BAY (R) POTATO CHIPS,145.96,1.62,15.81,0",
+                "MINI ITALIAN SANDWICH,157.33,7.87,15.07,20.05"
+            ]
+        ],
+        [
+            "DESSERT",
+            [
+                "Sunday",
+                "CRUNCHY S'MORES BAR,264.09,2.19,46.09,0.35",
+                "OATMEAL RAISIN COOKIE,105.27,1.53,17.15,4.56"
+            ],
+            [
+                "Monday",
+                "CREAMY CHEESECAKE PARFAIT,229.56,3.68,48.81,67.38",
+                "CHOCOLATE CHIP COOKIE,124.76,1.2,16.87,3.49"
+            ],
+            [
+                "Tuesday",
+                "CHOCOLATE CHIP COOKIE,124.76,1.2,16.87,3.49",
+                "OATMEAL RAISIN COOKIE,105.27,1.53,17.15,4.56",
+                "DULCE DE LECHE BROWNIE,223.46,3.03,39.28,3.04"
+            ],
+            [
+                "Wednesday",
+                "CHOCOLATE CHIP COOKIE,124.76,1.2,16.87,3.49"
+            ],
+            [
+                "Thursday",
+                "SUGAR COOKIE,124.2,1.28,17.61,6.82",
+                "BROWNIE CUPCAKE,134.59,1.55,23.69,0.09",
+                "CHOCOLATE CHIP COOKIE,124.76,1.2,16.87,3.49"
+            ],
+            [
+                "Friday",
+                "CHOCOLATE CHIP COOKIE,124.76,1.2,16.87,3.49",
+                "STRAWBERRY-LEMON THIMBLE CAKE,133.71,1.47,19.46,3.28",
+                "OATMEAL RAISIN COOKIE,105.27,1.53,17.15,4.56"
+            ],
+            [
+                "Saturday",
+                "CHOCOLATE CHIP COOKIE,124.76,1.2,16.87,3.49",
+                "BANANA PUDDING PARFAIT,205.71,1.78,29.89,2.21"
+            ]
+        ],
+        [
+            "GRILL",
+            [
+                "Sunday",
+                "BBQ CHEDDAR GRILLED CHICKEN,392.78,36.43,35.13,87.36",
+                "CRISPY FRENCH FRIES,240.67,3.22,27.53,0"
+            ],
+            [
+                "Monday",
+                "RACHEL PANINI,447.79,21.61,36.93,46.65",
+                "CRISS CUT FRIES,203.3,2.18,19.62,0"
+            ],
+            [
+                "Tuesday",
+                "ITALIAN MEAT LOVER'S PANINI,286.6,10.12,24.06,21.96",
+                "CRISPY FRENCH FRIES,240.67,3.22,27.53,0"
+            ],
+            [
+                "Thursday",
+                "SEASONED TWISTER FRIES,206.62,2.17,20.55,0",
+                "ITALIAN SAUSAGE || PEPPERS SANDWICH,623.14,22.68,44.67,75.94"
+            ],
+            [
+                "Friday",
+                "CHICKEN CHEESESTEAK,458.86,31.07,43.49,90.44",
+                "CRISPY FRENCH FRIES,240.67,3.22,27.53,0"
+            ],
+            [
+                "Saturday",
+                "CRISPY FRENCH FRIES,240.67,3.22,27.53,0",
+                "ANGUS BURGER,611.53,35.14,37.55,108.41"
+            ]
+        ],
+        [
+            "MONGOLIAN GRILL",
+            [
+                "Sunday",
+                "CHICKEN WITH VEGETABLES AND CILANTRO CHILI SAUCE,0,0,0,0"
+            ],
+            [
+                "Monday",
+                "SWEET || SOUR PORK,165.88,8.81,18.51,24.56",
+                "SEASONED RICE,128.45,2.56,25.98,0"
+            ],
+            [
+                "Tuesday",
+                "EGG OMELET,90.01,5.67,2.84,175.06"
+            ],
+            [
+                "Thursday",
+                "RICE NOODLE STIR FRY,0,0,0,0"
+            ],
+            [
+                "Friday",
+                "SEASONED RICE,128.45,2.56,25.98,0",
+                "BEEF || BROCCOLI STIR-FRY,219.73,16.25,16.46,33.12"
+            ],
+            [
+                "Saturday",
+                "GRILLED MESQUITE CHICKEN,163.31,24.22,0.7,66.02",
+                "MASHED POTATOES WITH CORN,126.71,2.48,22.39,5.89",
+                "SAUTEED SPINACH,56.64,2.07,2.66,0"
+            ]
+        ],
+        [
+            "PRODUCE MARKET",
+            [
+                "Monday",
+                "SEAFOOD PASTA SALAD,265.6,4.99,14.13,33.64"
+            ],
+            [
+                "Tuesday",
+                "APPLE COLESLAW,62.55,0.83,12.8,0"
+            ],
+            [
+                "Thursday",
+                "DILLED POTATO || EGG SALAD,225.94,2.6,16.94,39.61"
+            ],
+            [
+                "Friday",
+                "OLD-FASHIONED COLE SLAW,161.22,0.93,4.77,8.73"
+            ]
+        ],
+        [
+            "SAUTE",
+            [
+                "Sunday",
+                "RED CURRY CHICKEN,0,0,0,0"
+            ],
+            [
+                "Monday",
+                "CHEESY SHRIMP ALFREDO,530.91,24.83,31.25,155.09"
+            ],
+            [
+                "Tuesday",
+                "SPICY JERK CHICKEN || CELLENTANI,451.84,25.28,64.77,40.68"
+            ],
+            [
+                "Thursday",
+                "SAUTEED BRUSCHETTA RAVIOLI,181.35,8.43,16.4,28.66"
+            ],
+            [
+                "Friday",
+                "MALAYSIAN RICE,0,0,0,0"
+            ],
+            [
+                "Saturday",
+                "KADAI JHINGA MASALA,0,0,0,0"
+            ]
+        ],
+        [
+            "SOUP",
+            [
+                "Sunday",
+                "CHICKEN, VEGETABLE AND RICE SOUP,111.89,7.11,12.97,15.41",
+                "CHEDDAR CAULIFLOWER SOUP,229.31,10.31,15.49,27.18",
+                "FIVE BEAN SOUP,152.55,8.65,25.11,0.33"
+            ],
+            [
+                "Monday",
+                "CHICKEN || RICE SOUP FLORENTINE,100.19,6.72,10.57,18.2",
+                "LENTIL VEGETABLE SOUP,100.23,3.85,14.96,0.03",
+                "BROCCOLI CHEDDAR SOUP,240.95,10.41,16.1,26.47"
+            ],
+            [
+                "Tuesday",
+                "VEGETABLE BEAN AND RICE SOUP,126.48,4.49,22.52,0.59",
+                "CREAM OF MUSHROOM SOUP,201.24,6.06,16.83,12.25",
+                "TWO-BEAN CHILI SOUP,163.45,5.3,28.41,0.77"
+            ],
+            [
+                "Thursday",
+                "BUTTERNUT SQUASH AND SWEET POTATO SOUP,98.27,1.66,16.98,0",
+                "MUSHROOM BARLEY SOUP,130.84,2.41,23.87,0",
+                "CHILI CON CARNE,257.64,17.87,25.74,40.06"
+            ],
+            [
+                "Friday",
+                "NEW ENGLAND CLAM CHOWDER,287.04,21.17,23.69,46.28",
+                "VEGETABLE BEAN SOUP,134.11,6.44,21.94,1.12",
+                "CREAMY TOMATO BASIL SOUP,206.52,5.34,19.28,30.75"
+            ],
+            [
+                "Saturday",
+                "CHEDDAR JACK SOUP,304.75,13.46,13.83,44.8",
+                "HUNGARIAN CABBAGE || CAULIFLOWER SOUP,86.04,3.3,11.94,0.05",
+                "SIX ONION SOUP,88.58,2.22,13.53,1.05"
+            ]
+        ],
+        [
+            "VEGAN",
+            [
+                "Sunday",
+                "GARDEN  MALIBU BURGER,321.34,11.19,48.9,0",
+                "VEGAN BANANA OATMEAL COOKIE,0,0,0,0",
+                "VEGAN TWO BEAN SOFT TACOS,0,0,0,0",
+                "VEGAN APPLE CRISP,0,0,0,0"
+            ],
+            [
+                "Monday",
+                "GARDEN  MALIBU BURGER,321.34,11.19,48.9,0",
+                "VEGAN APPLE CRISP,0,0,0,0",
+                "FRESH TOMATO || BASIL PENNE,371.6,12.2,59.92,5.17"
+            ],
+            [
+                "Tuesday",
+                "SAUTEED KALE,37.31,1.26,5.74,0",
+                "BROWN RICE,106.02,2.48,22.06,0",
+                "BOLD BBQ SAUCE,56.39,0.27,13.34,0.02",
+                "CRISPY TOFU,341.4,22.66,35.42,0.17",
+                "GARDEN  MALIBU BURGER,321.34,11.19,48.9,0"
+            ],
+            [
+                "Wednesday",
+                "GARDEN  MALIBU BURGER,321.34,11.19,48.9,0"
+            ],
+            [
+                "Thursday",
+                "VEGGIE || BLACK BEAN SAUTE,270.14,7.74,45.97,0.43",
+                "VEGAN APPLE STRUDEL,0,0,0,0",
+                "GARDEN  MALIBU BURGER,321.34,11.19,48.9,0"
+            ],
+            [
+                "Friday",
+                "GARDEN  MALIBU BURGER,321.34,11.19,48.9,0",
+                "VEGAN PUMPKIN BARS,0,0,0,0",
+                "SEASONED RICE,128.45,2.56,25.98,0",
+                "MU SHU TOFU,452.93,12.6,63.05,0"
+            ],
+            [
+                "Saturday",
+                "BLACKENED TOFU WITH SPANISH RICE,370.64,20.83,29.23,0",
+                "VEGAN OATMEAL COOKIE,261.74,2.62,40.1,0",
+                "GARDEN  MALIBU BURGER,321.34,11.19,48.9,0"
+            ]
+        ]
+    ]
+]
