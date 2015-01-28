@@ -1,7 +1,7 @@
 import json
 from urllib.request import urlopen
 
-date = "1_18_2015"
+date = "1_25_2015"
 
 sites   = ["http://www.campusdish.com/en-US/CSNE/Rochester/Menus/DouglassDiningCenter.htm?LocationName=Douglass%20Dining%20Center&MealID=1&OrgID=195030&Date="+date+"&ShowPrice=False&ShowNutrition=True",
 		"http://www.campusdish.com/en-US/CSNE/Rochester/Menus/DouglassDiningCenter.htm?LocationName=Douglass%20Dining%20Center&MealID=16&OrgID=195030&Date="+date+"&ShowPrice=False&ShowNutrition=True",

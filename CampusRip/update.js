@@ -1,8 +1,8 @@
 Parse.initialize("aEGq7Uw6GgqbGZo8JWxPQAEYdxSgexrv9zLLXVJu", "ahEsV3cewyapjRJ7Wudks47q10eh9fGnerBb3pBy");
-var jsonFile = '1_18_2015.json';
+var jsonFile = '1_25_2015.json';
 var year = 2015;
 var month = 1;
-var day = 18;
+var day = 25;
 
 function update() {
     console.log("Update Started");
@@ -26,7 +26,7 @@ function update() {
                                         if (restNum >= 1 && restNum <= 3) {
                                             menuObject.set("Restaurant", "Douglass");
                                         } else if (restNum >= 4 && restNum <= 6) {
-                                        	menuObject.set("Restaurant", "Danforth");
+                                            menuObject.set("Restaurant", "Danforth");
                                         }
                                         //Set StationID
                                         menuObject.set("stationID", data[key][i][0]);
@@ -66,10 +66,14 @@ function update() {
                                         items.push("<li>" + property + " = " + data[key][i][property][j] + "</li>");
                                         menuObject.save(null, {
                                             success: function(testObject) {
+                                                items.push("<li>^^Succesfull</li>");
                                                 $(".success").show();
                                                 // alert('New object created with objectId: ' + testObject.id);
                                             },
                                             error: function(testObject, error) {
+                                                // alert(error.message);
+                                                items.push("<li>" + error.message + "</li>");
+                                                console.log(error.message);
                                                 $(".error").show();
                                                 // alert('Failed to create new object, with error code: ' + error.message);
                                             }
