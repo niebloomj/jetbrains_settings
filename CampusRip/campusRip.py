@@ -44,7 +44,36 @@ def processPageSource(site, week):
 	for ConceptTabText in pageSource[1:]:
 		stationDayNum = 0
 		stationNum += 1
-		processElem(ConceptTabText, 1)
+		if "BREAKFAST PASTRIES" in ConceptTabText:
+			processElem("BP", 1)
+		elif "GRILL" in ConceptTabText:
+			processElem("G", 1)
+		elif "DESSERT" in ConceptTabText:
+			processElem("D", 1)
+		elif "HOME ZONE" in ConceptTabText:
+			processElem("HZ", 1)
+		elif "PIZZA" in ConceptTabText:
+			processElem("P", 1)
+		elif "PRODUCE MARKET" in ConceptTabText:
+			processElem("PM", 1)
+		elif "BISTRO HOME ZONE" in ConceptTabText:
+			processElem("BHZ", 1)
+		elif "BRICK OVEN" in ConceptTabText:
+			processElem("BO", 1)
+		elif "DESSERT" in ConceptTabText:
+			processElem("D", 1)
+		elif "DELI/CHANGE" in ConceptTabText:
+			processElem("DELI", 1)
+		elif "MONGOLIAN GRILL" in ConceptTabText:
+			processElem("MG", 1)
+		elif "SAUTE" in ConceptTabText:
+			processElem("SAUTE", 1)
+		elif "SOUP" in ConceptTabText:
+			processElem("SOUP", 1)
+		elif "VEGAN" in ConceptTabText:
+			processElem("VEGAN", 1)
+		else:
+			print(ConceptTabText)
 		menuBorder = str(ConceptTabText).split("menuBorder")
 		for dayMenu in menuBorder[1:]:
 			if "menuTxt" in dayMenu:
@@ -76,9 +105,9 @@ def processPageSource(site, week):
 						colest = nutritionSource.split("lblColest")[1]
 						colest = colest.split('RDANutValue">')[1]
 						colest = colest.split('<')[0]
-						dataArray[restaurantNum][stationNum][stationDayNum].append(rnSplit +"," +calories+"," +protein+"," +carb+"," +colest)
+						dataArray[restaurantNum][stationNum][stationDayNum].append(rnSplit.title() +"," +calories+"," +protein+"," +carb+"," +colest)
 					except:
-						dataArray[restaurantNum][stationNum][stationDayNum].append(rnSplit + ",0,0,0,0")
+						dataArray[restaurantNum][stationNum][stationDayNum].append(rnSplit.title() + ",0,0,0,0")
 		dayNum = 0
 
 for site in sites:

@@ -35,8 +35,8 @@ function update() {
                                         //Set the mealTime
                                         menuObject.set("calories", parseInt(data[key][i][property][j].split("%20").join(" ").split(",")[1]));
                                         menuObject.set("protein", parseInt(data[key][i][property][j].split("%20").join(" ").split(",")[2]));
-                                        menuObject.set("carbs", parseInt(data[key][i][property][j].split("%20").join(" ").split(",")[3]));
-                                        menuObject.set("colest", parseInt(data[key][i][property][j].split("%20").join(" ").split(",")[4]));
+                                        menuObject.set("carbohydrates", parseInt(data[key][i][property][j].split("%20").join(" ").split(",")[3]));
+                                        menuObject.set("cholesterol", parseInt(data[key][i][property][j].split("%20").join(" ").split(",")[4]));
                                         if (restNum == 1) {
                                             menuObject.set("mealTime", 1);
                                         } else if (restNum == 2 || restNum == 4) {
