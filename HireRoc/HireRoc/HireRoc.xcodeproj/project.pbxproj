@@ -13,6 +13,7 @@
 		163884961AB2275200832B79 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 163884951AB2275200832B79 /* Images.xcassets */; };
 		163884991AB2275200832B79 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 163884971AB2275200832B79 /* LaunchScreen.xib */; };
 		163884A51AB2275200832B79 /* HireRocTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 163884A41AB2275200832B79 /* HireRocTests.swift */; };
+		16E1937B1AB73920004734C7 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16E1937A1AB73920004734C7 /* Home.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		1638849E1AB2275200832B79 /* HireRocTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HireRocTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		163884A31AB2275200832B79 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		163884A41AB2275200832B79 /* HireRocTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HireRocTests.swift; sourceTree = "<group>"; };
+		16E1937A1AB73920004734C7 /* Home.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 			children = (
 				1638848E1AB2275200832B79 /* AppDelegate.swift */,
 				163884901AB2275200832B79 /* ViewController.swift */,
+				16E1937A1AB73920004734C7 /* Home.swift */,
 				163884921AB2275200832B79 /* Main.storyboard */,
 				163884951AB2275200832B79 /* Images.xcassets */,
 				163884971AB2275200832B79 /* LaunchScreen.xib */,
@@ -213,6 +216,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				163884911AB2275200832B79 /* ViewController.swift in Sources */,
+				16E1937B1AB73920004734C7 /* Home.swift in Sources */,
 				1638848F1AB2275200832B79 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -407,6 +411,7 @@
 				163884AA1AB2275200832B79 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		163884AB1AB2275200832B79 /* Build configuration list for PBXNativeTarget "HireRocTests" */ = {
 			isa = XCConfigurationList;
@@ -415,6 +420,7 @@
 				163884AD1AB2275200832B79 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -10,20 +10,28 @@ import UIKit
 
 class ViewController: UIViewController {
 
-	@IBOutlet var TestButton: UIButton!
 	@IBOutlet var Title: UINavigationBar!
+
+	@IBOutlet var userField: UITextField!
+	@IBOutlet var passField: UITextField!
 	
-	@IBAction func ButtonPressed(sender: AnyObject) {
-		println("Hello world")
+	
+	@IBOutlet var login: UIButton!
+	@IBOutlet var newAccount: UIButton!
+
+	@IBAction func loginAction(sender: AnyObject) {
+		let storyBoard : UIStoryboard = UIStoryboard(name: "Main", bundle:nil)
+		let newViewController = storyBoard.instantiateViewControllerWithIdentifier("home") as Home
+		self.presentViewController(newViewController, animated:true, completion:nil)
 	}
-
-
+	@IBAction func newAccountAction(sender: AnyObject) {
+	}
 	
 	override func viewDidLoad() {
 		super.viewDidLoad()
-		TestButton.setTitle("It Worked", forState: UIControlState())
-		Title.setValue("Hi", forKey: "Title")
-		// Do any additional setup after loading the view, typically from a nib.
+		login.setTitle("Login", forState: UIControlState())
+		newAccount.setTitle("Create a New Account!!", forState: UIControlState())
+		Title.topItem?.title = "HireRoc"
 	}
 
 	override func didReceiveMemoryWarning() {
