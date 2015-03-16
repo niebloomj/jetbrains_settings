@@ -10,13 +10,19 @@ import UIKit
 
 class ViewController: UIViewController {
 
+	@IBOutlet var TestButton: UIButton!
+	@IBOutlet var Title: UINavigationBar!
+	
 	@IBAction func ButtonPressed(sender: AnyObject) {
 		println("Hello world")
 	}
+
+
 	
 	override func viewDidLoad() {
 		super.viewDidLoad()
-
+		TestButton.setTitle("It Worked", forState: UIControlState())
+		Title.setValue("Hi", forKey: "Title")
 		// Do any additional setup after loading the view, typically from a nib.
 	}
 
