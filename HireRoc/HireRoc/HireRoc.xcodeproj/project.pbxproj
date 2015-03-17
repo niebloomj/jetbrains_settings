@@ -13,6 +13,7 @@
 		163884961AB2275200832B79 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 163884951AB2275200832B79 /* Images.xcassets */; };
 		163884991AB2275200832B79 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 163884971AB2275200832B79 /* LaunchScreen.xib */; };
 		163884A51AB2275200832B79 /* HireRocTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 163884A41AB2275200832B79 /* HireRocTests.swift */; };
+		168AAF751AB73F2900EE8F40 /* ParseStuff.m in Sources */ = {isa = PBXBuildFile; fileRef = 168AAF741AB73F2900EE8F40 /* ParseStuff.m */; };
 		16E1937B1AB73920004734C7 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16E1937A1AB73920004734C7 /* Home.swift */; };
 /* End PBXBuildFile section */
 
@@ -37,6 +38,8 @@
 		1638849E1AB2275200832B79 /* HireRocTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HireRocTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		163884A31AB2275200832B79 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		163884A41AB2275200832B79 /* HireRocTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HireRocTests.swift; sourceTree = "<group>"; };
+		168AAF731AB73F2800EE8F40 /* HireRoc-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "HireRoc-Bridging-Header.h"; sourceTree = "<group>"; };
+		168AAF741AB73F2900EE8F40 /* ParseStuff.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ParseStuff.m; sourceTree = "<group>"; };
 		16E1937A1AB73920004734C7 /* Home.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -83,6 +86,8 @@
 				163884901AB2275200832B79 /* ViewController.swift */,
 				16E1937A1AB73920004734C7 /* Home.swift */,
 				163884921AB2275200832B79 /* Main.storyboard */,
+				168AAF741AB73F2900EE8F40 /* ParseStuff.m */,
+				168AAF731AB73F2800EE8F40 /* HireRoc-Bridging-Header.h */,
 				163884951AB2275200832B79 /* Images.xcassets */,
 				163884971AB2275200832B79 /* LaunchScreen.xib */,
 				1638848C1AB2275200832B79 /* Supporting Files */,
@@ -217,6 +222,7 @@
 			files = (
 				163884911AB2275200832B79 /* ViewController.swift in Sources */,
 				16E1937B1AB73920004734C7 /* Home.swift in Sources */,
+				168AAF751AB73F2900EE8F40 /* ParseStuff.m in Sources */,
 				1638848F1AB2275200832B79 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -342,9 +348,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				INFOPLIST_FILE = HireRoc/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "HireRoc/HireRoc-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Debug;
 		};
@@ -352,9 +361,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				INFOPLIST_FILE = HireRoc/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "HireRoc/HireRoc-Bridging-Header.h";
 			};
 			name = Release;
 		};
