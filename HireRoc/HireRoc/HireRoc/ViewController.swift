@@ -97,13 +97,14 @@ class ViewController: UIViewController {
 		query.findObjectsInBackgroundWithBlock {
 			(objects: [AnyObject]!, error: NSError!) -> Void in
 			println(objects.count)
+			//Main View
 			if error == nil && objects.count == 1{
 				let storyBoard : UIStoryboard = UIStoryboard(name: "Main", bundle:nil)
 				let newViewController = storyBoard.instantiateViewControllerWithIdentifier("home") as Home
 				self.presentViewController(newViewController, animated:true, completion:nil)
 			} else if (error != nil){
 				println("Error: \(error) \(error.userInfo!)")
-			} else {
+			} else {//Set Profile Data
 				let storyBoard : UIStoryboard = UIStoryboard(name: "Main", bundle:nil)
 				let newViewController = storyBoard.instantiateViewControllerWithIdentifier("setProfileData") as SetProfileData
 				self.presentViewController(newViewController, animated:true, completion:nil)
