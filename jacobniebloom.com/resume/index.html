@@ -4,6 +4,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <meta http-equiv="Content-Style-Type" content="text/css" />
   <meta name="generator" content="Aspose.Words for .NET 10.0.0.0" />
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
   <title>Jacob A. Niebloom</title>
   <style>
   * {
@@ -15,7 +16,35 @@
     margin-left: auto;
     margin-right: auto;
   }
+  
+  .back-to-top {
+    position: fixed;
+    top: 2em;
+    right: 0px;
+    text-decoration: none;
+    color: #000000;
+    background-color: rgba(235, 235, 235, 0.80);
+    font-size: 14px;
+    padding: 0.8em;
+    display: none;
+  }
+  
+  .back-to-top:hover {
+    background-color: rgba(135, 135, 135, 0.50);
+  }
   </style>
+  <script>
+  jQuery(document).ready(function() {
+    var duration = 1000;
+    jQuery('.back-to-top').fadeIn(duration);
+
+    jQuery('.back-to-top').click(function(event) {
+      event.preventDefault();
+      window.open("Jacob%20A%20Niebloom.pdf")
+      return false;
+    })
+  });
+  </script>
 </head>
 
 <body>
@@ -50,6 +79,7 @@
         </td>
       </tr>
     </table>
+    <a href="#" class="back-to-top">PDF Version</a>
     <p style="border-bottom-color:#000000; border-bottom-style:solid; border-bottom-width:3pt; margin:1pt 0pt -8pt">
     </p>
     <!-- <p style="margin:0pt 0pt 5pt; text-align:left">
