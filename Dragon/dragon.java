@@ -1,31 +1,33 @@
+import java.util.Arrays;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
+import java.io.File;
+import java.io.FileNotFoundException;
 
 public class dragon {
 	public static void main(String[] args) {
 
-		Scanner scan = new Scanner(System.in);
-		System.out.println("number of habitats?");
-		Habitat[] habitats = new Habitat[scan.nextInt()];
-		for (int i = 0; i < habitats.length; i ++) {
-			System.out.println("First line amount, next line capacity");
-			habitats[i] = new Habitat(scan.nextInt(), scan.nextInt());
+		File file = new File("dragon.txt");
+		try {
+			Scanner sc = new Scanner(file);
+			while (sc.hasNext()) {
+				Habitat[] habitats = new Habitat[sc.nextInt()];
+				for (int i = 0; i < habitats.length; i ++)
+					habitats[i] = new Habitat(sc.nextInt(), sc.nextInt());
+				int[] dragons = new int[sc.nextInt()];
+				String line = sc.next();
+				String[] lines = line.split(",");
+				for (int i = 0; i < lines.length; i ++)
+					dragons[i] = Integer.parseInt(lines[i]);
+				optimize(habitats, dragons);
+				System.out.println(sc.next());
+				System.out.println("\n\n\n\n\n\n\n\n\n\n\n\n");
+			}
+			sc.close();
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
 		}
-		System.out.println("number of dragons?");
-		int[] dragons = new int[scan.nextInt()];
-		System.out.println("Each line dragon earnings");
-		for (int i = 0; i < dragons.length; i ++) {
-			dragons[i] = scan.nextInt();
-		}
-		optimize(habitats, dragons);
-
-		// habitats[0] = new Habitat(150000, 5);
-		// habitats[1] = new Habitat(75000, 3);
-		// habitats[2] = new Habitat(75000, 3);
-		// habitats[3] = new Habitat(75000, 3);
-		// habitats[4] = new Habitat(75000, 3);
-		// optimize(habitats, 78, 46, 71, 137, 50, 48, 42, 46, 61, 33, 46, 58, 63);
 	}
 
 	public static void optimize(Habitat[] bins, int[] dragons) {
@@ -39,45 +41,30 @@ public class dragon {
 			else
 				dragonsOrders.add(0);
 		}
-		int ceiling = 1000;
 		int runs = 0;
-		int maxRuns = 10000000;
-		while (true) {
-			System.out.println("Ceiling = " + ceiling);
-			do {
-				if (runs > maxRuns)
-					break;
-				for (Habitat bin : bins)
-					bin.wipeDragons();
-				Collections.shuffle(dragonsOrders);
-				int spot = 0;
-				for (Habitat bin : bins) {
-					while (!bin.isFull()) {
-						bin.add(dragonsOrders.get(spot));
-						spot ++;
-					}
-				}
-				// System.out.println(howOptimized(bins));
-				runs += 1;
-			} while (howOptimized(bins) > ceiling);
-			if (runs > maxRuns) {
-				System.out.println("Too many runs");
+		int maxRuns = 1000000;
+		int bestScore = Integer.MAX_VALUE;
+		do {
+			if (runs > maxRuns)
 				break;
-			}
-			System.out.println(dragonsOrders);
 			for (Habitat bin : bins)
-				System.out.println(bin.minutesToFill + " minutes at " + bin.rate);
-			runs = 0;
-			if (ceiling == 125)
-				ceiling = 100;
-			else if (ceiling == 100)
-				ceiling = 80;
-			else
-				ceiling *= .5;
-		}
-		System.out.println(dragonsOrders);
-		for (Habitat bin : bins)
-			System.out.println(bin.minutesToFill + " minutes at " + bin.rate);
+				bin.wipeDragons();
+			Collections.shuffle(dragonsOrders);
+			int spot = 0;
+			for (Habitat bin : bins)
+				while (!bin.isFull()) {
+					bin.add(dragonsOrders.get(spot));
+					spot ++;
+				}
+			runs += 1;
+			if (howOptimized(bins) < bestScore) {
+				bestScore = howOptimized(bins);
+				System.out.println("Score = " + bestScore);
+				System.out.println(dragonsOrders);
+				for (Habitat bin : bins)
+					System.out.println(bin.minutesToFill + " minutes at " + bin.rate);
+			}
+		} while (true);
 	}
 
 	public static int howOptimized(Habitat[] bins) {
