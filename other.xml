@@ -15,6 +15,9 @@
       </profile-state>
     </entry>
   </component>
+  <component name="CPPToolchains">
+    <option name="detectedVersion" value="4" />
+  </component>
   <component name="CodeStyleSettingsManager">
     <option name="PER_PROJECT_SETTINGS">
       <value>
@@ -30,10 +33,8 @@
             <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Constant" />
             <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Global" />
             <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Struct" />
-            <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="ClassPredef" />
             <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="FunctionPredecl" />
             <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Function" />
-            <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Class" />
           </file>
           <class>
             <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Property" />
@@ -44,11 +45,13 @@
             <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="DeallocMethod" />
           </class>
           <extensions>
-            <pair source="mm" header="h" />
             <pair source="cpp" header="h" />
             <pair source="c" header="h" />
           </extensions>
         </Objective-C-extensions>
+        <XML>
+          <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+        </XML>
       </value>
     </option>
     <option name="PREFERRED_PROJECT_CODE_STYLE" value="Jacob" />

@@ -1,6 +1,11 @@
 <application>
   <component name="ProjectManager">
     <defaultProject version="4">
+      <component name="CMakeSettings" AUTO_RELOAD="false" GENERATION_PASS_SYSTEM_ENVIRONMENT="true">
+        <ADDITIONAL_GENERATION_ENVIRONMENT>
+          <envs />
+        </ADDITIONAL_GENERATION_ENVIRONMENT>
+      </component>
       <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
       <component name="InspectionProjectProfileManager">
         <profile version="1.0">
