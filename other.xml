@@ -15,6 +15,9 @@
       </profile-state>
     </entry>
   </component>
+  <component name="CPPToolchains">
+    <option name="detectedVersion" value="4" />
+  </component>
   <component name="CodeStyleSettingsManager">
     <option name="PER_PROJECT_SETTINGS">
       <value>
