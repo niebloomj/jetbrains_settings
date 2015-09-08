@@ -1,0 +1,48 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>C/C++</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ErrorReportConfigurable">
+    <option name="ITN_LOGIN" value="niebloomj" />
+    <option name="ITN_PASSWORD_CRYPT" value="OTExNUtpa2kh" />
+    <option name="KEEP_ITN_PASSWORD" value="true" />
+    <option name="EMAIL" value="" />
+  </component>
+  <component name="OCExternalDocSettings">
+    <option name="browser" value="DASH" />
+  </component>
+  <component name="OCRunConfigurationsSettings">
+    <option name="STOP_RUNNING_SESSION_AUTOMATICALLY" value="true" />
+  </component>
+  <component name="XcodeSettings">
+    <option name="selectedXcode" value="/Applications/Xcode.app/Contents/Developer" />
+    <option name="detectedXcodes">
+      <list>
+        <option value="/Applications/Xcode-beta.app/Contents/Developer" />
+        <option value="/Applications/Xcode.app/Contents/Developer" />
+      </list>
+    </option>
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+</application>
