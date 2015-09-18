@@ -1,0 +1,52 @@
+NO
+10
+22
+Edge Mitchell-Pizzutelli
+Mitchell
+Pizzutelli
+Orange
+33
+Edge Roche-Pizzutelli
+Roche
+Pizzutelli
+Orange
+35
+Edge Roche-Mitchell
+Roche
+Mitchell
+Orange
+59
+Edge Carpenter-Scott
+Carpenter
+Scott
+Indigo
+83
+Edge Seiferas-Guenther
+Seiferas
+Guenther
+Violet
+92
+Edge Brown-Scott
+Brown
+Scott
+Indigo
+93
+Edge Brown-Carpenter
+Brown
+Carpenter
+Indigo
+103
+Edge Allen-Scott
+Allen
+Scott
+Indigo
+104
+Edge Allen-Carpenter
+Allen
+Carpenter
+Indigo
+107
+Edge Allen-Brown
+Allen
+Brown
+Indigo

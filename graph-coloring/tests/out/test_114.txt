@@ -1,0 +1,32 @@
+NO
+6
+33
+Edge Carpenter-Criswell
+Carpenter
+Criswell
+Indigo
+64
+Edge Mitchell-Guo
+Mitchell
+Guo
+Blue
+113
+Edge Costello-Criswell
+Costello
+Criswell
+Indigo
+144
+Edge Brown-Guo
+Brown
+Guo
+Blue
+176
+Edge Howard-Guo
+Howard
+Guo
+Blue
+249
+Edge Guenther-Brown
+Guenther
+Brown
+Blue

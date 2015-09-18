@@ -1,0 +1,181 @@
+13
+35
+4
+Ding
+Violet
+5
+Howard
+Violet
+9
+Guo
+Green
+8
+Schubert
+Green
+12
+Nelson
+Yellow
+1
+Venkitasubramaniam
+Violet
+3
+Pawlicki
+Red
+2
+Hoque
+Green
+7
+Gildea
+Indigo
+11
+Stefankovic
+Yellow
+0
+Hemaspaandra
+Blue
+10
+Costello
+Green
+6
+Allen
+Orange
+166
+Edge Allen-Hemaspaandra
+6
+0
+108
+Edge Gildea-Nelson
+7
+12
+111
+Edge Gildea-Hoque
+7
+2
+26
+Edge Guo-Ding
+9
+4
+136
+Edge Hemaspaandra-Pawlicki
+0
+3
+80
+Edge Pawlicki-Guo
+3
+9
+110
+Edge Gildea-Pawlicki
+7
+3
+145
+Edge Costello-Guo
+10
+9
+137
+Edge Hemaspaandra-Hoque
+0
+2
+139
+Edge Hemaspaandra-Stefankovic
+0
+11
+156
+Edge Allen-Ding
+6
+4
+40
+Edge Schubert-Howard
+8
+5
+93
+Edge Hoque-Guo
+2
+9
+69
+Edge Venkitasubramaniam-Nelson
+1
+12
+96
+Edge Hoque-Venkitasubramaniam
+2
+1
+13
+Edge Howard-Ding
+5
+4
+125
+Edge Stefankovic-Gildea
+11
+7
+118
+Edge Stefankovic-Howard
+11
+5
+117
+Edge Stefankovic-Ding
+11
+4
+138
+Edge Hemaspaandra-Gildea
+0
+7
+122
+Edge Stefankovic-Venkitasubramaniam
+11
+1
+67
+Edge Venkitasubramaniam-Guo
+1
+9
+167
+Edge Allen-Costello
+6
+10
+151
+Edge Costello-Gildea
+10
+7
+68
+Edge Venkitasubramaniam-Schubert
+1
+8
+159
+Edge Allen-Schubert
+6
+8
+91
+Edge Hoque-Ding
+2
+4
+123
+Edge Stefankovic-Pawlicki
+11
+3
+152
+Edge Costello-Stefankovic
+10
+11
+54
+Edge Nelson-Guo
+12
+9
+109
+Edge Gildea-Venkitasubramaniam
+7
+1
+107
+Edge Gildea-Schubert
+7
+8
+161
+Edge Allen-Venkitasubramaniam
+6
+1
+153
+Edge Costello-Hemaspaandra
+10
+0
+164
+Edge Allen-Gildea
+6
+7

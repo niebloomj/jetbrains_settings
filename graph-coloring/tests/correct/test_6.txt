@@ -1,0 +1,62 @@
+NO
+12
+52
+Edge Ding-Hoque
+Ding
+Hoque
+Yellow
+85
+Edge Allen-Roche
+Allen
+Roche
+Violet
+120
+Edge Kautz-Hoque
+Kautz
+Hoque
+Yellow
+122
+Edge Kautz-Ding
+Kautz
+Ding
+Yellow
+138
+Edge Howard-Criswell
+Howard
+Criswell
+Orange
+170
+Edge Pizzutelli-Roche
+Pizzutelli
+Roche
+Violet
+175
+Edge Pizzutelli-Allen
+Pizzutelli
+Allen
+Violet
+213
+Edge Guenther-Stefankovic
+Guenther
+Stefankovic
+Red
+232
+Edge Schubert-Mitchell
+Schubert
+Mitchell
+Green
+244
+Edge Shen-Pullara
+Shen
+Pullara
+Blue
+257
+Edge Singkhamsack-Criswell
+Singkhamsack
+Criswell
+Orange
+263
+Edge Singkhamsack-Howard
+Singkhamsack
+Howard
+Orange

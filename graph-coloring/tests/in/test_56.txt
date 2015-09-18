@@ -1,0 +1,400 @@
+18
+86
+9
+Pullara
+Violet
+3
+Ipek
+Blue
+10
+Hemaspaandra
+Violet
+14
+Nelson
+Yellow
+12
+Howard
+Orange
+5
+Mitchell
+Blue
+4
+Ding
+Orange
+7
+Brown
+Indigo
+16
+Venkitasubramaniam
+Violet
+6
+Hoque
+Yellow
+17
+Seiferas
+Orange
+8
+Gildea
+Green
+0
+Costello
+Blue
+13
+Allen
+Violet
+1
+Carpenter
+Green
+11
+Pawlicki
+Red
+15
+Shen
+Indigo
+2
+Scott
+Blue
+182
+Edge Seiferas-Hemaspaandra
+17
+10
+312
+Edge Scott-Ding
+2
+4
+145
+Edge Venkitasubramaniam-Ipek
+16
+3
+239
+Edge Allen-Mitchell
+13
+5
+261
+Edge Carpenter-Hoque
+1
+6
+292
+Edge Shen-Howard
+15
+12
+199
+Edge Gildea-Ipek
+8
+3
+289
+Edge Shen-Ipek
+15
+3
+168
+Edge Hoque-Ding
+6
+4
+149
+Edge Venkitasubramaniam-Mitchell
+16
+5
+257
+Edge Carpenter-Mitchell
+1
+5
+270
+Edge Pawlicki-Pullara
+11
+9
+202
+Edge Gildea-Howard
+8
+12
+246
+Edge Allen-Costello
+13
+0
+245
+Edge Allen-Gildea
+13
+8
+264
+Edge Carpenter-Costello
+1
+0
+226
+Edge Costello-Seiferas
+0
+17
+299
+Edge Shen-Gildea
+15
+8
+273
+Edge Pawlicki-Nelson
+11
+14
+321
+Edge Scott-Pawlicki
+2
+11
+300
+Edge Shen-Costello
+15
+0
+242
+Edge Allen-Venkitasubramaniam
+13
+16
+293
+Edge Shen-Mitchell
+15
+5
+162
+Edge Hoque-Pullara
+6
+9
+237
+Edge Allen-Nelson
+13
+14
+263
+Edge Carpenter-Gildea
+1
+8
+238
+Edge Allen-Howard
+13
+12
+294
+Edge Shen-Ding
+15
+4
+188
+Edge Seiferas-Venkitasubramaniam
+17
+16
+131
+Edge Brown-Mitchell
+7
+5
+90
+Edge Mitchell-Pullara
+5
+9
+241
+Edge Allen-Brown
+13
+7
+281
+Edge Pawlicki-Gildea
+11
+8
+183
+Edge Seiferas-Nelson
+17
+14
+307
+Edge Scott-Ipek
+2
+3
+301
+Edge Shen-Allen
+15
+13
+184
+Edge Seiferas-Howard
+17
+12
+306
+Edge Scott-Pullara
+2
+9
+110
+Edge Ding-Hemaspaandra
+4
+10
+130
+Edge Brown-Howard
+7
+12
+265
+Edge Carpenter-Allen
+1
+13
+167
+Edge Hoque-Mitchell
+6
+5
+108
+Edge Ding-Pullara
+4
+9
+180
+Edge Seiferas-Pullara
+17
+9
+93
+Edge Mitchell-Nelson
+5
+14
+205
+Edge Gildea-Brown
+8
+7
+291
+Edge Shen-Nelson
+15
+14
+129
+Edge Brown-Nelson
+7
+14
+318
+Edge Scott-Costello
+2
+0
+166
+Edge Hoque-Howard
+6
+12
+189
+Edge Seiferas-Hoque
+17
+6
+146
+Edge Venkitasubramaniam-Hemaspaandra
+16
+10
+198
+Edge Gildea-Pullara
+8
+9
+223
+Edge Costello-Brown
+0
+7
+279
+Edge Pawlicki-Hoque
+11
+6
+258
+Edge Carpenter-Ding
+1
+4
+36
+Edge Hemaspaandra-Pullara
+10
+9
+144
+Edge Venkitasubramaniam-Pullara
+16
+9
+170
+Edge Hoque-Venkitasubramaniam
+6
+16
+308
+Edge Scott-Hemaspaandra
+2
+10
+94
+Edge Mitchell-Howard
+5
+12
+163
+Edge Hoque-Ipek
+6
+3
+219
+Edge Costello-Nelson
+0
+14
+288
+Edge Shen-Pullara
+15
+9
+310
+Edge Scott-Howard
+2
+12
+75
+Edge Howard-Nelson
+12
+14
+37
+Edge Hemaspaandra-Ipek
+10
+3
+206
+Edge Gildea-Venkitasubramaniam
+8
+16
+298
+Edge Shen-Seiferas
+15
+17
+92
+Edge Mitchell-Hemaspaandra
+5
+10
+148
+Edge Venkitasubramaniam-Howard
+16
+12
+150
+Edge Venkitasubramaniam-Ding
+16
+4
+303
+Edge Shen-Pawlicki
+15
+11
+315
+Edge Scott-Hoque
+2
+6
+274
+Edge Pawlicki-Howard
+11
+12
+282
+Edge Pawlicki-Costello
+11
+0
+220
+Edge Costello-Howard
+0
+12
+234
+Edge Allen-Pullara
+13
+9
+235
+Edge Allen-Ipek
+13
+3
+128
+Edge Brown-Hemaspaandra
+7
+10
+316
+Edge Scott-Seiferas
+2
+17
+295
+Edge Shen-Brown
+15
+7
+236
+Edge Allen-Hemaspaandra
+13
+10
+259
+Edge Carpenter-Brown
+1
+7
+280
+Edge Pawlicki-Seiferas
+11
+17
+187
+Edge Seiferas-Brown
+17
+7

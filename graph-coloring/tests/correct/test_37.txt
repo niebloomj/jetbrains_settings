@@ -1,0 +1,17 @@
+NO
+3
+67
+Edge Hemaspaandra-Luo
+Hemaspaandra
+Luo
+Red
+68
+Edge Hemaspaandra-Guenther
+Hemaspaandra
+Guenther
+Red
+78
+Edge Ipek-Pizzutelli
+Ipek
+Pizzutelli
+Violet

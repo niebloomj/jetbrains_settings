@@ -1,0 +1,114 @@
+8
+22
+4
+Dwarkadas
+Violet
+2
+Hoque
+Orange
+7
+Costello
+Blue
+3
+Guenther
+Orange
+0
+Brown
+Yellow
+6
+Howard
+Indigo
+5
+Ipek
+Violet
+1
+Singkhamsack
+Green
+56
+Edge Singkhamsack-Dwarkadas
+1
+4
+48
+Edge Ipek-Dwarkadas
+5
+4
+57
+Edge Singkhamsack-Hoque
+1
+2
+43
+Edge Howard-Guenther
+6
+3
+60
+Edge Singkhamsack-Brown
+1
+0
+59
+Edge Singkhamsack-Guenther
+1
+3
+26
+Edge Guenther-Costello
+3
+7
+17
+Edge Costello-Hoque
+7
+2
+49
+Edge Ipek-Hoque
+5
+2
+61
+Edge Singkhamsack-Howard
+1
+6
+58
+Edge Singkhamsack-Costello
+1
+7
+32
+Edge Brown-Dwarkadas
+0
+4
+51
+Edge Ipek-Guenther
+5
+3
+52
+Edge Ipek-Brown
+5
+0
+40
+Edge Howard-Dwarkadas
+6
+4
+50
+Edge Ipek-Costello
+5
+7
+44
+Edge Howard-Brown
+6
+0
+35
+Edge Brown-Guenther
+0
+3
+8
+Edge Hoque-Dwarkadas
+2
+4
+42
+Edge Howard-Costello
+6
+7
+25
+Edge Guenther-Hoque
+3
+2
+62
+Edge Singkhamsack-Ipek
+1
+5

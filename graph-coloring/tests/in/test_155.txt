@@ -1,0 +1,87 @@
+7
+16
+1
+Criswell
+Yellow
+3
+Pizzutelli
+Indigo
+0
+Hoque
+Green
+2
+Ding
+Green
+5
+Hemaspaandra
+Violet
+4
+Pawlicki
+Orange
+6
+Gildea
+Indigo
+36
+Edge Pawlicki-Pizzutelli
+4
+3
+45
+Edge Gildea-Ding
+6
+2
+44
+Edge Gildea-Hoque
+6
+0
+15
+Edge Hoque-Pizzutelli
+0
+3
+23
+Edge Ding-Hoque
+2
+0
+38
+Edge Pawlicki-Ding
+4
+2
+37
+Edge Pawlicki-Hoque
+4
+0
+47
+Edge Gildea-Pawlicki
+6
+4
+14
+Edge Hoque-Criswell
+0
+1
+42
+Edge Gildea-Criswell
+6
+1
+28
+Edge Hemaspaandra-Criswell
+5
+1
+46
+Edge Gildea-Hemaspaandra
+6
+5
+30
+Edge Hemaspaandra-Hoque
+5
+0
+39
+Edge Pawlicki-Hemaspaandra
+4
+5
+31
+Edge Hemaspaandra-Ding
+5
+2
+21
+Edge Ding-Criswell
+2
+1

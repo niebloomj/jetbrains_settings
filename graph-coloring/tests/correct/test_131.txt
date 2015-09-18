@@ -1,0 +1,22 @@
+NO
+4
+61
+Edge Mitchell-Pullara
+Mitchell
+Pullara
+Blue
+87
+Edge Howard-Hemaspaandra
+Howard
+Hemaspaandra
+Indigo
+123
+Edge Schubert-Hemaspaandra
+Schubert
+Hemaspaandra
+Indigo
+127
+Edge Schubert-Howard
+Schubert
+Howard
+Indigo

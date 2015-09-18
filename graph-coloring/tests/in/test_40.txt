@@ -1,0 +1,243 @@
+15
+49
+5
+Hoque
+Green
+13
+Kautz
+Violet
+3
+Pawlicki
+Violet
+11
+Hemaspaandra
+Indigo
+9
+Brown
+Indigo
+10
+Schubert
+Green
+14
+Scott
+Violet
+7
+Pizzutelli
+Orange
+0
+Pullara
+Red
+6
+Ipek
+Green
+2
+Costello
+Orange
+12
+Carpenter
+Green
+8
+Liu
+Blue
+4
+Venkitasubramaniam
+Red
+1
+Nelson
+Red
+166
+Edge Carpenter-Kautz
+12
+13
+202
+Edge Venkitasubramaniam-Pizzutelli
+4
+7
+184
+Edge Liu-Brown
+8
+9
+78
+Edge Schubert-Hemaspaandra
+10
+11
+207
+Edge Venkitasubramaniam-Liu
+4
+8
+222
+Edge Nelson-Liu
+1
+8
+121
+Edge Pullara-Kautz
+0
+13
+46
+Edge Hemaspaandra-Kautz
+11
+13
+141
+Edge Ipek-Scott
+6
+14
+94
+Edge Scott-Brown
+14
+9
+219
+Edge Nelson-Ipek
+1
+6
+62
+Edge Brown-Pawlicki
+9
+3
+217
+Edge Nelson-Pizzutelli
+1
+7
+111
+Edge Pizzutelli-Scott
+7
+14
+153
+Edge Costello-Hemaspaandra
+2
+11
+107
+Edge Pizzutelli-Pawlicki
+7
+3
+95
+Edge Scott-Schubert
+14
+10
+150
+Edge Costello-Hoque
+2
+5
+220
+Edge Nelson-Costello
+1
+2
+92
+Edge Scott-Pawlicki
+14
+3
+126
+Edge Pullara-Scott
+0
+14
+122
+Edge Pullara-Pawlicki
+0
+3
+105
+Edge Pizzutelli-Hoque
+7
+5
+76
+Edge Schubert-Kautz
+10
+13
+136
+Edge Ipek-Kautz
+6
+13
+109
+Edge Pizzutelli-Brown
+7
+9
+106
+Edge Pizzutelli-Kautz
+7
+13
+135
+Edge Ipek-Hoque
+6
+5
+189
+Edge Liu-Ipek
+8
+6
+15
+Edge Kautz-Hoque
+13
+5
+181
+Edge Liu-Kautz
+8
+13
+151
+Edge Costello-Kautz
+2
+13
+60
+Edge Brown-Hoque
+9
+5
+75
+Edge Schubert-Hoque
+10
+5
+201
+Edge Venkitasubramaniam-Scott
+4
+14
+157
+Edge Costello-Pizzutelli
+2
+7
+221
+Edge Nelson-Carpenter
+1
+12
+155
+Edge Costello-Schubert
+2
+10
+180
+Edge Liu-Hoque
+8
+5
+158
+Edge Costello-Pullara
+2
+0
+218
+Edge Nelson-Pullara
+1
+0
+216
+Edge Nelson-Scott
+1
+14
+187
+Edge Liu-Pizzutelli
+8
+7
+127
+Edge Pullara-Pizzutelli
+0
+7
+183
+Edge Liu-Hemaspaandra
+8
+11
+168
+Edge Carpenter-Hemaspaandra
+12
+11
+210
+Edge Nelson-Hoque
+1
+5
+156
+Edge Costello-Scott
+2
+14
+61
+Edge Brown-Kautz
+9
+13

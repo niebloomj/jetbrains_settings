@@ -1,0 +1,82 @@
+NO
+16
+54
+Edge Singkhamsack-Guo
+Singkhamsack
+Guo
+Red
+75
+Edge Pawlicki-Singkhamsack
+Pawlicki
+Singkhamsack
+Red
+90
+Edge Ding-Guo
+Ding
+Guo
+Red
+93
+Edge Ding-Singkhamsack
+Ding
+Singkhamsack
+Red
+94
+Edge Ding-Pawlicki
+Ding
+Pawlicki
+Red
+112
+Edge Ipek-Pawlicki
+Ipek
+Pawlicki
+Red
+146
+Edge Shen-Hemaspaandra
+Shen
+Hemaspaandra
+Orange
+181
+Edge Liu-Nelson
+Liu
+Nelson
+Blue
+217
+Edge Schubert-Nelson
+Schubert
+Nelson
+Blue
+226
+Edge Schubert-Liu
+Schubert
+Liu
+Blue
+253
+Edge Criswell-Nelson
+Criswell
+Nelson
+Blue
+262
+Edge Criswell-Liu
+Criswell
+Liu
+Blue
+264
+Edge Criswell-Schubert
+Criswell
+Schubert
+Blue
+289
+Edge Mitchell-Nelson
+Mitchell
+Nelson
+Blue
+298
+Edge Mitchell-Liu
+Mitchell
+Liu
+Blue
+302
+Edge Mitchell-Criswell
+Mitchell
+Criswell
+Blue

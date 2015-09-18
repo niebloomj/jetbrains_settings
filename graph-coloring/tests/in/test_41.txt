@@ -1,0 +1,116 @@
+14
+18
+11
+Shen
+Blue
+13
+Gildea
+Indigo
+10
+Nelson
+Violet
+12
+Seiferas
+Red
+7
+Criswell
+Orange
+5
+Scott
+Orange
+2
+Schubert
+Green
+6
+Brown
+Violet
+8
+Guenther
+Green
+4
+Dwarkadas
+Blue
+1
+Liu
+Red
+0
+Mitchell
+Green
+9
+Pizzutelli
+Blue
+3
+Stefankovic
+Indigo
+170
+Edge Pizzutelli-Nelson
+9
+10
+73
+Edge Scott-Seiferas
+5
+12
+140
+Edge Liu-Shen
+1
+11
+147
+Edge Liu-Brown
+1
+6
+161
+Edge Mitchell-Brown
+0
+6
+143
+Edge Liu-Seiferas
+1
+12
+149
+Edge Liu-Dwarkadas
+1
+4
+112
+Edge Guenther-Shen
+8
+11
+176
+Edge Pizzutelli-Guenther
+9
+8
+133
+Edge Dwarkadas-Brown
+4
+6
+118
+Edge Guenther-Schubert
+8
+2
+58
+Edge Criswell-Nelson
+7
+10
+85
+Edge Schubert-Gildea
+2
+13
+131
+Edge Dwarkadas-Scott
+4
+5
+102
+Edge Brown-Criswell
+6
+7
+168
+Edge Pizzutelli-Shen
+9
+11
+178
+Edge Pizzutelli-Liu
+9
+1
+187
+Edge Stefankovic-Scott
+3
+5

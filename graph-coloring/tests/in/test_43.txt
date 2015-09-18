@@ -1,0 +1,358 @@
+16
+77
+11
+Nelson
+Green
+12
+Singkhamsack
+Violet
+2
+Allen
+Indigo
+9
+Liu
+Violet
+6
+Pizzutelli
+Red
+8
+Hemaspaandra
+Green
+4
+Venkitasubramaniam
+Green
+13
+Kautz
+Yellow
+7
+Costello
+Red
+1
+Ipek
+Green
+15
+Pullara
+Blue
+10
+Pawlicki
+Red
+5
+Mitchell
+Blue
+3
+Roche
+Orange
+0
+Gildea
+Yellow
+14
+Scott
+Green
+209
+Edge Roche-Singkhamsack
+3
+12
+242
+Edge Scott-Allen
+14
+2
+220
+Edge Roche-Mitchell
+3
+5
+84
+Edge Hemaspaandra-Pizzutelli
+8
+6
+248
+Edge Scott-Costello
+14
+7
+254
+Edge Scott-Gildea
+14
+0
+219
+Edge Roche-Pawlicki
+3
+10
+231
+Edge Gildea-Kautz
+0
+13
+145
+Edge Ipek-Singkhamsack
+1
+12
+169
+Edge Pullara-Ipek
+15
+1
+196
+Edge Mitchell-Pizzutelli
+5
+6
+98
+Edge Venkitasubramaniam-Allen
+4
+2
+101
+Edge Venkitasubramaniam-Hemaspaandra
+4
+8
+202
+Edge Mitchell-Pullara
+5
+15
+245
+Edge Scott-Hemaspaandra
+14
+8
+182
+Edge Pawlicki-Venkitasubramaniam
+10
+4
+162
+Edge Pullara-Allen
+15
+2
+186
+Edge Pawlicki-Pullara
+10
+15
+116
+Edge Kautz-Pizzutelli
+13
+6
+132
+Edge Costello-Pizzutelli
+7
+6
+212
+Edge Roche-Pizzutelli
+3
+6
+211
+Edge Roche-Liu
+3
+9
+240
+Edge Scott-Nelson
+14
+11
+227
+Edge Gildea-Liu
+0
+9
+198
+Edge Mitchell-Venkitasubramaniam
+5
+4
+234
+Edge Gildea-Pullara
+0
+15
+160
+Edge Pullara-Nelson
+15
+11
+192
+Edge Mitchell-Nelson
+5
+11
+100
+Edge Venkitasubramaniam-Pizzutelli
+4
+6
+197
+Edge Mitchell-Hemaspaandra
+5
+8
+184
+Edge Pawlicki-Costello
+10
+7
+166
+Edge Pullara-Venkitasubramaniam
+15
+4
+113
+Edge Kautz-Singkhamsack
+13
+12
+149
+Edge Ipek-Hemaspaandra
+1
+8
+176
+Edge Pawlicki-Nelson
+10
+11
+233
+Edge Gildea-Ipek
+0
+1
+200
+Edge Mitchell-Costello
+5
+7
+253
+Edge Scott-Roche
+14
+3
+213
+Edge Roche-Hemaspaandra
+3
+8
+235
+Edge Gildea-Pawlicki
+0
+10
+181
+Edge Pawlicki-Hemaspaandra
+10
+8
+210
+Edge Roche-Allen
+3
+2
+178
+Edge Pawlicki-Allen
+10
+2
+161
+Edge Pullara-Singkhamsack
+15
+12
+152
+Edge Ipek-Costello
+1
+7
+65
+Edge Pizzutelli-Singkhamsack
+6
+12
+193
+Edge Mitchell-Singkhamsack
+5
+12
+115
+Edge Kautz-Liu
+13
+9
+128
+Edge Costello-Nelson
+7
+11
+229
+Edge Gildea-Hemaspaandra
+0
+8
+114
+Edge Kautz-Allen
+13
+2
+177
+Edge Pawlicki-Singkhamsack
+10
+12
+243
+Edge Scott-Liu
+14
+9
+117
+Edge Kautz-Hemaspaandra
+13
+8
+151
+Edge Ipek-Kautz
+1
+13
+252
+Edge Scott-Mitchell
+14
+5
+224
+Edge Gildea-Nelson
+0
+11
+130
+Edge Costello-Allen
+7
+2
+251
+Edge Scott-Pawlicki
+14
+10
+241
+Edge Scott-Singkhamsack
+14
+12
+203
+Edge Mitchell-Pawlicki
+5
+10
+180
+Edge Pawlicki-Pizzutelli
+10
+6
+244
+Edge Scott-Pizzutelli
+14
+6
+49
+Edge Liu-Singkhamsack
+9
+12
+82
+Edge Hemaspaandra-Allen
+8
+2
+81
+Edge Hemaspaandra-Singkhamsack
+8
+12
+32
+Edge Allen-Nelson
+2
+11
+144
+Edge Ipek-Nelson
+1
+11
+135
+Edge Costello-Kautz
+7
+13
+217
+Edge Roche-Ipek
+3
+1
+112
+Edge Kautz-Nelson
+13
+11
+236
+Edge Gildea-Mitchell
+0
+5
+129
+Edge Costello-Singkhamsack
+7
+12
+226
+Edge Gildea-Allen
+0
+2
+208
+Edge Roche-Nelson
+3
+11
+164
+Edge Pullara-Pizzutelli
+15
+6
+33
+Edge Allen-Singkhamsack
+2
+12

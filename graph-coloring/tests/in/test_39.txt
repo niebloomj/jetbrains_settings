@@ -1,0 +1,121 @@
+9
+23
+3
+Allen
+Green
+5
+Singkhamsack
+Violet
+0
+Venkitasubramaniam
+Indigo
+8
+Pullara
+Yellow
+4
+Criswell
+Orange
+1
+Scott
+Yellow
+6
+Luo
+Yellow
+7
+Nelson
+Indigo
+2
+Guo
+Yellow
+46
+Edge Scott-Singkhamsack
+1
+5
+19
+Edge Venkitasubramaniam-Singkhamsack
+0
+5
+49
+Edge Scott-Criswell
+1
+4
+65
+Edge Nelson-Venkitasubramaniam
+7
+0
+47
+Edge Scott-Venkitasubramaniam
+1
+0
+69
+Edge Nelson-Luo
+7
+6
+79
+Edge Guo-Nelson
+2
+7
+75
+Edge Guo-Pullara
+2
+8
+66
+Edge Nelson-Pullara
+7
+8
+55
+Edge Luo-Singkhamsack
+6
+5
+67
+Edge Nelson-Criswell
+7
+4
+72
+Edge Guo-Allen
+2
+3
+45
+Edge Scott-Allen
+1
+3
+38
+Edge Criswell-Venkitasubramaniam
+4
+0
+36
+Edge Criswell-Allen
+4
+3
+58
+Edge Luo-Criswell
+6
+4
+68
+Edge Nelson-Scott
+7
+1
+54
+Edge Luo-Allen
+6
+3
+63
+Edge Nelson-Allen
+7
+3
+59
+Edge Luo-Scott
+6
+1
+27
+Edge Pullara-Allen
+8
+3
+76
+Edge Guo-Criswell
+2
+4
+74
+Edge Guo-Venkitasubramaniam
+2
+0

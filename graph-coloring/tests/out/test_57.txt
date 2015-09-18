@@ -1,0 +1,57 @@
+NO
+11
+73
+Edge Luo-Costello
+Luo
+Costello
+Red
+108
+Edge Pawlicki-Carpenter
+Pawlicki
+Carpenter
+Indigo
+113
+Edge Pawlicki-Stefankovic
+Pawlicki
+Stefankovic
+Indigo
+151
+Edge Gildea-Hoque
+Gildea
+Hoque
+Orange
+164
+Edge Guo-Ipek
+Guo
+Ipek
+Green
+246
+Edge Pullara-Venkitasubramaniam
+Pullara
+Venkitasubramaniam
+Blue
+259
+Edge Singkhamsack-Hoque
+Singkhamsack
+Hoque
+Orange
+262
+Edge Singkhamsack-Shen
+Singkhamsack
+Shen
+Orange
+271
+Edge Seiferas-Costello
+Seiferas
+Costello
+Red
+273
+Edge Seiferas-Dwarkadas
+Seiferas
+Dwarkadas
+Red
+274
+Edge Seiferas-Luo
+Seiferas
+Luo
+Red

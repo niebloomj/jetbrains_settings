@@ -1,0 +1,28 @@
+6
+2
+0
+Brown
+Yellow
+5
+Criswell
+Indigo
+4
+Carpenter
+Indigo
+1
+Stefankovic
+Red
+3
+Guenther
+Yellow
+2
+Allen
+Violet
+18
+Edge Stefankovic-Brown
+1
+0
+6
+Edge Criswell-Brown
+5
+0

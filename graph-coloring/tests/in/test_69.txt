@@ -1,0 +1,30 @@
+4
+4
+1
+Venkitasubramaniam
+Blue
+0
+Howard
+Violet
+3
+Schubert
+Orange
+2
+Carpenter
+Blue
+13
+Edge Carpenter-Howard
+2
+0
+9
+Edge Schubert-Howard
+3
+0
+14
+Edge Carpenter-Schubert
+2
+3
+4
+Edge Howard-Venkitasubramaniam
+0
+1

@@ -1,0 +1,72 @@
+NO
+14
+33
+Edge Roche-Brown
+Roche
+Brown
+Indigo
+48
+Edge Allen-Singkhamsack
+Allen
+Singkhamsack
+Violet
+101
+Edge Ding-Carpenter
+Ding
+Carpenter
+Green
+135
+Edge Shen-Kautz
+Shen
+Kautz
+Yellow
+146
+Edge Stefankovic-Roche
+Stefankovic
+Roche
+Indigo
+164
+Edge Gildea-Pawlicki
+Gildea
+Pawlicki
+Orange
+176
+Edge Luo-Singkhamsack
+Luo
+Singkhamsack
+Violet
+179
+Edge Luo-Allen
+Luo
+Allen
+Violet
+193
+Edge Nelson-Brown
+Nelson
+Brown
+Indigo
+194
+Edge Nelson-Roche
+Nelson
+Roche
+Indigo
+201
+Edge Nelson-Stefankovic
+Nelson
+Stefankovic
+Indigo
+231
+Edge Liu-Kautz
+Liu
+Kautz
+Yellow
+244
+Edge Dwarkadas-Pawlicki
+Dwarkadas
+Pawlicki
+Orange
+250
+Edge Dwarkadas-Gildea
+Dwarkadas
+Gildea
+Orange

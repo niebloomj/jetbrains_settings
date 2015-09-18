@@ -1,0 +1,72 @@
+NO
+14
+48
+Edge Carpenter-Venkitasubramaniam
+Carpenter
+Venkitasubramaniam
+Violet
+96
+Edge Hoque-Venkitasubramaniam
+Hoque
+Venkitasubramaniam
+Violet
+99
+Edge Hoque-Carpenter
+Hoque
+Carpenter
+Violet
+128
+Edge Pullara-Venkitasubramaniam
+Pullara
+Venkitasubramaniam
+Violet
+131
+Edge Pullara-Carpenter
+Pullara
+Carpenter
+Violet
+134
+Edge Pullara-Hoque
+Pullara
+Hoque
+Violet
+165
+Edge Costello-Howard
+Costello
+Howard
+Red
+185
+Edge Pizzutelli-Hemaspaandra
+Pizzutelli
+Hemaspaandra
+Indigo
+197
+Edge Shen-Howard
+Shen
+Howard
+Red
+202
+Edge Shen-Costello
+Shen
+Costello
+Red
+212
+Edge Ding-Gildea
+Ding
+Gildea
+Blue
+228
+Edge Mitchell-Gildea
+Mitchell
+Gildea
+Blue
+237
+Edge Mitchell-Ding
+Mitchell
+Ding
+Blue
+247
+Edge Guenther-Criswell
+Guenther
+Criswell
+Yellow

@@ -1,0 +1,182 @@
+12
+36
+4
+Howard
+Blue
+0
+Pullara
+Violet
+8
+Liu
+Green
+11
+Dwarkadas
+Red
+2
+Stefankovic
+Yellow
+10
+Nelson
+Green
+1
+Schubert
+Orange
+3
+Hemaspaandra
+Violet
+7
+Pizzutelli
+Green
+5
+Hoque
+Orange
+9
+Ding
+Red
+6
+Gildea
+Green
+124
+Edge Ding-Stefankovic
+9
+2
+48
+Edge Stefankovic-Howard
+2
+4
+102
+Edge Pizzutelli-Schubert
+7
+1
+103
+Edge Pizzutelli-Hemaspaandra
+7
+3
+101
+Edge Pizzutelli-Nelson
+7
+10
+86
+Edge Hemaspaandra-Liu
+3
+8
+24
+Edge Liu-Howard
+8
+4
+73
+Edge Schubert-Pullara
+1
+0
+123
+Edge Ding-Dwarkadas
+9
+11
+129
+Edge Ding-Hoque
+9
+5
+112
+Edge Hoque-Stefankovic
+5
+2
+64
+Edge Nelson-Stefankovic
+10
+2
+142
+Edge Gildea-Ding
+6
+9
+127
+Edge Ding-Hemaspaandra
+9
+3
+125
+Edge Ding-Nelson
+9
+10
+136
+Edge Gildea-Stefankovic
+6
+2
+89
+Edge Hemaspaandra-Nelson
+3
+10
+122
+Edge Ding-Liu
+9
+8
+110
+Edge Hoque-Liu
+5
+8
+141
+Edge Gildea-Hoque
+6
+5
+75
+Edge Schubert-Dwarkadas
+1
+11
+96
+Edge Pizzutelli-Howard
+7
+4
+84
+Edge Hemaspaandra-Howard
+3
+4
+25
+Edge Liu-Pullara
+8
+0
+99
+Edge Pizzutelli-Dwarkadas
+7
+11
+111
+Edge Hoque-Dwarkadas
+5
+11
+134
+Edge Gildea-Liu
+6
+8
+108
+Edge Hoque-Howard
+5
+4
+77
+Edge Schubert-Nelson
+1
+10
+12
+Edge Pullara-Howard
+0
+4
+133
+Edge Gildea-Pullara
+6
+0
+60
+Edge Nelson-Howard
+10
+4
+132
+Edge Gildea-Howard
+6
+4
+100
+Edge Pizzutelli-Stefankovic
+7
+2
+62
+Edge Nelson-Liu
+10
+8
+113
+Edge Hoque-Nelson
+5
+10

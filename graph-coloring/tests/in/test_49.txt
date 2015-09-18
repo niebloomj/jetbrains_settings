@@ -1,0 +1,80 @@
+6
+15
+2
+Hemaspaandra
+Red
+1
+Luo
+Blue
+5
+Criswell
+Indigo
+0
+Venkitasubramaniam
+Indigo
+4
+Howard
+Green
+3
+Ipek
+Yellow
+27
+Edge Howard-Venkitasubramaniam
+4
+0
+18
+Edge Venkitasubramaniam-Hemaspaandra
+0
+2
+25
+Edge Howard-Luo
+4
+1
+33
+Edge Ipek-Venkitasubramaniam
+3
+0
+19
+Edge Venkitasubramaniam-Luo
+0
+1
+34
+Edge Ipek-Howard
+3
+4
+24
+Edge Howard-Hemaspaandra
+4
+2
+20
+Edge Venkitasubramaniam-Criswell
+0
+5
+31
+Edge Ipek-Luo
+3
+1
+6
+Edge Luo-Hemaspaandra
+1
+2
+32
+Edge Ipek-Criswell
+3
+5
+26
+Edge Howard-Criswell
+4
+5
+13
+Edge Criswell-Luo
+5
+1
+12
+Edge Criswell-Hemaspaandra
+5
+2
+30
+Edge Ipek-Hemaspaandra
+3
+2

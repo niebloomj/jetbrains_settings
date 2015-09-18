@@ -1,0 +1,147 @@
+NO
+29
+15
+Edge Hoque-Seiferas
+Hoque
+Seiferas
+Green
+30
+Edge Pizzutelli-Seiferas
+Pizzutelli
+Seiferas
+Green
+31
+Edge Pizzutelli-Hoque
+Pizzutelli
+Hoque
+Green
+60
+Edge Mitchell-Seiferas
+Mitchell
+Seiferas
+Green
+61
+Edge Mitchell-Hoque
+Mitchell
+Hoque
+Green
+62
+Edge Mitchell-Pizzutelli
+Mitchell
+Pizzutelli
+Green
+75
+Edge Shen-Seiferas
+Shen
+Seiferas
+Green
+76
+Edge Shen-Hoque
+Shen
+Hoque
+Green
+77
+Edge Shen-Pizzutelli
+Shen
+Pizzutelli
+Green
+79
+Edge Shen-Mitchell
+Shen
+Mitchell
+Green
+93
+Edge Hemaspaandra-Allen
+Hemaspaandra
+Allen
+Red
+120
+Edge Pawlicki-Seiferas
+Pawlicki
+Seiferas
+Green
+121
+Edge Pawlicki-Hoque
+Pawlicki
+Hoque
+Green
+122
+Edge Pawlicki-Pizzutelli
+Pawlicki
+Pizzutelli
+Green
+124
+Edge Pawlicki-Mitchell
+Pawlicki
+Mitchell
+Green
+125
+Edge Pawlicki-Shen
+Pawlicki
+Shen
+Green
+138
+Edge Ipek-Allen
+Ipek
+Allen
+Red
+141
+Edge Ipek-Hemaspaandra
+Ipek
+Hemaspaandra
+Red
+153
+Edge Dwarkadas-Allen
+Dwarkadas
+Allen
+Red
+156
+Edge Dwarkadas-Hemaspaandra
+Dwarkadas
+Hemaspaandra
+Red
+172
+Edge Kautz-Liu
+Kautz
+Liu
+Indigo
+198
+Edge Scott-Allen
+Scott
+Allen
+Red
+204
+Edge Scott-Ipek
+Scott
+Ipek
+Red
+205
+Edge Scott-Dwarkadas
+Scott
+Dwarkadas
+Red
+213
+Edge Howard-Allen
+Howard
+Allen
+Red
+216
+Edge Howard-Hemaspaandra
+Howard
+Hemaspaandra
+Red
+219
+Edge Howard-Ipek
+Howard
+Ipek
+Red
+220
+Edge Howard-Dwarkadas
+Howard
+Dwarkadas
+Red
+223
+Edge Howard-Scott
+Howard
+Scott
+Red

@@ -1,0 +1,30 @@
+4
+4
+3
+Hemaspaandra
+Yellow
+1
+Seiferas
+Green
+2
+Roche
+Yellow
+0
+Singkhamsack
+Indigo
+12
+Edge Singkhamsack-Hemaspaandra
+0
+3
+4
+Edge Seiferas-Hemaspaandra
+1
+3
+13
+Edge Singkhamsack-Seiferas
+0
+1
+8
+Edge Roche-Hemaspaandra
+2
+3

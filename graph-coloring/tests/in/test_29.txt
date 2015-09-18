@@ -1,0 +1,539 @@
+19
+120
+3
+Ipek
+Green
+10
+Gildea
+Blue
+18
+Kautz
+Blue
+7
+Singkhamsack
+Green
+17
+Carpenter
+Indigo
+4
+Mitchell
+Orange
+16
+Nelson
+Green
+2
+Allen
+Yellow
+14
+Shen
+Green
+6
+Scott
+Green
+11
+Pizzutelli
+Red
+1
+Seiferas
+Orange
+8
+Dwarkadas
+Red
+13
+Venkitasubramaniam
+Red
+15
+Guo
+Orange
+0
+Costello
+Red
+12
+Pullara
+Indigo
+9
+Ding
+Indigo
+5
+Schubert
+Orange
+199
+Edge Pizzutelli-Scott
+11
+6
+254
+Edge Venkitasubramaniam-Allen
+13
+2
+285
+Edge Costello-Ipek
+0
+3
+219
+Edge Seiferas-Pizzutelli
+1
+11
+231
+Edge Dwarkadas-Singkhamsack
+8
+7
+79
+Edge Carpenter-Singkhamsack
+17
+7
+115
+Edge Nelson-Gildea
+16
+10
+310
+Edge Pullara-Nelson
+12
+16
+138
+Edge Allen-Mitchell
+2
+4
+311
+Edge Pullara-Allen
+12
+2
+357
+Edge Schubert-Costello
+5
+0
+296
+Edge Costello-Seiferas
+0
+1
+136
+Edge Allen-Singkhamsack
+2
+7
+269
+Edge Guo-Singkhamsack
+15
+7
+39
+Edge Kautz-Gildea
+18
+10
+251
+Edge Venkitasubramaniam-Carpenter
+13
+17
+307
+Edge Pullara-Singkhamsack
+12
+7
+355
+Edge Schubert-Venkitasubramaniam
+5
+13
+329
+Edge Ding-Nelson
+9
+16
+294
+Edge Costello-Scott
+0
+6
+237
+Edge Dwarkadas-Scott
+8
+6
+288
+Edge Costello-Singkhamsack
+0
+7
+317
+Edge Pullara-Venkitasubramaniam
+12
+13
+333
+Edge Ding-Pizzutelli
+9
+11
+313
+Edge Pullara-Scott
+12
+6
+277
+Edge Guo-Seiferas
+15
+1
+114
+Edge Nelson-Ipek
+16
+3
+59
+Edge Singkhamsack-Kautz
+7
+18
+99
+Edge Mitchell-Carpenter
+4
+17
+96
+Edge Mitchell-Gildea
+4
+10
+306
+Edge Pullara-Kautz
+12
+18
+275
+Edge Guo-Scott
+15
+6
+235
+Edge Dwarkadas-Allen
+8
+2
+335
+Edge Ding-Dwarkadas
+9
+8
+327
+Edge Ding-Carpenter
+9
+17
+273
+Edge Guo-Allen
+15
+2
+328
+Edge Ding-Mitchell
+9
+4
+139
+Edge Allen-Nelson
+2
+16
+117
+Edge Nelson-Singkhamsack
+16
+7
+229
+Edge Dwarkadas-Gildea
+8
+10
+211
+Edge Seiferas-Kautz
+1
+18
+316
+Edge Pullara-Dwarkadas
+12
+8
+255
+Edge Venkitasubramaniam-Shen
+13
+14
+299
+Edge Costello-Guo
+0
+15
+116
+Edge Nelson-Kautz
+16
+18
+197
+Edge Pizzutelli-Allen
+11
+2
+213
+Edge Seiferas-Carpenter
+1
+17
+218
+Edge Seiferas-Scott
+1
+6
+348
+Edge Schubert-Nelson
+5
+16
+308
+Edge Pullara-Carpenter
+12
+17
+287
+Edge Costello-Kautz
+0
+18
+174
+Edge Scott-Singkhamsack
+6
+7
+194
+Edge Pizzutelli-Carpenter
+11
+17
+354
+Edge Schubert-Dwarkadas
+5
+8
+192
+Edge Pizzutelli-Kautz
+11
+18
+236
+Edge Dwarkadas-Shen
+8
+14
+38
+Edge Kautz-Ipek
+18
+3
+118
+Edge Nelson-Carpenter
+16
+17
+272
+Edge Guo-Nelson
+15
+16
+347
+Edge Schubert-Mitchell
+5
+4
+342
+Edge Schubert-Ipek
+5
+3
+253
+Edge Venkitasubramaniam-Nelson
+13
+16
+234
+Edge Dwarkadas-Nelson
+8
+16
+353
+Edge Schubert-Seiferas
+5
+1
+314
+Edge Pullara-Pizzutelli
+12
+11
+352
+Edge Schubert-Pizzutelli
+5
+11
+268
+Edge Guo-Kautz
+15
+18
+345
+Edge Schubert-Singkhamsack
+5
+7
+214
+Edge Seiferas-Mitchell
+1
+4
+78
+Edge Carpenter-Kautz
+17
+18
+349
+Edge Schubert-Allen
+5
+2
+257
+Edge Venkitasubramaniam-Pizzutelli
+13
+11
+133
+Edge Allen-Ipek
+2
+3
+346
+Edge Schubert-Carpenter
+5
+17
+179
+Edge Scott-Shen
+6
+14
+135
+Edge Allen-Kautz
+2
+18
+196
+Edge Pizzutelli-Nelson
+11
+16
+315
+Edge Pullara-Seiferas
+12
+1
+318
+Edge Pullara-Guo
+12
+15
+270
+Edge Guo-Carpenter
+15
+17
+195
+Edge Pizzutelli-Mitchell
+11
+4
+19
+Edge Gildea-Ipek
+10
+3
+119
+Edge Nelson-Mitchell
+16
+4
+358
+Edge Schubert-Pullara
+5
+12
+230
+Edge Dwarkadas-Kautz
+8
+18
+154
+Edge Shen-Kautz
+14
+18
+159
+Edge Shen-Allen
+14
+2
+271
+Edge Guo-Mitchell
+15
+4
+295
+Edge Costello-Pizzutelli
+0
+11
+158
+Edge Shen-Nelson
+14
+16
+209
+Edge Seiferas-Ipek
+1
+3
+248
+Edge Venkitasubramaniam-Gildea
+13
+10
+98
+Edge Mitchell-Singkhamsack
+4
+7
+344
+Edge Schubert-Kautz
+5
+18
+232
+Edge Dwarkadas-Carpenter
+8
+17
+292
+Edge Costello-Allen
+0
+2
+290
+Edge Costello-Mitchell
+0
+4
+252
+Edge Venkitasubramaniam-Mitchell
+13
+4
+171
+Edge Scott-Ipek
+6
+3
+343
+Edge Schubert-Gildea
+5
+10
+249
+Edge Venkitasubramaniam-Kautz
+13
+18
+293
+Edge Costello-Shen
+0
+14
+177
+Edge Scott-Nelson
+6
+16
+356
+Edge Schubert-Guo
+5
+15
+266
+Edge Guo-Ipek
+15
+3
+155
+Edge Shen-Singkhamsack
+14
+7
+279
+Edge Guo-Venkitasubramaniam
+15
+13
+216
+Edge Seiferas-Allen
+1
+2
+215
+Edge Seiferas-Nelson
+1
+16
+267
+Edge Guo-Gildea
+15
+10
+339
+Edge Ding-Pullara
+9
+12
+250
+Edge Venkitasubramaniam-Singkhamsack
+13
+7
+330
+Edge Ding-Allen
+9
+2
+337
+Edge Ding-Guo
+9
+15
+239
+Edge Dwarkadas-Seiferas
+8
+1
+238
+Edge Dwarkadas-Pizzutelli
+8
+11
+77
+Edge Carpenter-Gildea
+17
+10
+336
+Edge Ding-Venkitasubramaniam
+9
+13
+319
+Edge Pullara-Costello
+12
+0
+175
+Edge Scott-Carpenter
+6
+17

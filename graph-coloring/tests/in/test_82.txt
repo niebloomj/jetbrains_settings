@@ -1,0 +1,195 @@
+19
+34
+0
+Hemaspaandra
+Blue
+1
+Venkitasubramaniam
+Indigo
+7
+Pullara
+Violet
+6
+Singkhamsack
+Red
+13
+Howard
+Violet
+4
+Liu
+Indigo
+17
+Pizzutelli
+Red
+2
+Costello
+Yellow
+5
+Mitchell
+Yellow
+15
+Roche
+Green
+14
+Allen
+Yellow
+16
+Gildea
+Yellow
+9
+Seiferas
+Yellow
+10
+Guo
+Red
+11
+Hoque
+Indigo
+8
+Kautz
+Red
+18
+Guenther
+Green
+12
+Ipek
+Green
+3
+Dwarkadas
+Indigo
+233
+Edge Seiferas-Liu
+9
+4
+217
+Edge Gildea-Mitchell
+16
+5
+331
+Edge Ipek-Mitchell
+12
+5
+97
+Edge Liu-Pullara
+4
+7
+250
+Edge Guo-Singkhamsack
+10
+6
+308
+Edge Guenther-Howard
+18
+13
+291
+Edge Kautz-Pizzutelli
+8
+17
+230
+Edge Seiferas-Pullara
+9
+7
+337
+Edge Ipek-Hoque
+12
+11
+330
+Edge Ipek-Costello
+12
+2
+174
+Edge Roche-Singkhamsack
+15
+6
+154
+Edge Mitchell-Pullara
+5
+7
+355
+Edge Dwarkadas-Guo
+3
+10
+335
+Edge Ipek-Seiferas
+12
+9
+173
+Edge Roche-Pullara
+15
+7
+296
+Edge Kautz-Gildea
+8
+16
+350
+Edge Dwarkadas-Mitchell
+3
+5
+253
+Edge Guo-Pizzutelli
+10
+17
+194
+Edge Allen-Howard
+14
+13
+236
+Edge Seiferas-Mitchell
+9
+5
+323
+Edge Ipek-Hemaspaandra
+12
+0
+305
+Edge Guenther-Venkitasubramaniam
+18
+1
+198
+Edge Allen-Mitchell
+14
+5
+357
+Edge Dwarkadas-Kautz
+3
+8
+99
+Edge Liu-Howard
+4
+13
+353
+Edge Dwarkadas-Gildea
+3
+16
+175
+Edge Roche-Howard
+15
+13
+279
+Edge Hoque-Guo
+11
+10
+257
+Edge Guo-Allen
+10
+14
+268
+Edge Hoque-Pullara
+11
+7
+347
+Edge Dwarkadas-Liu
+3
+4
+299
+Edge Kautz-Hoque
+8
+11
+312
+Edge Guenther-Mitchell
+18
+5
+96
+Edge Liu-Venkitasubramaniam
+4
+1

@@ -1,0 +1,142 @@
+NO
+28
+18
+Edge Howard-Ipek
+Howard
+Ipek
+Indigo
+91
+Edge Costello-Howard
+Costello
+Howard
+Indigo
+144
+Edge Pizzutelli-Ipek
+Pizzutelli
+Ipek
+Indigo
+145
+Edge Pizzutelli-Howard
+Pizzutelli
+Howard
+Indigo
+149
+Edge Pizzutelli-Costello
+Pizzutelli
+Costello
+Indigo
+162
+Edge Kautz-Ipek
+Kautz
+Ipek
+Indigo
+163
+Edge Kautz-Howard
+Kautz
+Howard
+Indigo
+167
+Edge Kautz-Costello
+Kautz
+Costello
+Indigo
+170
+Edge Kautz-Pizzutelli
+Kautz
+Pizzutelli
+Indigo
+187
+Edge Brown-Ding
+Brown
+Ding
+Yellow
+198
+Edge Singkhamsack-Ipek
+Singkhamsack
+Ipek
+Indigo
+199
+Edge Singkhamsack-Howard
+Singkhamsack
+Howard
+Indigo
+203
+Edge Singkhamsack-Costello
+Singkhamsack
+Costello
+Indigo
+206
+Edge Singkhamsack-Pizzutelli
+Singkhamsack
+Pizzutelli
+Indigo
+234
+Edge Shen-Ipek
+Shen
+Ipek
+Indigo
+239
+Edge Shen-Costello
+Shen
+Costello
+Indigo
+242
+Edge Shen-Pizzutelli
+Shen
+Pizzutelli
+Indigo
+245
+Edge Shen-Singkhamsack
+Shen
+Singkhamsack
+Indigo
+255
+Edge Scott-Nelson
+Scott
+Nelson
+Red
+274
+Edge Dwarkadas-Pullara
+Dwarkadas
+Pullara
+Violet
+298
+Edge Venkitasubramaniam-Brown
+Venkitasubramaniam
+Brown
+Yellow
+306
+Edge Guenther-Ipek
+Guenther
+Ipek
+Indigo
+307
+Edge Guenther-Howard
+Guenther
+Howard
+Indigo
+311
+Edge Guenther-Costello
+Guenther
+Costello
+Indigo
+314
+Edge Guenther-Pizzutelli
+Guenther
+Pizzutelli
+Indigo
+315
+Edge Guenther-Kautz
+Guenther
+Kautz
+Indigo
+317
+Edge Guenther-Singkhamsack
+Guenther
+Singkhamsack
+Indigo
+319
+Edge Guenther-Shen
+Guenther
+Shen
+Indigo

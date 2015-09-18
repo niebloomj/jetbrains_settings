@@ -1,0 +1,518 @@
+16
+117
+14
+Singkhamsack
+Violet
+9
+Brown
+Indigo
+7
+Roche
+Indigo
+15
+Allen
+Violet
+1
+Pawlicki
+Orange
+11
+Carpenter
+Green
+10
+Ding
+Green
+8
+Kautz
+Yellow
+12
+Shen
+Yellow
+0
+Stefankovic
+Indigo
+4
+Gildea
+Orange
+13
+Luo
+Violet
+3
+Nelson
+Indigo
+5
+Costello
+Blue
+2
+Liu
+Yellow
+6
+Dwarkadas
+Orange
+160
+Edge Gildea-Singkhamsack
+4
+14
+67
+Edge Pawlicki-Allen
+1
+15
+96
+Edge Ding-Singkhamsack
+10
+14
+228
+Edge Liu-Pawlicki
+2
+1
+216
+Edge Costello-Shen
+5
+12
+196
+Edge Nelson-Pawlicki
+3
+1
+179
+Edge Luo-Allen
+13
+15
+164
+Edge Gildea-Pawlicki
+4
+1
+151
+Edge Stefankovic-Kautz
+0
+8
+194
+Edge Nelson-Roche
+3
+7
+217
+Edge Costello-Stefankovic
+5
+0
+241
+Edge Dwarkadas-Brown
+6
+9
+248
+Edge Dwarkadas-Shen
+6
+12
+210
+Edge Costello-Roche
+5
+7
+235
+Edge Liu-Luo
+2
+13
+234
+Edge Liu-Gildea
+2
+4
+115
+Edge Kautz-Allen
+8
+15
+116
+Edge Kautz-Pawlicki
+8
+1
+65
+Edge Pawlicki-Brown
+1
+9
+64
+Edge Pawlicki-Singkhamsack
+1
+14
+249
+Edge Dwarkadas-Stefankovic
+6
+0
+209
+Edge Costello-Brown
+5
+9
+33
+Edge Roche-Brown
+7
+9
+84
+Edge Carpenter-Pawlicki
+11
+1
+203
+Edge Nelson-Luo
+3
+13
+250
+Edge Dwarkadas-Gildea
+6
+4
+185
+Edge Luo-Stefankovic
+13
+0
+229
+Edge Liu-Carpenter
+2
+11
+80
+Edge Carpenter-Singkhamsack
+11
+14
+99
+Edge Ding-Allen
+10
+15
+181
+Edge Luo-Carpenter
+13
+11
+81
+Edge Carpenter-Brown
+11
+9
+230
+Edge Liu-Ding
+2
+10
+149
+Edge Stefankovic-Carpenter
+0
+11
+254
+Edge Dwarkadas-Liu
+6
+2
+200
+Edge Nelson-Shen
+3
+12
+236
+Edge Liu-Nelson
+2
+3
+49
+Edge Allen-Brown
+15
+9
+251
+Edge Dwarkadas-Luo
+6
+13
+100
+Edge Ding-Pawlicki
+10
+1
+192
+Edge Nelson-Singkhamsack
+3
+14
+231
+Edge Liu-Kautz
+2
+8
+50
+Edge Allen-Roche
+15
+7
+178
+Edge Luo-Roche
+13
+7
+201
+Edge Nelson-Stefankovic
+3
+0
+252
+Edge Dwarkadas-Nelson
+6
+3
+83
+Edge Carpenter-Allen
+11
+15
+197
+Edge Nelson-Carpenter
+3
+11
+242
+Edge Dwarkadas-Roche
+6
+7
+135
+Edge Shen-Kautz
+12
+8
+214
+Edge Costello-Ding
+5
+10
+133
+Edge Shen-Carpenter
+12
+11
+152
+Edge Stefankovic-Shen
+0
+12
+227
+Edge Liu-Allen
+2
+15
+211
+Edge Costello-Allen
+5
+15
+131
+Edge Shen-Allen
+12
+15
+183
+Edge Luo-Kautz
+13
+8
+147
+Edge Stefankovic-Allen
+0
+15
+144
+Edge Stefankovic-Singkhamsack
+0
+14
+220
+Edge Costello-Nelson
+5
+3
+215
+Edge Costello-Kautz
+5
+8
+186
+Edge Luo-Gildea
+13
+4
+233
+Edge Liu-Stefankovic
+2
+0
+253
+Edge Dwarkadas-Costello
+6
+5
+169
+Edge Gildea-Stefankovic
+4
+0
+195
+Edge Nelson-Allen
+3
+15
+244
+Edge Dwarkadas-Pawlicki
+6
+1
+202
+Edge Nelson-Gildea
+3
+4
+165
+Edge Gildea-Carpenter
+4
+11
+118
+Edge Kautz-Ding
+8
+10
+132
+Edge Shen-Pawlicki
+12
+1
+198
+Edge Nelson-Ding
+3
+10
+82
+Edge Carpenter-Roche
+11
+7
+243
+Edge Dwarkadas-Allen
+6
+15
+146
+Edge Stefankovic-Roche
+0
+7
+117
+Edge Kautz-Carpenter
+8
+11
+193
+Edge Nelson-Brown
+3
+9
+182
+Edge Luo-Ding
+13
+10
+212
+Edge Costello-Pawlicki
+5
+1
+162
+Edge Gildea-Roche
+4
+7
+97
+Edge Ding-Brown
+10
+9
+114
+Edge Kautz-Roche
+8
+7
+128
+Edge Shen-Singkhamsack
+12
+14
+98
+Edge Ding-Roche
+10
+7
+32
+Edge Roche-Singkhamsack
+7
+14
+129
+Edge Shen-Brown
+12
+9
+247
+Edge Dwarkadas-Kautz
+6
+8
+161
+Edge Gildea-Brown
+4
+9
+134
+Edge Shen-Ding
+12
+10
+66
+Edge Pawlicki-Roche
+1
+7
+177
+Edge Luo-Brown
+13
+9
+219
+Edge Costello-Luo
+5
+13
+199
+Edge Nelson-Kautz
+3
+8
+113
+Edge Kautz-Brown
+8
+9
+150
+Edge Stefankovic-Ding
+0
+10
+246
+Edge Dwarkadas-Ding
+6
+10
+167
+Edge Gildea-Kautz
+4
+8
+166
+Edge Gildea-Ding
+4
+10
+213
+Edge Costello-Carpenter
+5
+11
+48
+Edge Allen-Singkhamsack
+15
+14
+180
+Edge Luo-Pawlicki
+13
+1
+225
+Edge Liu-Brown
+2
+9
+130
+Edge Shen-Roche
+12
+7
+176
+Edge Luo-Singkhamsack
+13
+14
+218
+Edge Costello-Gildea
+5
+4
+245
+Edge Dwarkadas-Carpenter
+6
+11
+148
+Edge Stefankovic-Pawlicki
+0
+1
+163
+Edge Gildea-Allen
+4
+15
+16
+Edge Brown-Singkhamsack
+9
+14
+101
+Edge Ding-Carpenter
+10
+11
+208
+Edge Costello-Singkhamsack
+5
+14
+168
+Edge Gildea-Shen
+4
+12
+184
+Edge Luo-Shen
+13
+12
+224
+Edge Liu-Singkhamsack
+2
+14
+240
+Edge Dwarkadas-Singkhamsack
+6
+14
+112
+Edge Kautz-Singkhamsack
+8
+14
+237
+Edge Liu-Costello
+2
+5

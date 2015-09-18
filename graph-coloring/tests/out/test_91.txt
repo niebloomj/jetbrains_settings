@@ -1,0 +1,107 @@
+NO
+21
+45
+Edge Shen-Guo
+Shen
+Guo
+Orange
+61
+Edge Liu-Dwarkadas
+Liu
+Dwarkadas
+Blue
+76
+Edge Pawlicki-Dwarkadas
+Pawlicki
+Dwarkadas
+Blue
+79
+Edge Pawlicki-Liu
+Pawlicki
+Liu
+Blue
+90
+Edge Roche-Guo
+Roche
+Guo
+Orange
+93
+Edge Roche-Shen
+Roche
+Shen
+Orange
+107
+Edge Seiferas-Hemaspaandra
+Seiferas
+Hemaspaandra
+Violet
+120
+Edge Luo-Guo
+Luo
+Guo
+Orange
+123
+Edge Luo-Shen
+Luo
+Shen
+Orange
+126
+Edge Luo-Roche
+Luo
+Roche
+Orange
+137
+Edge Singkhamsack-Hemaspaandra
+Singkhamsack
+Hemaspaandra
+Violet
+142
+Edge Singkhamsack-Seiferas
+Singkhamsack
+Seiferas
+Violet
+166
+Edge Hoque-Dwarkadas
+Hoque
+Dwarkadas
+Blue
+169
+Edge Hoque-Liu
+Hoque
+Liu
+Blue
+170
+Edge Hoque-Pawlicki
+Hoque
+Pawlicki
+Blue
+190
+Edge Stefankovic-Brown
+Stefankovic
+Brown
+Green
+205
+Edge Schubert-Brown
+Schubert
+Brown
+Green
+207
+Edge Schubert-Stefankovic
+Schubert
+Stefankovic
+Green
+213
+Edge Scott-Shen
+Scott
+Shen
+Orange
+216
+Edge Scott-Roche
+Scott
+Roche
+Orange
+218
+Edge Scott-Luo
+Scott
+Luo
+Orange

@@ -1,0 +1,57 @@
+NO
+11
+36
+Edge Hemaspaandra-Pullara
+Hemaspaandra
+Pullara
+Violet
+144
+Edge Venkitasubramaniam-Pullara
+Venkitasubramaniam
+Pullara
+Violet
+146
+Edge Venkitasubramaniam-Hemaspaandra
+Venkitasubramaniam
+Hemaspaandra
+Violet
+184
+Edge Seiferas-Howard
+Seiferas
+Howard
+Orange
+234
+Edge Allen-Pullara
+Allen
+Pullara
+Violet
+236
+Edge Allen-Hemaspaandra
+Allen
+Hemaspaandra
+Violet
+242
+Edge Allen-Venkitasubramaniam
+Allen
+Venkitasubramaniam
+Violet
+263
+Edge Carpenter-Gildea
+Carpenter
+Gildea
+Green
+295
+Edge Shen-Brown
+Shen
+Brown
+Indigo
+307
+Edge Scott-Ipek
+Scott
+Ipek
+Blue
+318
+Edge Scott-Costello
+Scott
+Costello
+Blue

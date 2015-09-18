@@ -1,0 +1,211 @@
+11
+44
+8
+Pizzutelli
+Orange
+7
+Criswell
+Violet
+9
+Mitchell
+Orange
+0
+Roche
+Orange
+10
+Scott
+Indigo
+6
+Carpenter
+Indigo
+5
+Guenther
+Violet
+1
+Seiferas
+Violet
+4
+Brown
+Indigo
+2
+Allen
+Indigo
+3
+Dwarkadas
+Blue
+100
+Edge Allen-Criswell
+2
+7
+104
+Edge Allen-Carpenter
+2
+6
+118
+Edge Dwarkadas-Brown
+3
+4
+57
+Edge Carpenter-Mitchell
+6
+9
+22
+Edge Mitchell-Pizzutelli
+9
+8
+77
+Edge Seiferas-Pizzutelli
+1
+8
+35
+Edge Roche-Mitchell
+0
+9
+88
+Edge Brown-Pizzutelli
+4
+8
+106
+Edge Allen-Seiferas
+2
+1
+116
+Edge Dwarkadas-Guenther
+3
+5
+71
+Edge Guenther-Carpenter
+5
+6
+93
+Edge Brown-Carpenter
+4
+6
+82
+Edge Seiferas-Carpenter
+1
+6
+107
+Edge Allen-Brown
+2
+4
+119
+Edge Dwarkadas-Allen
+3
+2
+44
+Edge Scott-Pizzutelli
+10
+8
+89
+Edge Brown-Criswell
+4
+7
+92
+Edge Brown-Scott
+4
+10
+47
+Edge Scott-Roche
+10
+0
+23
+Edge Mitchell-Criswell
+9
+7
+59
+Edge Carpenter-Scott
+6
+10
+56
+Edge Carpenter-Criswell
+6
+7
+112
+Edge Dwarkadas-Mitchell
+3
+9
+94
+Edge Brown-Guenther
+4
+5
+55
+Edge Carpenter-Pizzutelli
+6
+8
+111
+Edge Dwarkadas-Criswell
+3
+7
+83
+Edge Seiferas-Guenther
+1
+5
+11
+Edge Criswell-Pizzutelli
+7
+8
+103
+Edge Allen-Scott
+2
+10
+68
+Edge Guenther-Mitchell
+5
+9
+105
+Edge Allen-Guenther
+2
+5
+117
+Edge Dwarkadas-Seiferas
+3
+1
+113
+Edge Dwarkadas-Roche
+3
+0
+95
+Edge Brown-Seiferas
+4
+1
+102
+Edge Allen-Roche
+2
+0
+34
+Edge Roche-Criswell
+0
+7
+46
+Edge Scott-Mitchell
+10
+9
+69
+Edge Guenther-Roche
+5
+0
+91
+Edge Brown-Roche
+4
+0
+33
+Edge Roche-Pizzutelli
+0
+8
+58
+Edge Carpenter-Roche
+6
+0
+79
+Edge Seiferas-Mitchell
+1
+9
+99
+Edge Allen-Pizzutelli
+2
+8
+81
+Edge Seiferas-Scott
+1
+10

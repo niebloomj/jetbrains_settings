@@ -1,0 +1,107 @@
+NO
+21
+68
+Edge Hoque-Allen
+Hoque
+Allen
+Orange
+102
+Edge Shen-Allen
+Shen
+Allen
+Orange
+106
+Edge Shen-Hoque
+Shen
+Hoque
+Orange
+136
+Edge Guo-Allen
+Guo
+Allen
+Orange
+140
+Edge Guo-Hoque
+Guo
+Hoque
+Orange
+142
+Edge Guo-Shen
+Guo
+Shen
+Orange
+153
+Edge Carpenter-Allen
+Carpenter
+Allen
+Orange
+157
+Edge Carpenter-Hoque
+Carpenter
+Hoque
+Orange
+159
+Edge Carpenter-Shen
+Carpenter
+Shen
+Orange
+171
+Edge Stefankovic-Pullara
+Stefankovic
+Pullara
+Green
+190
+Edge Schubert-Guenther
+Schubert
+Guenther
+Yellow
+206
+Edge Gildea-Brown
+Gildea
+Brown
+Red
+224
+Edge Costello-Guenther
+Costello
+Guenther
+Yellow
+232
+Edge Costello-Schubert
+Costello
+Schubert
+Yellow
+238
+Edge Criswell-Allen
+Criswell
+Allen
+Orange
+242
+Edge Criswell-Hoque
+Criswell
+Hoque
+Orange
+244
+Edge Criswell-Shen
+Criswell
+Shen
+Orange
+246
+Edge Criswell-Guo
+Criswell
+Guo
+Orange
+260
+Edge Hemaspaandra-Ding
+Hemaspaandra
+Ding
+Blue
+277
+Edge Roche-Ding
+Roche
+Ding
+Blue
+287
+Edge Roche-Hemaspaandra
+Roche
+Hemaspaandra
+Blue

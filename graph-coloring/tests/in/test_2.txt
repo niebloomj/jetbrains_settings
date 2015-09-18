@@ -1,0 +1,26 @@
+4
+3
+2
+Criswell
+Yellow
+3
+Howard
+Violet
+1
+Stefankovic
+Red
+0
+Kautz
+Violet
+14
+Edge Kautz-Stefankovic
+0
+1
+4
+Edge Howard-Criswell
+3
+2
+9
+Edge Stefankovic-Howard
+1
+3

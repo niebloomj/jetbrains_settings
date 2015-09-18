@@ -1,0 +1,22 @@
+NO
+4
+32
+Edge Criswell-Singkhamsack
+Criswell
+Singkhamsack
+Green
+40
+Edge Kautz-Singkhamsack
+Kautz
+Singkhamsack
+Green
+44
+Edge Kautz-Criswell
+Kautz
+Criswell
+Green
+50
+Edge Stefankovic-Brown
+Stefankovic
+Brown
+Blue

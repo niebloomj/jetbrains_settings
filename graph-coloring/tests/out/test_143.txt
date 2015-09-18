@@ -1,0 +1,87 @@
+NO
+17
+82
+Edge Schubert-Stefankovic
+Schubert
+Stefankovic
+Violet
+102
+Edge Mitchell-Stefankovic
+Mitchell
+Stefankovic
+Violet
+104
+Edge Mitchell-Schubert
+Mitchell
+Schubert
+Violet
+121
+Edge Hoque-Howard
+Hoque
+Howard
+Red
+143
+Edge Roche-Scott
+Roche
+Scott
+Blue
+167
+Edge Ipek-Roche
+Ipek
+Roche
+Blue
+241
+Edge Dwarkadas-Howard
+Dwarkadas
+Howard
+Red
+269
+Edge Allen-Costello
+Allen
+Costello
+Indigo
+271
+Edge Allen-Guo
+Allen
+Guo
+Indigo
+291
+Edge Carpenter-Guo
+Carpenter
+Guo
+Indigo
+326
+Edge Ding-Hoque
+Ding
+Hoque
+Red
+340
+Edge Guenther-Singkhamsack
+Guenther
+Singkhamsack
+Yellow
+361
+Edge Gildea-Howard
+Gildea
+Howard
+Red
+366
+Edge Gildea-Hoque
+Gildea
+Hoque
+Red
+376
+Edge Gildea-Ding
+Gildea
+Ding
+Red
+387
+Edge Luo-Roche
+Luo
+Roche
+Blue
+388
+Edge Luo-Ipek
+Luo
+Ipek
+Blue

@@ -1,0 +1,107 @@
+NO
+21
+41
+Edge Hoque-Allen
+Hoque
+Allen
+Indigo
+103
+Edge Ding-Brown
+Ding
+Brown
+Green
+160
+Edge Pullara-Pawlicki
+Pullara
+Pawlicki
+Blue
+209
+Edge Ipek-Carpenter
+Ipek
+Carpenter
+Orange
+220
+Edge Venkitasubramaniam-Pawlicki
+Venkitasubramaniam
+Pawlicki
+Blue
+228
+Edge Venkitasubramaniam-Pullara
+Venkitasubramaniam
+Pullara
+Blue
+263
+Edge Schubert-Brown
+Schubert
+Brown
+Green
+280
+Edge Nelson-Pawlicki
+Nelson
+Pawlicki
+Blue
+288
+Edge Nelson-Pullara
+Nelson
+Pullara
+Blue
+291
+Edge Nelson-Venkitasubramaniam
+Nelson
+Venkitasubramaniam
+Blue
+307
+Edge Mitchell-Pizzutelli
+Mitchell
+Pizzutelli
+Red
+327
+Edge Shen-Pizzutelli
+Shen
+Pizzutelli
+Red
+335
+Edge Shen-Mitchell
+Shen
+Mitchell
+Red
+352
+Edge Guo-Gildea
+Guo
+Gildea
+Yellow
+363
+Edge Hemaspaandra-Brown
+Hemaspaandra
+Brown
+Green
+365
+Edge Hemaspaandra-Ding
+Hemaspaandra
+Ding
+Green
+373
+Edge Hemaspaandra-Schubert
+Hemaspaandra
+Schubert
+Green
+383
+Edge Dwarkadas-Brown
+Dwarkadas
+Brown
+Green
+385
+Edge Dwarkadas-Ding
+Dwarkadas
+Ding
+Green
+393
+Edge Dwarkadas-Schubert
+Dwarkadas
+Schubert
+Green
+398
+Edge Dwarkadas-Hemaspaandra
+Dwarkadas
+Hemaspaandra
+Green

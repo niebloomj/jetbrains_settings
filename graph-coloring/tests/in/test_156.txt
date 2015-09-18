@@ -1,0 +1,111 @@
+15
+16
+10
+Liu
+Blue
+0
+Schubert
+Orange
+5
+Seiferas
+Yellow
+4
+Carpenter
+Blue
+1
+Luo
+Yellow
+6
+Pullara
+Yellow
+12
+Criswell
+Red
+7
+Mitchell
+Orange
+13
+Stefankovic
+Red
+2
+Guo
+Yellow
+3
+Guenther
+Orange
+11
+Roche
+Green
+9
+Howard
+Indigo
+8
+Ipek
+Orange
+14
+Dwarkadas
+Orange
+135
+Edge Guo-Liu
+2
+10
+170
+Edge Roche-Pullara
+11
+6
+165
+Edge Roche-Liu
+11
+10
+45
+Edge Carpenter-Liu
+4
+10
+136
+Edge Guo-Schubert
+2
+0
+78
+Edge Pullara-Carpenter
+6
+4
+91
+Edge Criswell-Schubert
+12
+0
+205
+Edge Ipek-Guenther
+8
+3
+221
+Edge Dwarkadas-Roche
+14
+11
+62
+Edge Luo-Seiferas
+1
+5
+166
+Edge Roche-Schubert
+11
+0
+185
+Edge Howard-Pullara
+9
+6
+222
+Edge Dwarkadas-Howard
+14
+9
+219
+Edge Dwarkadas-Guo
+14
+2
+186
+Edge Howard-Criswell
+9
+12
+212
+Edge Dwarkadas-Seiferas
+14
+5

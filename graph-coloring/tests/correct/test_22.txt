@@ -1,0 +1,32 @@
+NO
+6
+97
+Edge Costello-Roche
+Costello
+Roche
+Violet
+115
+Edge Gildea-Kautz
+Gildea
+Kautz
+Red
+133
+Edge Guo-Pawlicki
+Guo
+Pawlicki
+Indigo
+183
+Edge Hemaspaandra-Gildea
+Hemaspaandra
+Gildea
+Red
+233
+Edge Hoque-Stefankovic
+Hoque
+Stefankovic
+Orange
+243
+Edge Shen-Kautz
+Shen
+Kautz
+Red

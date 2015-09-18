@@ -1,0 +1,303 @@
+15
+64
+2
+Ding
+Indigo
+5
+Kautz
+Violet
+8
+Nelson
+Green
+10
+Hemaspaandra
+Green
+3
+Stefankovic
+Orange
+6
+Guo
+Indigo
+12
+Brown
+Orange
+7
+Luo
+Blue
+1
+Howard
+Blue
+13
+Mitchell
+Orange
+9
+Shen
+Yellow
+14
+Guenther
+Yellow
+0
+Criswell
+Orange
+4
+Gildea
+Blue
+11
+Scott
+Violet
+213
+Edge Scott-Hemaspaandra
+11
+10
+125
+Edge Howard-Guo
+1
+6
+15
+Edge Kautz-Ding
+5
+2
+31
+Edge Nelson-Kautz
+8
+5
+76
+Edge Guo-Kautz
+6
+5
+168
+Edge Guenther-Hemaspaandra
+14
+10
+223
+Edge Scott-Gildea
+11
+4
+155
+Edge Shen-Guo
+9
+6
+180
+Edge Criswell-Ding
+0
+2
+140
+Edge Mitchell-Guo
+13
+6
+78
+Edge Guo-Hemaspaandra
+6
+10
+200
+Edge Gildea-Guo
+4
+6
+165
+Edge Guenther-Ding
+14
+2
+216
+Edge Scott-Brown
+11
+12
+46
+Edge Hemaspaandra-Kautz
+10
+5
+142
+Edge Mitchell-Luo
+13
+7
+60
+Edge Stefankovic-Ding
+3
+2
+185
+Edge Criswell-Guo
+0
+6
+138
+Edge Mitchell-Hemaspaandra
+13
+10
+139
+Edge Mitchell-Stefankovic
+13
+3
+120
+Edge Howard-Ding
+1
+2
+47
+Edge Hemaspaandra-Nelson
+10
+8
+122
+Edge Howard-Nelson
+1
+8
+141
+Edge Mitchell-Brown
+13
+12
+153
+Edge Shen-Hemaspaandra
+9
+10
+174
+Edge Guenther-Mitchell
+14
+13
+152
+Edge Shen-Nelson
+9
+8
+63
+Edge Stefankovic-Hemaspaandra
+3
+10
+169
+Edge Guenther-Stefankovic
+14
+3
+92
+Edge Brown-Nelson
+12
+8
+197
+Edge Gildea-Nelson
+4
+8
+136
+Edge Mitchell-Kautz
+13
+5
+181
+Edge Criswell-Kautz
+0
+5
+126
+Edge Howard-Brown
+1
+12
+135
+Edge Mitchell-Ding
+13
+2
+156
+Edge Shen-Brown
+9
+12
+90
+Edge Brown-Ding
+12
+2
+172
+Edge Guenther-Luo
+14
+7
+91
+Edge Brown-Kautz
+12
+5
+143
+Edge Mitchell-Howard
+13
+1
+201
+Edge Gildea-Brown
+4
+12
+199
+Edge Gildea-Stefankovic
+4
+3
+198
+Edge Gildea-Hemaspaandra
+4
+10
+171
+Edge Guenther-Brown
+14
+12
+94
+Edge Brown-Stefankovic
+12
+3
+75
+Edge Guo-Ding
+6
+2
+195
+Edge Gildea-Ding
+4
+2
+214
+Edge Scott-Stefankovic
+11
+3
+95
+Edge Brown-Guo
+12
+6
+106
+Edge Luo-Kautz
+7
+5
+215
+Edge Scott-Guo
+11
+6
+123
+Edge Howard-Hemaspaandra
+1
+10
+217
+Edge Scott-Luo
+11
+7
+186
+Edge Criswell-Brown
+0
+12
+182
+Edge Criswell-Nelson
+0
+8
+108
+Edge Luo-Hemaspaandra
+7
+10
+183
+Edge Criswell-Hemaspaandra
+0
+10
+190
+Edge Criswell-Shen
+0
+9
+184
+Edge Criswell-Stefankovic
+0
+3
+189
+Edge Criswell-Mitchell
+0
+13
+219
+Edge Scott-Mitchell
+11
+13
+203
+Edge Gildea-Howard
+4
+1
+79
+Edge Guo-Stefankovic
+6
+3
+222
+Edge Scott-Criswell
+11
+0

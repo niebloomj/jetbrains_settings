@@ -1,0 +1,37 @@
+NO
+7
+125
+Edge Howard-Nelson
+Howard
+Nelson
+Violet
+142
+Edge Kautz-Pullara
+Kautz
+Pullara
+Violet
+143
+Edge Kautz-Howard
+Kautz
+Howard
+Violet
+153
+Edge Pizzutelli-Singkhamsack
+Pizzutelli
+Singkhamsack
+Blue
+175
+Edge Ding-Pizzutelli
+Ding
+Pizzutelli
+Blue
+181
+Edge Brown-Shen
+Brown
+Shen
+Yellow
+199
+Edge Schubert-Guo
+Schubert
+Guo
+Orange

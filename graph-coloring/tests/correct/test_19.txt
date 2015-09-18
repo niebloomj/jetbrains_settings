@@ -1,0 +1,142 @@
+NO
+28
+103
+Edge Shen-Gildea
+Shen
+Gildea
+Indigo
+104
+Edge Shen-Ipek
+Shen
+Ipek
+Indigo
+122
+Edge Pizzutelli-Pullara
+Pizzutelli
+Pullara
+Orange
+143
+Edge Carpenter-Gildea
+Carpenter
+Gildea
+Indigo
+144
+Edge Carpenter-Ipek
+Carpenter
+Ipek
+Indigo
+145
+Edge Carpenter-Shen
+Carpenter
+Shen
+Indigo
+184
+Edge Liu-Ipek
+Liu
+Ipek
+Indigo
+185
+Edge Liu-Shen
+Liu
+Shen
+Indigo
+222
+Edge Kautz-Pullara
+Kautz
+Pullara
+Orange
+226
+Edge Kautz-Pizzutelli
+Kautz
+Pizzutelli
+Orange
+243
+Edge Roche-Gildea
+Roche
+Gildea
+Indigo
+245
+Edge Roche-Shen
+Roche
+Shen
+Indigo
+247
+Edge Roche-Carpenter
+Roche
+Carpenter
+Indigo
+249
+Edge Roche-Liu
+Roche
+Liu
+Indigo
+262
+Edge Schubert-Pullara
+Schubert
+Pullara
+Orange
+266
+Edge Schubert-Pizzutelli
+Schubert
+Pizzutelli
+Orange
+271
+Edge Schubert-Kautz
+Schubert
+Kautz
+Orange
+283
+Edge Hemaspaandra-Gildea
+Hemaspaandra
+Gildea
+Indigo
+284
+Edge Hemaspaandra-Ipek
+Hemaspaandra
+Ipek
+Indigo
+285
+Edge Hemaspaandra-Shen
+Hemaspaandra
+Shen
+Indigo
+287
+Edge Hemaspaandra-Carpenter
+Hemaspaandra
+Carpenter
+Indigo
+289
+Edge Hemaspaandra-Liu
+Hemaspaandra
+Liu
+Indigo
+292
+Edge Hemaspaandra-Roche
+Hemaspaandra
+Roche
+Indigo
+300
+Edge Seiferas-Criswell
+Seiferas
+Criswell
+Green
+321
+Edge Howard-Pawlicki
+Howard
+Pawlicki
+Yellow
+346
+Edge Guenther-Pizzutelli
+Guenther
+Pizzutelli
+Orange
+351
+Edge Guenther-Kautz
+Guenther
+Kautz
+Orange
+353
+Edge Guenther-Schubert
+Guenther
+Schubert
+Orange

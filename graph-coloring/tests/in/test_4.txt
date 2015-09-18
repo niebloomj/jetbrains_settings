@@ -1,0 +1,28 @@
+6
+2
+1
+Singkhamsack
+Indigo
+4
+Mitchell
+Blue
+3
+Hoque
+Blue
+2
+Guenther
+Green
+5
+Venkitasubramaniam
+Orange
+0
+Kautz
+Green
+26
+Edge Venkitasubramaniam-Hoque
+5
+3
+13
+Edge Hoque-Mitchell
+3
+4

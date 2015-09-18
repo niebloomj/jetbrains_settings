@@ -1,0 +1,180 @@
+10
+37
+6
+Schubert
+Violet
+1
+Shen
+Green
+8
+Pizzutelli
+Yellow
+9
+Dwarkadas
+Green
+7
+Allen
+Violet
+5
+Gildea
+Green
+0
+Hoque
+Yellow
+4
+Kautz
+Violet
+3
+Stefankovic
+Red
+2
+Howard
+Red
+62
+Edge Hoque-Pizzutelli
+0
+8
+53
+Edge Gildea-Dwarkadas
+5
+9
+73
+Edge Kautz-Dwarkadas
+4
+9
+42
+Edge Allen-Pizzutelli
+7
+8
+96
+Edge Howard-Hoque
+2
+0
+40
+Edge Allen-Schubert
+7
+6
+21
+Edge Pizzutelli-Shen
+8
+1
+91
+Edge Howard-Shen
+2
+1
+71
+Edge Kautz-Shen
+4
+1
+74
+Edge Kautz-Allen
+4
+7
+76
+Edge Kautz-Hoque
+4
+0
+20
+Edge Pizzutelli-Schubert
+8
+6
+63
+Edge Hoque-Dwarkadas
+0
+9
+82
+Edge Stefankovic-Pizzutelli
+3
+8
+92
+Edge Howard-Pizzutelli
+2
+8
+60
+Edge Hoque-Schubert
+0
+6
+51
+Edge Gildea-Shen
+5
+1
+87
+Edge Stefankovic-Kautz
+3
+4
+41
+Edge Allen-Shen
+7
+1
+72
+Edge Kautz-Pizzutelli
+4
+8
+61
+Edge Hoque-Shen
+0
+1
+75
+Edge Kautz-Gildea
+4
+5
+43
+Edge Allen-Dwarkadas
+7
+9
+85
+Edge Stefankovic-Gildea
+3
+5
+97
+Edge Howard-Kautz
+2
+4
+83
+Edge Stefankovic-Dwarkadas
+3
+9
+94
+Edge Howard-Allen
+2
+7
+31
+Edge Dwarkadas-Shen
+9
+1
+98
+Edge Howard-Stefankovic
+2
+3
+65
+Edge Hoque-Gildea
+0
+5
+86
+Edge Stefankovic-Hoque
+3
+0
+80
+Edge Stefankovic-Schubert
+3
+6
+30
+Edge Dwarkadas-Schubert
+9
+6
+84
+Edge Stefankovic-Allen
+3
+7
+50
+Edge Gildea-Schubert
+5
+6
+70
+Edge Kautz-Schubert
+4
+6
+64
+Edge Hoque-Allen
+0
+7

@@ -1,0 +1,17 @@
+NO
+3
+16
+Edge Pawlicki-Guenther
+Pawlicki
+Guenther
+Orange
+48
+Edge Singkhamsack-Guenther
+Singkhamsack
+Guenther
+Orange
+62
+Edge Pullara-Singkhamsack
+Pullara
+Singkhamsack
+Orange

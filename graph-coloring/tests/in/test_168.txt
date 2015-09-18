@@ -1,0 +1,33 @@
+5
+4
+4
+Ding
+Indigo
+1
+Pullara
+Indigo
+0
+Kautz
+Blue
+3
+Nelson
+Orange
+2
+Ipek
+Indigo
+5
+Edge Pullara-Ding
+1
+4
+22
+Edge Ipek-Kautz
+2
+0
+23
+Edge Ipek-Nelson
+2
+3
+15
+Edge Nelson-Ding
+3
+4

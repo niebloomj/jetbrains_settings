@@ -1,0 +1,466 @@
+16
+104
+1
+Allen
+Yellow
+6
+Howard
+Indigo
+8
+Seiferas
+Blue
+9
+Mitchell
+Indigo
+4
+Hoque
+Red
+10
+Stefankovic
+Indigo
+2
+Carpenter
+Yellow
+11
+Venkitasubramaniam
+Orange
+14
+Pizzutelli
+Indigo
+3
+Nelson
+Blue
+5
+Criswell
+Green
+13
+Singkhamsack
+Indigo
+7
+Dwarkadas
+Indigo
+0
+Luo
+Indigo
+12
+Schubert
+Yellow
+15
+Guenther
+Indigo
+245
+Edge Guenther-Stefankovic
+15
+10
+178
+Edge Singkhamsack-Seiferas
+13
+8
+252
+Edge Guenther-Dwarkadas
+15
+7
+182
+Edge Singkhamsack-Carpenter
+13
+2
+244
+Edge Guenther-Hoque
+15
+4
+228
+Edge Schubert-Hoque
+12
+4
+84
+Edge Stefankovic-Hoque
+10
+4
+67
+Edge Hoque-Mitchell
+4
+9
+224
+Edge Schubert-Allen
+12
+1
+220
+Edge Luo-Dwarkadas
+0
+7
+150
+Edge Nelson-Carpenter
+3
+2
+148
+Edge Nelson-Hoque
+3
+4
+144
+Edge Nelson-Allen
+3
+1
+169
+Edge Criswell-Nelson
+5
+3
+185
+Edge Singkhamsack-Nelson
+13
+3
+229
+Edge Schubert-Stefankovic
+12
+10
+194
+Edge Dwarkadas-Seiferas
+7
+8
+233
+Edge Schubert-Nelson
+12
+3
+210
+Edge Luo-Seiferas
+0
+8
+168
+Edge Criswell-Pizzutelli
+5
+14
+199
+Edge Dwarkadas-Venkitasubramaniam
+7
+11
+50
+Edge Mitchell-Seiferas
+9
+8
+249
+Edge Guenther-Nelson
+15
+3
+253
+Edge Guenther-Luo
+15
+0
+231
+Edge Schubert-Venkitasubramaniam
+12
+11
+16
+Edge Howard-Allen
+6
+1
+183
+Edge Singkhamsack-Venkitasubramaniam
+13
+11
+147
+Edge Nelson-Mitchell
+3
+9
+209
+Edge Luo-Howard
+0
+6
+225
+Edge Schubert-Howard
+12
+6
+82
+Edge Stefankovic-Seiferas
+10
+8
+201
+Edge Dwarkadas-Nelson
+7
+3
+241
+Edge Guenther-Howard
+15
+6
+117
+Edge Venkitasubramaniam-Stefankovic
+11
+10
+226
+Edge Schubert-Seiferas
+12
+8
+114
+Edge Venkitasubramaniam-Seiferas
+11
+8
+113
+Edge Venkitasubramaniam-Howard
+11
+6
+81
+Edge Stefankovic-Howard
+10
+6
+215
+Edge Luo-Venkitasubramaniam
+0
+11
+240
+Edge Guenther-Allen
+15
+1
+202
+Edge Dwarkadas-Criswell
+7
+5
+181
+Edge Singkhamsack-Stefankovic
+13
+10
+118
+Edge Venkitasubramaniam-Carpenter
+11
+2
+203
+Edge Dwarkadas-Singkhamsack
+7
+13
+48
+Edge Mitchell-Allen
+9
+1
+177
+Edge Singkhamsack-Howard
+13
+6
+176
+Edge Singkhamsack-Allen
+13
+1
+195
+Edge Dwarkadas-Mitchell
+7
+9
+151
+Edge Nelson-Venkitasubramaniam
+3
+11
+100
+Edge Carpenter-Hoque
+2
+4
+149
+Edge Nelson-Stefankovic
+3
+10
+235
+Edge Schubert-Singkhamsack
+12
+13
+197
+Edge Dwarkadas-Stefankovic
+7
+10
+130
+Edge Pizzutelli-Seiferas
+14
+8
+212
+Edge Luo-Hoque
+0
+4
+247
+Edge Guenther-Venkitasubramaniam
+15
+11
+162
+Edge Criswell-Seiferas
+5
+8
+64
+Edge Hoque-Allen
+4
+1
+166
+Edge Criswell-Carpenter
+5
+2
+129
+Edge Pizzutelli-Howard
+14
+6
+135
+Edge Pizzutelli-Venkitasubramaniam
+14
+11
+200
+Edge Dwarkadas-Pizzutelli
+7
+14
+161
+Edge Criswell-Howard
+5
+6
+116
+Edge Venkitasubramaniam-Hoque
+11
+4
+167
+Edge Criswell-Venkitasubramaniam
+5
+11
+80
+Edge Stefankovic-Allen
+10
+1
+66
+Edge Hoque-Seiferas
+4
+8
+216
+Edge Luo-Pizzutelli
+0
+14
+101
+Edge Carpenter-Stefankovic
+2
+10
+49
+Edge Mitchell-Howard
+9
+6
+234
+Edge Schubert-Criswell
+12
+5
+213
+Edge Luo-Stefankovic
+0
+10
+230
+Edge Schubert-Carpenter
+12
+2
+83
+Edge Stefankovic-Mitchell
+10
+9
+236
+Edge Schubert-Dwarkadas
+12
+7
+33
+Edge Seiferas-Howard
+8
+6
+218
+Edge Luo-Criswell
+0
+5
+132
+Edge Pizzutelli-Hoque
+14
+4
+193
+Edge Dwarkadas-Howard
+7
+6
+97
+Edge Carpenter-Howard
+2
+6
+237
+Edge Schubert-Luo
+12
+0
+128
+Edge Pizzutelli-Allen
+14
+1
+208
+Edge Luo-Allen
+0
+1
+134
+Edge Pizzutelli-Carpenter
+14
+2
+251
+Edge Guenther-Singkhamsack
+15
+13
+232
+Edge Schubert-Pizzutelli
+12
+14
+112
+Edge Venkitasubramaniam-Allen
+11
+1
+146
+Edge Nelson-Seiferas
+3
+8
+250
+Edge Guenther-Criswell
+15
+5
+211
+Edge Luo-Mitchell
+0
+9
+131
+Edge Pizzutelli-Mitchell
+14
+9
+160
+Edge Criswell-Allen
+5
+1
+165
+Edge Criswell-Stefankovic
+5
+10
+115
+Edge Venkitasubramaniam-Mitchell
+11
+9
+98
+Edge Carpenter-Seiferas
+2
+8
+254
+Edge Guenther-Schubert
+15
+12
+219
+Edge Luo-Singkhamsack
+0
+13
+196
+Edge Dwarkadas-Hoque
+7
+4
+184
+Edge Singkhamsack-Pizzutelli
+13
+14
+164
+Edge Criswell-Hoque
+5
+4
+243
+Edge Guenther-Mitchell
+15
+9
+133
+Edge Pizzutelli-Stefankovic
+14
+10
+227
+Edge Schubert-Mitchell
+12
+9
+163
+Edge Criswell-Mitchell
+5
+9

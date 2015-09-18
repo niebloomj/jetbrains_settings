@@ -1,0 +1,30 @@
+4
+4
+1
+Hoque
+Red
+3
+Mitchell
+Red
+2
+Guo
+Blue
+0
+Dwarkadas
+Red
+8
+Edge Guo-Hoque
+2
+1
+4
+Edge Mitchell-Hoque
+3
+1
+13
+Edge Dwarkadas-Mitchell
+0
+3
+9
+Edge Guo-Mitchell
+2
+3

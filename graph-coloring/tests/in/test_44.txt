@@ -1,0 +1,443 @@
+15
+99
+10
+Seiferas
+Green
+3
+Hoque
+Green
+11
+Pizzutelli
+Green
+2
+Allen
+Red
+13
+Mitchell
+Green
+4
+Shen
+Green
+1
+Hemaspaandra
+Red
+7
+Liu
+Indigo
+9
+Pawlicki
+Green
+14
+Ipek
+Red
+8
+Dwarkadas
+Red
+5
+Kautz
+Indigo
+0
+Carpenter
+Orange
+12
+Scott
+Red
+6
+Howard
+Red
+174
+Edge Kautz-Ipek
+5
+14
+154
+Edge Dwarkadas-Mitchell
+8
+13
+157
+Edge Dwarkadas-Liu
+8
+7
+183
+Edge Carpenter-Allen
+0
+2
+156
+Edge Dwarkadas-Hemaspaandra
+8
+1
+218
+Edge Howard-Pawlicki
+6
+9
+220
+Edge Howard-Dwarkadas
+6
+8
+152
+Edge Dwarkadas-Pizzutelli
+8
+11
+126
+Edge Pawlicki-Hemaspaandra
+9
+1
+125
+Edge Pawlicki-Shen
+9
+4
+109
+Edge Liu-Mitchell
+7
+13
+140
+Edge Ipek-Shen
+14
+4
+217
+Edge Howard-Liu
+6
+7
+120
+Edge Pawlicki-Seiferas
+9
+10
+195
+Edge Scott-Seiferas
+12
+10
+151
+Edge Dwarkadas-Hoque
+8
+3
+76
+Edge Shen-Hoque
+4
+3
+155
+Edge Dwarkadas-Shen
+8
+4
+212
+Edge Howard-Pizzutelli
+6
+11
+216
+Edge Howard-Hemaspaandra
+6
+1
+169
+Edge Kautz-Mitchell
+5
+13
+91
+Edge Hemaspaandra-Hoque
+1
+3
+123
+Edge Pawlicki-Allen
+9
+2
+166
+Edge Kautz-Hoque
+5
+3
+202
+Edge Scott-Liu
+12
+7
+92
+Edge Hemaspaandra-Pizzutelli
+1
+11
+136
+Edge Ipek-Hoque
+14
+3
+63
+Edge Mitchell-Allen
+13
+2
+211
+Edge Howard-Hoque
+6
+3
+60
+Edge Mitchell-Seiferas
+13
+10
+45
+Edge Allen-Seiferas
+2
+10
+78
+Edge Shen-Allen
+4
+2
+188
+Edge Carpenter-Pawlicki
+0
+9
+15
+Edge Hoque-Seiferas
+3
+10
+219
+Edge Howard-Ipek
+6
+14
+141
+Edge Ipek-Hemaspaandra
+14
+1
+95
+Edge Hemaspaandra-Shen
+1
+4
+180
+Edge Carpenter-Seiferas
+0
+10
+79
+Edge Shen-Mitchell
+4
+13
+187
+Edge Carpenter-Liu
+0
+7
+47
+Edge Allen-Pizzutelli
+2
+11
+172
+Edge Kautz-Liu
+5
+7
+111
+Edge Liu-Hemaspaandra
+7
+1
+223
+Edge Howard-Scott
+6
+12
+108
+Edge Liu-Allen
+7
+2
+135
+Edge Ipek-Seiferas
+14
+10
+196
+Edge Scott-Hoque
+12
+3
+142
+Edge Ipek-Liu
+14
+7
+121
+Edge Pawlicki-Hoque
+9
+3
+189
+Edge Carpenter-Ipek
+0
+14
+139
+Edge Ipek-Mitchell
+14
+13
+93
+Edge Hemaspaandra-Allen
+1
+2
+110
+Edge Liu-Shen
+7
+4
+182
+Edge Carpenter-Pizzutelli
+0
+11
+206
+Edge Scott-Kautz
+12
+5
+94
+Edge Hemaspaandra-Mitchell
+1
+13
+197
+Edge Scott-Pizzutelli
+12
+11
+181
+Edge Carpenter-Hoque
+0
+3
+215
+Edge Howard-Shen
+6
+4
+205
+Edge Scott-Dwarkadas
+12
+8
+190
+Edge Carpenter-Dwarkadas
+0
+8
+61
+Edge Mitchell-Hoque
+13
+3
+77
+Edge Shen-Pizzutelli
+4
+11
+184
+Edge Carpenter-Mitchell
+0
+13
+46
+Edge Allen-Hoque
+2
+3
+175
+Edge Kautz-Dwarkadas
+5
+8
+191
+Edge Carpenter-Kautz
+0
+5
+186
+Edge Carpenter-Hemaspaandra
+0
+1
+138
+Edge Ipek-Allen
+14
+2
+185
+Edge Carpenter-Shen
+0
+4
+62
+Edge Mitchell-Pizzutelli
+13
+11
+214
+Edge Howard-Mitchell
+6
+13
+198
+Edge Scott-Allen
+12
+2
+127
+Edge Pawlicki-Liu
+9
+7
+204
+Edge Scott-Ipek
+12
+14
+107
+Edge Liu-Pizzutelli
+7
+11
+30
+Edge Pizzutelli-Seiferas
+11
+10
+207
+Edge Scott-Carpenter
+12
+0
+222
+Edge Howard-Carpenter
+6
+0
+168
+Edge Kautz-Allen
+5
+2
+203
+Edge Scott-Pawlicki
+12
+9
+221
+Edge Howard-Kautz
+6
+5
+213
+Edge Howard-Allen
+6
+2
+124
+Edge Pawlicki-Mitchell
+9
+13
+75
+Edge Shen-Seiferas
+4
+10
+105
+Edge Liu-Seiferas
+7
+10
+143
+Edge Ipek-Pawlicki
+14
+9
+90
+Edge Hemaspaandra-Seiferas
+1
+10
+199
+Edge Scott-Mitchell
+12
+13
+210
+Edge Howard-Seiferas
+6
+10
+150
+Edge Dwarkadas-Seiferas
+8
+10
+158
+Edge Dwarkadas-Pawlicki
+8
+9
+153
+Edge Dwarkadas-Allen
+8
+2
+167
+Edge Kautz-Pizzutelli
+5
+11
+31
+Edge Pizzutelli-Hoque
+11
+3
+106
+Edge Liu-Hoque
+7
+3
+122
+Edge Pawlicki-Pizzutelli
+9
+11
+171
+Edge Kautz-Hemaspaandra
+5
+1
+137
+Edge Ipek-Pizzutelli
+14
+11

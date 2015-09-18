@@ -1,0 +1,109 @@
+9
+20
+7
+Luo
+Green
+2
+Hemaspaandra
+Blue
+0
+Shen
+Orange
+4
+Pawlicki
+Red
+3
+Singkhamsack
+Violet
+8
+Howard
+Green
+1
+Liu
+Orange
+6
+Guenther
+Indigo
+5
+Hoque
+Yellow
+69
+Edge Guenther-Liu
+6
+1
+38
+Edge Singkhamsack-Shen
+3
+0
+48
+Edge Howard-Pawlicki
+8
+4
+66
+Edge Guenther-Pawlicki
+6
+4
+45
+Edge Howard-Luo
+8
+7
+77
+Edge Hoque-Howard
+5
+8
+9
+Edge Hemaspaandra-Luo
+2
+7
+54
+Edge Liu-Luo
+1
+7
+55
+Edge Liu-Hemaspaandra
+1
+2
+49
+Edge Howard-Singkhamsack
+8
+3
+75
+Edge Hoque-Pawlicki
+5
+4
+56
+Edge Liu-Shen
+1
+0
+29
+Edge Pawlicki-Shen
+4
+0
+63
+Edge Guenther-Luo
+6
+7
+36
+Edge Singkhamsack-Luo
+3
+7
+68
+Edge Guenther-Howard
+6
+8
+39
+Edge Singkhamsack-Pawlicki
+3
+4
+58
+Edge Liu-Singkhamsack
+1
+3
+79
+Edge Hoque-Guenther
+5
+6
+47
+Edge Howard-Shen
+8
+0

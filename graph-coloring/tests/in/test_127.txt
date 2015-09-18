@@ -1,0 +1,175 @@
+15
+32
+7
+Pizzutelli
+Yellow
+8
+Dwarkadas
+Green
+1
+Pawlicki
+Indigo
+0
+Guenther
+Red
+13
+Costello
+Indigo
+10
+Gildea
+Orange
+5
+Howard
+Yellow
+3
+Shen
+Red
+9
+Nelson
+Violet
+12
+Scott
+Red
+2
+Luo
+Violet
+14
+Carpenter
+Red
+6
+Guo
+Red
+4
+Pullara
+Indigo
+11
+Stefankovic
+Green
+219
+Edge Stefankovic-Scott
+11
+12
+151
+Edge Luo-Dwarkadas
+2
+8
+154
+Edge Luo-Costello
+2
+13
+75
+Edge Gildea-Pizzutelli
+10
+7
+138
+Edge Scott-Guenther
+12
+0
+158
+Edge Luo-Nelson
+2
+9
+196
+Edge Pullara-Dwarkadas
+4
+8
+218
+Edge Stefankovic-Nelson
+11
+9
+191
+Edge Guo-Carpenter
+6
+14
+206
+Edge Pullara-Carpenter
+4
+14
+79
+Edge Gildea-Costello
+10
+13
+91
+Edge Howard-Dwarkadas
+5
+8
+93
+Edge Howard-Guenther
+5
+0
+189
+Edge Guo-Scott
+6
+12
+205
+Edge Pullara-Luo
+4
+2
+215
+Edge Stefankovic-Gildea
+11
+10
+46
+Edge Guenther-Dwarkadas
+0
+8
+169
+Edge Carpenter-Costello
+14
+13
+214
+Edge Stefankovic-Costello
+11
+13
+143
+Edge Scott-Nelson
+12
+9
+172
+Edge Carpenter-Shen
+14
+3
+90
+Edge Howard-Pizzutelli
+5
+7
+76
+Edge Gildea-Dwarkadas
+10
+8
+120
+Edge Nelson-Pizzutelli
+9
+7
+183
+Edge Guo-Guenther
+6
+0
+95
+Edge Howard-Gildea
+5
+10
+45
+Edge Guenther-Pizzutelli
+0
+7
+77
+Edge Gildea-Pawlicki
+10
+1
+202
+Edge Pullara-Shen
+4
+3
+94
+Edge Howard-Costello
+5
+13
+173
+Edge Carpenter-Nelson
+14
+9
+203
+Edge Pullara-Nelson
+4
+9

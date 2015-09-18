@@ -1,0 +1,23 @@
+Sample output files are found in the tests/correct/ folder and should all follow one of the following formats:
+
+If a graph is colored correctly, the format is:
+
+YES
+Number of colors used in the graph
+
+
+If a graph is NOT colored correctly, the format is:
+
+NO
+Number of edges whose vertices are colored the same color
+For each edge of this type (sorted by edge ID number):
+the edge ID number
+the edge name
+the name of the first vertex
+the name of the second vertex
+the color common to both vertices
+
+
+
+
+NOTE: Each output file should end with a newline.

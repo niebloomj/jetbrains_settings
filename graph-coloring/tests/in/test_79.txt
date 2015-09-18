@@ -1,0 +1,116 @@
+14
+18
+1
+Gildea
+Red
+5
+Guenther
+Blue
+4
+Seiferas
+Red
+9
+Mitchell
+Blue
+11
+Allen
+Red
+13
+Schubert
+Blue
+6
+Roche
+Blue
+2
+Pawlicki
+Green
+3
+Hemaspaandra
+Red
+10
+Liu
+Red
+7
+Kautz
+Blue
+0
+Nelson
+Yellow
+12
+Shen
+Violet
+8
+Singkhamsack
+Indigo
+101
+Edge Pawlicki-Mitchell
+2
+9
+147
+Edge Kautz-Pawlicki
+7
+2
+119
+Edge Hemaspaandra-Pawlicki
+3
+2
+59
+Edge Allen-Mitchell
+11
+9
+87
+Edge Roche-Mitchell
+6
+9
+115
+Edge Hemaspaandra-Mitchell
+3
+9
+183
+Edge Singkhamsack-Guenther
+8
+5
+134
+Edge Liu-Hemaspaandra
+10
+3
+161
+Edge Nelson-Pawlicki
+0
+2
+116
+Edge Hemaspaandra-Allen
+3
+11
+158
+Edge Nelson-Allen
+0
+11
+192
+Edge Singkhamsack-Kautz
+8
+7
+189
+Edge Singkhamsack-Pawlicki
+8
+2
+176
+Edge Shen-Hemaspaandra
+12
+3
+170
+Edge Shen-Seiferas
+12
+4
+156
+Edge Nelson-Seiferas
+0
+4
+141
+Edge Kautz-Guenther
+7
+5
+188
+Edge Singkhamsack-Roche
+8
+6

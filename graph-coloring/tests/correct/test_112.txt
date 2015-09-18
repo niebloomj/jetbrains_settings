@@ -1,0 +1,67 @@
+NO
+13
+17
+Edge Allen-Hemaspaandra
+Allen
+Hemaspaandra
+Violet
+85
+Edge Costello-Hemaspaandra
+Costello
+Hemaspaandra
+Violet
+86
+Edge Costello-Allen
+Costello
+Allen
+Violet
+157
+Edge Ipek-Kautz
+Ipek
+Kautz
+Indigo
+190
+Edge Pizzutelli-Stefankovic
+Pizzutelli
+Stefankovic
+Blue
+195
+Edge Pizzutelli-Guenther
+Pizzutelli
+Guenther
+Blue
+211
+Edge Scott-Ding
+Scott
+Ding
+Orange
+228
+Edge Luo-Ding
+Luo
+Ding
+Orange
+250
+Edge Howard-Scott
+Howard
+Scott
+Orange
+251
+Edge Howard-Luo
+Howard
+Luo
+Orange
+256
+Edge Hoque-Allen
+Hoque
+Allen
+Violet
+260
+Edge Hoque-Costello
+Hoque
+Costello
+Violet
+278
+Edge Mitchell-Seiferas
+Mitchell
+Seiferas
+Green

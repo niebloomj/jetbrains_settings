@@ -1,0 +1,547 @@
+19
+122
+3
+Scott
+Red
+2
+Stefankovic
+Violet
+8
+Singkhamsack
+Orange
+18
+Carpenter
+Orange
+1
+Gildea
+Yellow
+7
+Seiferas
+Violet
+11
+Brown
+Red
+12
+Costello
+Blue
+5
+Hemaspaandra
+Orange
+13
+Luo
+Red
+16
+Guenther
+Red
+9
+Schubert
+Violet
+15
+Pullara
+Green
+10
+Shen
+Blue
+4
+Nelson
+Violet
+17
+Liu
+Red
+14
+Hoque
+Yellow
+0
+Mitchell
+Green
+6
+Venkitasubramaniam
+Green
+267
+Edge Nelson-Stefankovic
+4
+2
+139
+Edge Costello-Brown
+12
+11
+77
+Edge Gildea-Stefankovic
+1
+2
+334
+Edge Mitchell-Schubert
+0
+9
+311
+Edge Hoque-Costello
+14
+12
+239
+Edge Pullara-Schubert
+15
+9
+218
+Edge Schubert-Luo
+9
+13
+236
+Edge Pullara-Hemaspaandra
+15
+5
+292
+Edge Liu-Costello
+17
+12
+323
+Edge Mitchell-Scott
+0
+3
+138
+Edge Costello-Seiferas
+12
+7
+229
+Edge Pullara-Stefankovic
+15
+2
+333
+Edge Mitchell-Guenther
+0
+16
+155
+Edge Hemaspaandra-Carpenter
+5
+18
+310
+Edge Hoque-Brown
+14
+11
+291
+Edge Liu-Brown
+17
+11
+209
+Edge Schubert-Scott
+9
+3
+232
+Edge Pullara-Gildea
+15
+1
+294
+Edge Liu-Luo
+17
+13
+38
+Edge Singkhamsack-Scott
+8
+3
+176
+Edge Luo-Seiferas
+13
+7
+212
+Edge Schubert-Carpenter
+9
+18
+256
+Edge Shen-Luo
+10
+13
+233
+Edge Pullara-Seiferas
+15
+7
+195
+Edge Guenther-Seiferas
+16
+7
+235
+Edge Pullara-Costello
+15
+12
+259
+Edge Shen-Pullara
+10
+15
+313
+Edge Hoque-Luo
+14
+13
+237
+Edge Pullara-Luo
+15
+13
+79
+Edge Gildea-Carpenter
+1
+18
+190
+Edge Guenther-Scott
+16
+3
+250
+Edge Shen-Carpenter
+10
+18
+230
+Edge Pullara-Singkhamsack
+15
+8
+309
+Edge Hoque-Seiferas
+14
+7
+354
+Edge Venkitasubramaniam-Pullara
+6
+15
+137
+Edge Costello-Gildea
+12
+1
+346
+Edge Venkitasubramaniam-Gildea
+6
+1
+314
+Edge Hoque-Guenther
+14
+16
+154
+Edge Hemaspaandra-Singkhamsack
+5
+8
+174
+Edge Luo-Carpenter
+13
+18
+324
+Edge Mitchell-Stefankovic
+0
+2
+115
+Edge Brown-Stefankovic
+11
+2
+158
+Edge Hemaspaandra-Brown
+5
+11
+114
+Edge Brown-Scott
+11
+3
+336
+Edge Mitchell-Shen
+0
+10
+276
+Edge Nelson-Guenther
+4
+16
+274
+Edge Nelson-Hemaspaandra
+4
+5
+330
+Edge Mitchell-Costello
+0
+12
+326
+Edge Mitchell-Carpenter
+0
+18
+268
+Edge Nelson-Singkhamsack
+4
+8
+325
+Edge Mitchell-Singkhamsack
+0
+8
+78
+Edge Gildea-Singkhamsack
+1
+8
+305
+Edge Hoque-Stefankovic
+14
+2
+295
+Edge Liu-Guenther
+17
+16
+296
+Edge Liu-Schubert
+17
+9
+269
+Edge Nelson-Carpenter
+4
+18
+192
+Edge Guenther-Singkhamsack
+16
+8
+214
+Edge Schubert-Seiferas
+9
+7
+76
+Edge Gildea-Scott
+1
+3
+298
+Edge Liu-Shen
+17
+10
+275
+Edge Nelson-Luo
+4
+13
+39
+Edge Singkhamsack-Stefankovic
+8
+2
+278
+Edge Nelson-Pullara
+4
+15
+177
+Edge Luo-Brown
+13
+11
+318
+Edge Hoque-Nelson
+14
+4
+290
+Edge Liu-Seiferas
+17
+7
+96
+Edge Seiferas-Stefankovic
+7
+2
+271
+Edge Nelson-Seiferas
+4
+7
+353
+Edge Venkitasubramaniam-Schubert
+6
+9
+175
+Edge Luo-Gildea
+13
+1
+348
+Edge Venkitasubramaniam-Brown
+6
+11
+285
+Edge Liu-Scott
+17
+3
+136
+Edge Costello-Carpenter
+12
+18
+157
+Edge Hemaspaandra-Seiferas
+5
+7
+194
+Edge Guenther-Gildea
+16
+1
+312
+Edge Hoque-Hemaspaandra
+14
+5
+289
+Edge Liu-Gildea
+17
+1
+355
+Edge Venkitasubramaniam-Shen
+6
+10
+349
+Edge Venkitasubramaniam-Costello
+6
+12
+254
+Edge Shen-Costello
+10
+12
+342
+Edge Venkitasubramaniam-Scott
+6
+3
+337
+Edge Mitchell-Nelson
+0
+4
+328
+Edge Mitchell-Seiferas
+0
+7
+178
+Edge Luo-Costello
+13
+12
+216
+Edge Schubert-Costello
+9
+12
+213
+Edge Schubert-Gildea
+9
+1
+249
+Edge Shen-Singkhamsack
+10
+8
+59
+Edge Carpenter-Singkhamsack
+18
+8
+19
+Edge Stefankovic-Scott
+2
+3
+248
+Edge Shen-Stefankovic
+10
+2
+297
+Edge Liu-Pullara
+17
+15
+135
+Edge Costello-Singkhamsack
+12
+8
+255
+Edge Shen-Hemaspaandra
+10
+5
+258
+Edge Shen-Schubert
+10
+9
+335
+Edge Mitchell-Pullara
+0
+15
+304
+Edge Hoque-Scott
+14
+3
+99
+Edge Seiferas-Gildea
+7
+1
+172
+Edge Luo-Stefankovic
+13
+2
+98
+Edge Seiferas-Carpenter
+7
+18
+197
+Edge Guenther-Costello
+16
+12
+288
+Edge Liu-Carpenter
+17
+18
+234
+Edge Pullara-Brown
+15
+11
+359
+Edge Venkitasubramaniam-Mitchell
+6
+0
+358
+Edge Venkitasubramaniam-Hoque
+6
+14
+152
+Edge Hemaspaandra-Scott
+5
+3
+199
+Edge Guenther-Luo
+16
+13
+272
+Edge Nelson-Brown
+4
+11
+156
+Edge Hemaspaandra-Gildea
+5
+1
+252
+Edge Shen-Seiferas
+10
+7
+253
+Edge Shen-Brown
+10
+11
+173
+Edge Luo-Singkhamsack
+13
+8
+338
+Edge Mitchell-Liu
+0
+17
+215
+Edge Schubert-Brown
+9
+11
+327
+Edge Mitchell-Gildea
+0
+1
+97
+Edge Seiferas-Singkhamsack
+7
+8
+332
+Edge Mitchell-Luo
+0
+13
+193
+Edge Guenther-Carpenter
+16
+18
+306
+Edge Hoque-Singkhamsack
+14
+8
+153
+Edge Hemaspaandra-Stefankovic
+5
+2
+134
+Edge Costello-Stefankovic
+12
+2
+279
+Edge Nelson-Shen
+4
+10
+357
+Edge Venkitasubramaniam-Liu
+6
+17

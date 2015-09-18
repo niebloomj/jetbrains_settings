@@ -1,0 +1,376 @@
+14
+83
+10
+Stefankovic
+Indigo
+5
+Kautz
+Red
+13
+Hoque
+Indigo
+0
+Allen
+Red
+8
+Guo
+Red
+12
+Pawlicki
+Violet
+1
+Dwarkadas
+Yellow
+4
+Shen
+Indigo
+2
+Liu
+Indigo
+9
+Luo
+Violet
+11
+Carpenter
+Violet
+3
+Scott
+Violet
+6
+Seiferas
+Red
+7
+Ipek
+Green
+192
+Edge Ipek-Carpenter
+7
+11
+168
+Edge Seiferas-Stefankovic
+6
+10
+43
+Edge Allen-Kautz
+0
+5
+112
+Edge Liu-Stefankovic
+2
+10
+102
+Edge Shen-Guo
+4
+8
+116
+Edge Liu-Guo
+2
+8
+191
+Edge Ipek-Luo
+7
+9
+177
+Edge Seiferas-Luo
+6
+9
+57
+Edge Guo-Kautz
+8
+5
+117
+Edge Liu-Pawlicki
+2
+12
+44
+Edge Allen-Hoque
+0
+13
+169
+Edge Seiferas-Kautz
+6
+5
+141
+Edge Carpenter-Kautz
+11
+5
+172
+Edge Seiferas-Guo
+6
+8
+164
+Edge Scott-Carpenter
+3
+11
+171
+Edge Seiferas-Allen
+6
+0
+174
+Edge Seiferas-Dwarkadas
+6
+1
+118
+Edge Liu-Dwarkadas
+2
+1
+193
+Edge Ipek-Scott
+7
+3
+142
+Edge Carpenter-Hoque
+11
+13
+86
+Edge Dwarkadas-Hoque
+1
+13
+88
+Edge Dwarkadas-Guo
+1
+8
+145
+Edge Carpenter-Pawlicki
+11
+12
+133
+Edge Luo-Shen
+9
+4
+72
+Edge Pawlicki-Hoque
+12
+13
+188
+Edge Ipek-Dwarkadas
+7
+1
+58
+Edge Guo-Hoque
+8
+13
+159
+Edge Scott-Pawlicki
+3
+12
+147
+Edge Carpenter-Shen
+11
+4
+104
+Edge Shen-Dwarkadas
+4
+1
+115
+Edge Liu-Allen
+2
+0
+84
+Edge Dwarkadas-Stefankovic
+1
+10
+148
+Edge Carpenter-Liu
+11
+2
+185
+Edge Ipek-Allen
+7
+0
+186
+Edge Ipek-Guo
+7
+8
+73
+Edge Pawlicki-Allen
+12
+0
+85
+Edge Dwarkadas-Kautz
+1
+5
+87
+Edge Dwarkadas-Allen
+1
+0
+74
+Edge Pawlicki-Guo
+12
+8
+182
+Edge Ipek-Stefankovic
+7
+10
+14
+Edge Kautz-Stefankovic
+5
+10
+113
+Edge Liu-Kautz
+2
+5
+158
+Edge Scott-Guo
+3
+8
+130
+Edge Luo-Guo
+9
+8
+160
+Edge Scott-Dwarkadas
+3
+1
+59
+Edge Guo-Allen
+8
+0
+154
+Edge Scott-Stefankovic
+3
+10
+143
+Edge Carpenter-Allen
+11
+0
+176
+Edge Seiferas-Liu
+6
+2
+162
+Edge Scott-Liu
+3
+2
+189
+Edge Ipek-Shen
+7
+4
+156
+Edge Scott-Hoque
+3
+13
+157
+Edge Scott-Allen
+3
+0
+161
+Edge Scott-Shen
+3
+4
+194
+Edge Ipek-Seiferas
+7
+6
+100
+Edge Shen-Hoque
+4
+13
+149
+Edge Carpenter-Luo
+11
+9
+103
+Edge Shen-Pawlicki
+4
+12
+178
+Edge Seiferas-Carpenter
+6
+11
+184
+Edge Ipek-Hoque
+7
+13
+140
+Edge Carpenter-Stefankovic
+11
+10
+98
+Edge Shen-Stefankovic
+4
+10
+146
+Edge Carpenter-Dwarkadas
+11
+1
+183
+Edge Ipek-Kautz
+7
+5
+70
+Edge Pawlicki-Stefankovic
+12
+10
+114
+Edge Liu-Hoque
+2
+13
+119
+Edge Liu-Shen
+2
+4
+190
+Edge Ipek-Liu
+7
+2
+179
+Edge Seiferas-Scott
+6
+3
+28
+Edge Hoque-Stefankovic
+13
+10
+155
+Edge Scott-Kautz
+3
+5
+170
+Edge Seiferas-Hoque
+6
+13
+163
+Edge Scott-Luo
+3
+9
+175
+Edge Seiferas-Shen
+6
+4
+132
+Edge Luo-Dwarkadas
+9
+1
+128
+Edge Luo-Hoque
+9
+13
+144
+Edge Carpenter-Guo
+11
+8
+89
+Edge Dwarkadas-Pawlicki
+1
+12
+56
+Edge Guo-Stefankovic
+8
+10
+127
+Edge Luo-Kautz
+9
+5
+131
+Edge Luo-Pawlicki
+9
+12
+99
+Edge Shen-Kautz
+4
+5
+29
+Edge Hoque-Kautz
+13
+5

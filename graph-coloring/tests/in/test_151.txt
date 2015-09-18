@@ -1,0 +1,25 @@
+5
+2
+1
+Guenther
+Red
+2
+Criswell
+Yellow
+3
+Brown
+Orange
+4
+Pullara
+Violet
+0
+Gildea
+Indigo
+16
+Edge Pullara-Criswell
+4
+2
+22
+Edge Gildea-Brown
+0
+3

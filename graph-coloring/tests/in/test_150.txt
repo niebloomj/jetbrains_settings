@@ -1,0 +1,53 @@
+9
+6
+5
+Nelson
+Blue
+1
+Howard
+Green
+2
+Liu
+Violet
+4
+Kautz
+Red
+7
+Brown
+Green
+3
+Ipek
+Green
+8
+Roche
+Indigo
+0
+Schubert
+Indigo
+6
+Seiferas
+Green
+49
+Edge Ipek-Brown
+3
+7
+27
+Edge Kautz-Nelson
+4
+5
+77
+Edge Seiferas-Ipek
+6
+3
+67
+Edge Schubert-Brown
+0
+7
+76
+Edge Seiferas-Brown
+6
+7
+74
+Edge Seiferas-Liu
+6
+2

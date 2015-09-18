@@ -1,0 +1,111 @@
+15
+16
+4
+Scott
+Blue
+8
+Venkitasubramaniam
+Green
+7
+Carpenter
+Orange
+9
+Ding
+Indigo
+1
+Pizzutelli
+Indigo
+2
+Howard
+Indigo
+3
+Hemaspaandra
+Indigo
+10
+Singkhamsack
+Violet
+6
+Hoque
+Violet
+14
+Guo
+Indigo
+11
+Liu
+Red
+12
+Seiferas
+Blue
+5
+Roche
+Yellow
+13
+Criswell
+Green
+0
+Luo
+Red
+166
+Edge Seiferas-Venkitasubramaniam
+12
+8
+141
+Edge Guo-Hemaspaandra
+14
+3
+93
+Edge Hemaspaandra-Ding
+3
+9
+198
+Edge Criswell-Ding
+13
+9
+218
+Edge Luo-Hoque
+0
+6
+199
+Edge Criswell-Pizzutelli
+13
+1
+175
+Edge Seiferas-Liu
+12
+11
+108
+Edge Singkhamsack-Ding
+10
+9
+186
+Edge Roche-Hemaspaandra
+5
+3
+221
+Edge Luo-Seiferas
+0
+12
+158
+Edge Liu-Hoque
+11
+6
+170
+Edge Seiferas-Howard
+12
+2
+60
+Edge Pizzutelli-Scott
+1
+4
+157
+Edge Liu-Singkhamsack
+11
+10
+190
+Edge Roche-Liu
+5
+11
+120
+Edge Hoque-Scott
+6
+4

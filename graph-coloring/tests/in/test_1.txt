@@ -1,0 +1,34 @@
+4
+5
+3
+Hoque
+Green
+1
+Schubert
+Indigo
+2
+Scott
+Yellow
+0
+Liu
+Indigo
+9
+Edge Scott-Schubert
+2
+1
+12
+Edge Liu-Hoque
+0
+3
+13
+Edge Liu-Schubert
+0
+1
+14
+Edge Liu-Scott
+0
+2
+4
+Edge Schubert-Hoque
+1
+3

@@ -1,0 +1,271 @@
+15
+56
+2
+Hemaspaandra
+Yellow
+6
+Mitchell
+Yellow
+3
+Liu
+Orange
+13
+Ipek
+Violet
+0
+Carpenter
+Yellow
+12
+Dwarkadas
+Violet
+11
+Guenther
+Green
+9
+Roche
+Green
+8
+Gildea
+Green
+1
+Criswell
+Red
+7
+Kautz
+Violet
+5
+Schubert
+Orange
+10
+Brown
+Blue
+4
+Venkitasubramaniam
+Yellow
+14
+Pullara
+Yellow
+153
+Edge Kautz-Ipek
+7
+13
+154
+Edge Kautz-Carpenter
+7
+0
+30
+Edge Liu-Hemaspaandra
+3
+2
+198
+Edge Venkitasubramaniam-Ipek
+4
+13
+181
+Edge Brown-Mitchell
+10
+6
+169
+Edge Schubert-Carpenter
+5
+0
+223
+Edge Pullara-Venkitasubramaniam
+14
+4
+187
+Edge Brown-Roche
+10
+9
+155
+Edge Kautz-Dwarkadas
+7
+12
+156
+Edge Kautz-Guenther
+7
+11
+47
+Edge Ipek-Liu
+13
+3
+142
+Edge Criswell-Roche
+1
+9
+124
+Edge Gildea-Carpenter
+8
+0
+180
+Edge Brown-Hemaspaandra
+10
+2
+196
+Edge Venkitasubramaniam-Mitchell
+4
+6
+77
+Edge Dwarkadas-Liu
+12
+3
+123
+Edge Gildea-Ipek
+8
+13
+110
+Edge Roche-Dwarkadas
+9
+12
+46
+Edge Ipek-Mitchell
+13
+6
+219
+Edge Pullara-Criswell
+14
+1
+108
+Edge Roche-Ipek
+9
+13
+94
+Edge Guenther-Carpenter
+11
+0
+140
+Edge Criswell-Dwarkadas
+1
+12
+211
+Edge Pullara-Mitchell
+14
+6
+186
+Edge Brown-Guenther
+10
+11
+157
+Edge Kautz-Roche
+7
+9
+95
+Edge Guenther-Dwarkadas
+11
+12
+203
+Edge Venkitasubramaniam-Gildea
+4
+8
+188
+Edge Brown-Gildea
+10
+8
+15
+Edge Mitchell-Hemaspaandra
+6
+2
+136
+Edge Criswell-Mitchell
+1
+6
+172
+Edge Schubert-Roche
+5
+9
+220
+Edge Pullara-Kautz
+14
+7
+121
+Edge Gildea-Mitchell
+8
+6
+217
+Edge Pullara-Roche
+14
+9
+127
+Edge Gildea-Roche
+8
+9
+31
+Edge Liu-Mitchell
+3
+6
+107
+Edge Roche-Liu
+9
+3
+183
+Edge Brown-Ipek
+10
+13
+143
+Edge Criswell-Gildea
+1
+8
+126
+Edge Gildea-Guenther
+8
+11
+120
+Edge Gildea-Hemaspaandra
+8
+2
+150
+Edge Kautz-Hemaspaandra
+7
+2
+195
+Edge Venkitasubramaniam-Hemaspaandra
+4
+2
+170
+Edge Schubert-Dwarkadas
+5
+12
+135
+Edge Criswell-Hemaspaandra
+1
+2
+173
+Edge Schubert-Gildea
+5
+8
+210
+Edge Pullara-Hemaspaandra
+14
+2
+204
+Edge Venkitasubramaniam-Criswell
+4
+1
+106
+Edge Roche-Mitchell
+9
+6
+207
+Edge Venkitasubramaniam-Brown
+4
+10
+191
+Edge Brown-Schubert
+10
+5
+125
+Edge Gildea-Dwarkadas
+8
+12
+174
+Edge Schubert-Criswell
+5
+1
+111
+Edge Roche-Guenther
+9
+11
+184
+Edge Brown-Carpenter
+10
+0

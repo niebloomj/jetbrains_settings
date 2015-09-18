@@ -1,0 +1,138 @@
+12
+25
+9
+Guo
+Blue
+8
+Allen
+Yellow
+10
+Guenther
+Violet
+11
+Howard
+Yellow
+7
+Stefankovic
+Yellow
+5
+Hemaspaandra
+Indigo
+2
+Pawlicki
+Yellow
+0
+Mitchell
+Yellow
+1
+Nelson
+Blue
+6
+Hoque
+Blue
+4
+Brown
+Violet
+3
+Ding
+Blue
+134
+Edge Ding-Guenther
+3
+10
+49
+Edge Stefankovic-Allen
+7
+8
+62
+Edge Hemaspaandra-Guenther
+5
+10
+141
+Edge Ding-Hoque
+3
+6
+136
+Edge Ding-Stefankovic
+3
+7
+96
+Edge Nelson-Guo
+1
+9
+122
+Edge Brown-Guenther
+4
+10
+101
+Edge Nelson-Hemaspaandra
+1
+5
+128
+Edge Brown-Nelson
+4
+1
+51
+Edge Stefankovic-Howard
+7
+11
+50
+Edge Stefankovic-Guenther
+7
+10
+111
+Edge Hoque-Howard
+6
+11
+63
+Edge Hemaspaandra-Howard
+5
+11
+121
+Edge Brown-Allen
+4
+8
+72
+Edge Pawlicki-Guo
+2
+9
+24
+Edge Guenther-Guo
+10
+9
+37
+Edge Howard-Allen
+11
+8
+75
+Edge Pawlicki-Howard
+2
+11
+109
+Edge Hoque-Allen
+6
+8
+124
+Edge Brown-Stefankovic
+4
+7
+85
+Edge Mitchell-Allen
+0
+8
+100
+Edge Nelson-Stefankovic
+1
+7
+74
+Edge Pawlicki-Guenther
+2
+10
+126
+Edge Brown-Pawlicki
+4
+2
+139
+Edge Ding-Mitchell
+3
+0

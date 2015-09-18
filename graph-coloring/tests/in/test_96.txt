@@ -1,0 +1,325 @@
+13
+71
+3
+Liu
+Indigo
+4
+Pullara
+Yellow
+6
+Costello
+Blue
+1
+Howard
+Red
+0
+Pawlicki
+Red
+11
+Schubert
+Red
+7
+Criswell
+Red
+5
+Roche
+Green
+9
+Guo
+Indigo
+12
+Seiferas
+Orange
+2
+Scott
+Green
+10
+Singkhamsack
+Violet
+8
+Kautz
+Violet
+106
+Edge Guo-Costello
+9
+6
+119
+Edge Seiferas-Costello
+12
+6
+81
+Edge Criswell-Howard
+7
+1
+134
+Edge Scott-Pawlicki
+2
+0
+139
+Edge Scott-Seiferas
+2
+12
+144
+Edge Singkhamsack-Pullara
+10
+4
+158
+Edge Kautz-Costello
+8
+6
+148
+Edge Singkhamsack-Schubert
+10
+11
+157
+Edge Kautz-Pullara
+8
+4
+117
+Edge Seiferas-Liu
+12
+3
+130
+Edge Scott-Liu
+2
+3
+95
+Edge Roche-Pawlicki
+5
+0
+82
+Edge Criswell-Pawlicki
+7
+0
+156
+Edge Kautz-Liu
+8
+3
+54
+Edge Pawlicki-Costello
+0
+6
+97
+Edge Roche-Criswell
+5
+7
+153
+Edge Singkhamsack-Scott
+10
+2
+107
+Edge Guo-Howard
+9
+1
+143
+Edge Singkhamsack-Liu
+10
+3
+147
+Edge Singkhamsack-Pawlicki
+10
+0
+133
+Edge Scott-Howard
+2
+1
+69
+Edge Schubert-Pawlicki
+11
+0
+39
+Edge Howard-Liu
+1
+3
+104
+Edge Guo-Liu
+9
+3
+159
+Edge Kautz-Howard
+8
+1
+27
+Edge Costello-Pullara
+6
+4
+55
+Edge Pawlicki-Howard
+0
+1
+135
+Edge Scott-Schubert
+2
+11
+83
+Edge Criswell-Schubert
+7
+11
+131
+Edge Scott-Pullara
+2
+4
+52
+Edge Pawlicki-Liu
+0
+3
+96
+Edge Roche-Schubert
+5
+11
+40
+Edge Howard-Pullara
+1
+4
+162
+Edge Kautz-Criswell
+8
+7
+123
+Edge Seiferas-Criswell
+12
+7
+164
+Edge Kautz-Guo
+8
+9
+79
+Edge Criswell-Pullara
+7
+4
+166
+Edge Kautz-Scott
+8
+2
+67
+Edge Schubert-Costello
+11
+6
+65
+Edge Schubert-Liu
+11
+3
+124
+Edge Seiferas-Roche
+12
+5
+68
+Edge Schubert-Howard
+11
+1
+152
+Edge Singkhamsack-Seiferas
+10
+12
+110
+Edge Guo-Criswell
+9
+7
+122
+Edge Seiferas-Schubert
+12
+11
+163
+Edge Kautz-Roche
+8
+5
+108
+Edge Guo-Pawlicki
+9
+0
+53
+Edge Pawlicki-Pullara
+0
+4
+149
+Edge Singkhamsack-Criswell
+10
+7
+125
+Edge Seiferas-Guo
+12
+9
+105
+Edge Guo-Pullara
+9
+4
+121
+Edge Seiferas-Pawlicki
+12
+0
+80
+Edge Criswell-Costello
+7
+6
+91
+Edge Roche-Liu
+5
+3
+120
+Edge Seiferas-Howard
+12
+1
+160
+Edge Kautz-Pawlicki
+8
+0
+118
+Edge Seiferas-Pullara
+12
+4
+92
+Edge Roche-Pullara
+5
+4
+150
+Edge Singkhamsack-Roche
+10
+5
+66
+Edge Schubert-Pullara
+11
+4
+13
+Edge Pullara-Liu
+4
+3
+138
+Edge Scott-Guo
+2
+9
+94
+Edge Roche-Howard
+5
+1
+93
+Edge Roche-Costello
+5
+6
+146
+Edge Singkhamsack-Howard
+10
+1
+111
+Edge Guo-Roche
+9
+5
+137
+Edge Scott-Roche
+2
+5
+26
+Edge Costello-Liu
+6
+3
+151
+Edge Singkhamsack-Guo
+10
+9
+167
+Edge Kautz-Singkhamsack
+8
+10
+132
+Edge Scott-Costello
+2
+6

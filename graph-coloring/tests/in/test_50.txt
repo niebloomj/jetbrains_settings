@@ -1,0 +1,303 @@
+15
+64
+13
+Guo
+Violet
+8
+Pullara
+Red
+2
+Dwarkadas
+Violet
+7
+Ipek
+Blue
+14
+Costello
+Green
+12
+Guenther
+Red
+4
+Pawlicki
+Yellow
+10
+Singkhamsack
+Orange
+3
+Roche
+Green
+6
+Venkitasubramaniam
+Indigo
+5
+Hemaspaandra
+Indigo
+0
+Scott
+Orange
+1
+Hoque
+Green
+9
+Stefankovic
+Blue
+11
+Criswell
+Indigo
+197
+Edge Stefankovic-Dwarkadas
+9
+2
+123
+Edge Roche-Ipek
+3
+7
+171
+Edge Scott-Pawlicki
+0
+4
+198
+Edge Stefankovic-Ipek
+9
+7
+77
+Edge Guenther-Dwarkadas
+12
+2
+199
+Edge Stefankovic-Costello
+9
+14
+143
+Edge Venkitasubramaniam-Roche
+6
+3
+108
+Edge Singkhamsack-Ipek
+10
+7
+153
+Edge Hemaspaandra-Ipek
+5
+7
+106
+Edge Singkhamsack-Pullara
+10
+8
+175
+Edge Scott-Hemaspaandra
+0
+5
+218
+Edge Criswell-Roche
+11
+3
+202
+Edge Stefankovic-Singkhamsack
+9
+10
+151
+Edge Hemaspaandra-Pullara
+5
+8
+201
+Edge Stefankovic-Pawlicki
+9
+4
+135
+Edge Venkitasubramaniam-Guo
+6
+13
+222
+Edge Criswell-Hoque
+11
+1
+167
+Edge Scott-Dwarkadas
+0
+2
+155
+Edge Hemaspaandra-Guenther
+5
+12
+187
+Edge Hoque-Singkhamsack
+1
+10
+195
+Edge Stefankovic-Guo
+9
+13
+94
+Edge Pawlicki-Costello
+4
+14
+216
+Edge Criswell-Pawlicki
+11
+4
+204
+Edge Stefankovic-Venkitasubramaniam
+9
+6
+214
+Edge Criswell-Costello
+11
+14
+186
+Edge Hoque-Pawlicki
+1
+4
+91
+Edge Pawlicki-Pullara
+4
+8
+79
+Edge Guenther-Costello
+12
+14
+165
+Edge Scott-Guo
+0
+13
+124
+Edge Roche-Costello
+3
+14
+45
+Edge Ipek-Guo
+7
+13
+15
+Edge Pullara-Guo
+8
+13
+213
+Edge Criswell-Ipek
+11
+7
+142
+Edge Venkitasubramaniam-Singkhamsack
+6
+10
+182
+Edge Hoque-Dwarkadas
+1
+2
+60
+Edge Costello-Guo
+14
+13
+189
+Edge Hoque-Venkitasubramaniam
+1
+6
+111
+Edge Singkhamsack-Pawlicki
+10
+4
+184
+Edge Hoque-Costello
+1
+14
+217
+Edge Criswell-Singkhamsack
+11
+10
+140
+Edge Venkitasubramaniam-Guenther
+6
+12
+212
+Edge Criswell-Dwarkadas
+11
+2
+205
+Edge Stefankovic-Hemaspaandra
+9
+5
+191
+Edge Hoque-Scott
+1
+0
+122
+Edge Roche-Dwarkadas
+3
+2
+136
+Edge Venkitasubramaniam-Pullara
+6
+8
+169
+Edge Scott-Costello
+0
+14
+188
+Edge Hoque-Roche
+1
+3
+203
+Edge Stefankovic-Roche
+9
+3
+219
+Edge Criswell-Venkitasubramaniam
+11
+6
+63
+Edge Costello-Ipek
+14
+7
+207
+Edge Stefankovic-Hoque
+9
+1
+120
+Edge Roche-Guo
+3
+13
+31
+Edge Dwarkadas-Pullara
+2
+8
+109
+Edge Singkhamsack-Costello
+10
+14
+107
+Edge Singkhamsack-Dwarkadas
+10
+2
+46
+Edge Ipek-Pullara
+7
+8
+139
+Edge Venkitasubramaniam-Costello
+6
+14
+221
+Edge Criswell-Scott
+11
+0
+170
+Edge Scott-Guenther
+0
+12
+105
+Edge Singkhamsack-Guo
+10
+13
+174
+Edge Scott-Venkitasubramaniam
+0
+6
+121
+Edge Roche-Pullara
+3
+8
+220
+Edge Criswell-Hemaspaandra
+11
+5

@@ -1,0 +1,538 @@
+20
+119
+11
+Gildea
+Red
+8
+Roche
+Green
+3
+Pizzutelli
+Green
+17
+Guo
+Orange
+19
+Liu
+Violet
+2
+Kautz
+Blue
+14
+Ding
+Red
+10
+Ipek
+Red
+18
+Criswell
+Yellow
+12
+Dwarkadas
+Red
+13
+Singkhamsack
+Red
+15
+Costello
+Blue
+0
+Schubert
+Blue
+1
+Luo
+Violet
+6
+Seiferas
+Orange
+16
+Mitchell
+Yellow
+4
+Carpenter
+Indigo
+5
+Hemaspaandra
+Red
+7
+Stefankovic
+Indigo
+9
+Pawlicki
+Red
+228
+Edge Costello-Criswell
+15
+18
+142
+Edge Ipek-Pizzutelli
+10
+3
+324
+Edge Carpenter-Liu
+4
+19
+223
+Edge Costello-Guo
+15
+17
+160
+Edge Criswell-Gildea
+18
+11
+356
+Edge Hemaspaandra-Carpenter
+5
+4
+164
+Edge Criswell-Liu
+18
+19
+321
+Edge Carpenter-Roche
+4
+8
+245
+Edge Schubert-Kautz
+0
+2
+326
+Edge Carpenter-Ding
+4
+14
+323
+Edge Carpenter-Guo
+4
+17
+396
+Edge Pawlicki-Carpenter
+9
+4
+247
+Edge Schubert-Ipek
+0
+10
+330
+Edge Carpenter-Singkhamsack
+4
+13
+320
+Edge Carpenter-Gildea
+4
+11
+395
+Edge Pawlicki-Mitchell
+9
+16
+348
+Edge Hemaspaandra-Criswell
+5
+18
+263
+Edge Luo-Guo
+1
+17
+207
+Edge Singkhamsack-Ipek
+13
+10
+325
+Edge Carpenter-Kautz
+4
+2
+62
+Edge Guo-Pizzutelli
+17
+3
+242
+Edge Schubert-Pizzutelli
+0
+3
+81
+Edge Liu-Roche
+19
+8
+250
+Edge Schubert-Singkhamsack
+0
+13
+373
+Edge Stefankovic-Luo
+7
+1
+143
+Edge Ipek-Guo
+10
+17
+280
+Edge Seiferas-Gildea
+6
+11
+162
+Edge Criswell-Pizzutelli
+18
+3
+349
+Edge Hemaspaandra-Dwarkadas
+5
+12
+309
+Edge Mitchell-Dwarkadas
+16
+12
+300
+Edge Mitchell-Gildea
+16
+11
+397
+Edge Pawlicki-Hemaspaandra
+9
+5
+287
+Edge Seiferas-Ipek
+6
+10
+383
+Edge Pawlicki-Guo
+9
+17
+244
+Edge Schubert-Liu
+0
+19
+366
+Edge Stefankovic-Ding
+7
+14
+267
+Edge Luo-Ipek
+1
+10
+354
+Edge Hemaspaandra-Seiferas
+5
+6
+341
+Edge Hemaspaandra-Roche
+5
+8
+180
+Edge Dwarkadas-Gildea
+12
+11
+392
+Edge Pawlicki-Schubert
+9
+0
+308
+Edge Mitchell-Criswell
+16
+18
+312
+Edge Mitchell-Schubert
+16
+0
+292
+Edge Seiferas-Schubert
+6
+0
+182
+Edge Dwarkadas-Pizzutelli
+12
+3
+204
+Edge Singkhamsack-Liu
+13
+19
+329
+Edge Carpenter-Dwarkadas
+4
+12
+188
+Edge Dwarkadas-Criswell
+12
+18
+166
+Edge Criswell-Ding
+18
+14
+282
+Edge Seiferas-Pizzutelli
+6
+3
+375
+Edge Stefankovic-Mitchell
+7
+16
+376
+Edge Stefankovic-Carpenter
+7
+4
+345
+Edge Hemaspaandra-Kautz
+5
+2
+83
+Edge Liu-Guo
+19
+17
+103
+Edge Kautz-Guo
+2
+17
+266
+Edge Luo-Ding
+1
+14
+377
+Edge Stefankovic-Hemaspaandra
+7
+5
+386
+Edge Pawlicki-Ding
+9
+14
+124
+Edge Ding-Liu
+14
+19
+184
+Edge Dwarkadas-Liu
+12
+19
+314
+Edge Mitchell-Seiferas
+16
+6
+183
+Edge Dwarkadas-Guo
+12
+17
+209
+Edge Singkhamsack-Dwarkadas
+13
+12
+301
+Edge Mitchell-Roche
+16
+8
+346
+Edge Hemaspaandra-Ding
+5
+14
+293
+Edge Seiferas-Luo
+6
+1
+224
+Edge Costello-Liu
+15
+19
+181
+Edge Dwarkadas-Roche
+12
+8
+371
+Edge Stefankovic-Costello
+7
+15
+388
+Edge Pawlicki-Criswell
+9
+18
+208
+Edge Singkhamsack-Criswell
+13
+18
+387
+Edge Pawlicki-Ipek
+9
+10
+372
+Edge Stefankovic-Schubert
+7
+0
+291
+Edge Seiferas-Costello
+6
+15
+41
+Edge Pizzutelli-Roche
+3
+8
+365
+Edge Stefankovic-Kautz
+7
+2
+222
+Edge Costello-Pizzutelli
+15
+3
+368
+Edge Stefankovic-Criswell
+7
+18
+380
+Edge Pawlicki-Gildea
+9
+11
+290
+Edge Seiferas-Singkhamsack
+6
+13
+302
+Edge Mitchell-Pizzutelli
+16
+3
+350
+Edge Hemaspaandra-Singkhamsack
+5
+13
+120
+Edge Ding-Gildea
+14
+11
+40
+Edge Pizzutelli-Gildea
+3
+11
+187
+Edge Dwarkadas-Ipek
+12
+10
+101
+Edge Kautz-Roche
+2
+8
+202
+Edge Singkhamsack-Pizzutelli
+13
+3
+370
+Edge Stefankovic-Singkhamsack
+7
+13
+281
+Edge Seiferas-Roche
+6
+8
+203
+Edge Singkhamsack-Guo
+13
+17
+167
+Edge Criswell-Ipek
+18
+10
+241
+Edge Schubert-Roche
+0
+8
+230
+Edge Costello-Singkhamsack
+15
+13
+394
+Edge Pawlicki-Seiferas
+9
+6
+313
+Edge Mitchell-Luo
+16
+1
+363
+Edge Stefankovic-Guo
+7
+17
+307
+Edge Mitchell-Ipek
+16
+10
+102
+Edge Kautz-Pizzutelli
+2
+3
+260
+Edge Luo-Gildea
+1
+11
+305
+Edge Mitchell-Kautz
+16
+2
+390
+Edge Pawlicki-Singkhamsack
+9
+13
+206
+Edge Singkhamsack-Ding
+13
+14
+122
+Edge Ding-Pizzutelli
+14
+3
+226
+Edge Costello-Ding
+15
+14
+227
+Edge Costello-Ipek
+15
+10
+322
+Edge Carpenter-Pizzutelli
+4
+3
+328
+Edge Carpenter-Criswell
+4
+18
+340
+Edge Hemaspaandra-Gildea
+5
+11
+140
+Edge Ipek-Gildea
+10
+11
+286
+Edge Seiferas-Ding
+6
+14
+310
+Edge Mitchell-Singkhamsack
+16
+13
+121
+Edge Ding-Roche
+14
+8
+389
+Edge Pawlicki-Dwarkadas
+9
+12
+331
+Edge Carpenter-Costello
+4
+15
+225
+Edge Costello-Kautz
+15
+2
+270
+Edge Luo-Singkhamsack
+1
+13
+200
+Edge Singkhamsack-Gildea
+13
+11
+335
+Edge Carpenter-Mitchell
+4
+16
+246
+Edge Schubert-Ding
+0
+14

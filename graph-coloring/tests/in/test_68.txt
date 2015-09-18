@@ -1,0 +1,44 @@
+6
+6
+0
+Seiferas
+Indigo
+2
+Singkhamsack
+Green
+1
+Allen
+Violet
+4
+Brown
+Green
+3
+Scott
+Red
+5
+Gildea
+Yellow
+30
+Edge Gildea-Seiferas
+5
+0
+12
+Edge Allen-Seiferas
+1
+0
+25
+Edge Scott-Singkhamsack
+3
+2
+6
+Edge Singkhamsack-Seiferas
+2
+0
+13
+Edge Allen-Singkhamsack
+1
+2
+34
+Edge Gildea-Scott
+5
+3

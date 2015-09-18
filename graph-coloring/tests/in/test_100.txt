@@ -1,0 +1,25 @@
+5
+2
+0
+Seiferas
+Yellow
+2
+Guo
+Indigo
+3
+Dwarkadas
+Indigo
+4
+Liu
+Violet
+1
+Costello
+Green
+10
+Edge Dwarkadas-Seiferas
+3
+0
+21
+Edge Costello-Guo
+1
+2

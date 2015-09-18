@@ -1,0 +1,349 @@
+17
+74
+15
+Guenther
+Orange
+4
+Kautz
+Red
+5
+Ding
+Red
+3
+Dwarkadas
+Green
+1
+Pawlicki
+Indigo
+11
+Seiferas
+Yellow
+16
+Gildea
+Red
+10
+Hoque
+Violet
+7
+Pizzutelli
+Red
+12
+Carpenter
+Blue
+6
+Allen
+Indigo
+13
+Venkitasubramaniam
+Indigo
+8
+Singkhamsack
+Green
+0
+Brown
+Blue
+2
+Hemaspaandra
+Indigo
+9
+Nelson
+Green
+14
+Liu
+Blue
+213
+Edge Singkhamsack-Carpenter
+8
+12
+208
+Edge Singkhamsack-Pawlicki
+8
+1
+264
+Edge Nelson-Carpenter
+9
+12
+281
+Edge Liu-Carpenter
+14
+12
+287
+Edge Liu-Nelson
+14
+9
+104
+Edge Gildea-Ding
+16
+5
+207
+Edge Singkhamsack-Dwarkadas
+8
+3
+88
+Edge Seiferas-Dwarkadas
+11
+3
+190
+Edge Venkitasubramaniam-Dwarkadas
+13
+3
+159
+Edge Carpenter-Gildea
+12
+16
+105
+Edge Gildea-Dwarkadas
+16
+3
+122
+Edge Hoque-Dwarkadas
+10
+3
+278
+Edge Liu-Gildea
+14
+16
+273
+Edge Liu-Kautz
+14
+4
+212
+Edge Singkhamsack-Pizzutelli
+8
+7
+171
+Edge Allen-Kautz
+6
+4
+283
+Edge Liu-Venkitasubramaniam
+14
+13
+243
+Edge Hemaspaandra-Seiferas
+2
+11
+206
+Edge Singkhamsack-Ding
+8
+5
+255
+Edge Nelson-Guenther
+9
+15
+179
+Edge Allen-Carpenter
+6
+12
+173
+Edge Allen-Dwarkadas
+6
+3
+142
+Edge Pizzutelli-Gildea
+7
+16
+239
+Edge Hemaspaandra-Kautz
+2
+4
+34
+Edge Ding-Guenther
+5
+15
+143
+Edge Pizzutelli-Hoque
+7
+10
+71
+Edge Pawlicki-Dwarkadas
+1
+3
+250
+Edge Hemaspaandra-Singkhamsack
+2
+8
+69
+Edge Pawlicki-Kautz
+1
+4
+214
+Edge Singkhamsack-Allen
+8
+6
+269
+Edge Nelson-Hemaspaandra
+9
+2
+274
+Edge Liu-Ding
+14
+5
+284
+Edge Liu-Singkhamsack
+14
+8
+175
+Edge Allen-Seiferas
+6
+11
+256
+Edge Nelson-Kautz
+9
+4
+272
+Edge Liu-Guenther
+14
+15
+231
+Edge Brown-Allen
+0
+6
+282
+Edge Liu-Allen
+14
+6
+125
+Edge Hoque-Gildea
+10
+16
+177
+Edge Allen-Hoque
+6
+10
+156
+Edge Carpenter-Dwarkadas
+12
+3
+209
+Edge Singkhamsack-Seiferas
+8
+11
+85
+Edge Seiferas-Guenther
+11
+15
+178
+Edge Allen-Pizzutelli
+6
+7
+204
+Edge Singkhamsack-Guenther
+8
+15
+120
+Edge Hoque-Kautz
+10
+4
+223
+Edge Brown-Ding
+0
+5
+226
+Edge Brown-Seiferas
+0
+11
+170
+Edge Allen-Guenther
+6
+15
+119
+Edge Hoque-Guenther
+10
+15
+187
+Edge Venkitasubramaniam-Guenther
+13
+15
+195
+Edge Venkitasubramaniam-Pizzutelli
+13
+7
+280
+Edge Liu-Pizzutelli
+14
+7
+228
+Edge Brown-Hoque
+0
+10
+121
+Edge Hoque-Ding
+10
+5
+251
+Edge Hemaspaandra-Brown
+2
+0
+211
+Edge Singkhamsack-Hoque
+8
+10
+53
+Edge Dwarkadas-Ding
+3
+5
+124
+Edge Hoque-Seiferas
+10
+11
+192
+Edge Venkitasubramaniam-Seiferas
+13
+11
+89
+Edge Seiferas-Pawlicki
+11
+1
+233
+Edge Brown-Singkhamsack
+0
+8
+262
+Edge Nelson-Hoque
+9
+10
+277
+Edge Liu-Seiferas
+14
+11
+221
+Edge Brown-Guenther
+0
+15
+261
+Edge Nelson-Gildea
+9
+16
+193
+Edge Venkitasubramaniam-Gildea
+13
+16
+238
+Edge Hemaspaandra-Guenther
+2
+15
+189
+Edge Venkitasubramaniam-Ding
+13
+5
+275
+Edge Liu-Dwarkadas
+14
+3
+154
+Edge Carpenter-Kautz
+12
+4
+68
+Edge Pawlicki-Guenther
+1
+15
+139
+Edge Pizzutelli-Dwarkadas
+7
+3
+276
+Edge Liu-Pawlicki
+14
+1

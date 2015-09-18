@@ -1,0 +1,117 @@
+NO
+23
+41
+Edge Pizzutelli-Roche
+Pizzutelli
+Roche
+Green
+120
+Edge Ding-Gildea
+Ding
+Gildea
+Red
+140
+Edge Ipek-Gildea
+Ipek
+Gildea
+Red
+180
+Edge Dwarkadas-Gildea
+Dwarkadas
+Gildea
+Red
+187
+Edge Dwarkadas-Ipek
+Dwarkadas
+Ipek
+Red
+200
+Edge Singkhamsack-Gildea
+Singkhamsack
+Gildea
+Red
+206
+Edge Singkhamsack-Ding
+Singkhamsack
+Ding
+Red
+207
+Edge Singkhamsack-Ipek
+Singkhamsack
+Ipek
+Red
+209
+Edge Singkhamsack-Dwarkadas
+Singkhamsack
+Dwarkadas
+Red
+225
+Edge Costello-Kautz
+Costello
+Kautz
+Blue
+245
+Edge Schubert-Kautz
+Schubert
+Kautz
+Blue
+308
+Edge Mitchell-Criswell
+Mitchell
+Criswell
+Yellow
+340
+Edge Hemaspaandra-Gildea
+Hemaspaandra
+Gildea
+Red
+346
+Edge Hemaspaandra-Ding
+Hemaspaandra
+Ding
+Red
+349
+Edge Hemaspaandra-Dwarkadas
+Hemaspaandra
+Dwarkadas
+Red
+350
+Edge Hemaspaandra-Singkhamsack
+Hemaspaandra
+Singkhamsack
+Red
+376
+Edge Stefankovic-Carpenter
+Stefankovic
+Carpenter
+Indigo
+380
+Edge Pawlicki-Gildea
+Pawlicki
+Gildea
+Red
+386
+Edge Pawlicki-Ding
+Pawlicki
+Ding
+Red
+387
+Edge Pawlicki-Ipek
+Pawlicki
+Ipek
+Red
+389
+Edge Pawlicki-Dwarkadas
+Pawlicki
+Dwarkadas
+Red
+390
+Edge Pawlicki-Singkhamsack
+Pawlicki
+Singkhamsack
+Red
+397
+Edge Pawlicki-Hemaspaandra
+Pawlicki
+Hemaspaandra
+Red

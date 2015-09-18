@@ -1,0 +1,62 @@
+NO
+12
+72
+Edge Liu-Shen
+Liu
+Shen
+Red
+91
+Edge Allen-Costello
+Allen
+Costello
+Blue
+189
+Edge Ding-Hemaspaandra
+Ding
+Hemaspaandra
+Violet
+200
+Edge Criswell-Guo
+Criswell
+Guo
+Indigo
+201
+Edge Criswell-Singkhamsack
+Criswell
+Singkhamsack
+Indigo
+225
+Edge Guenther-Hemaspaandra
+Guenther
+Hemaspaandra
+Violet
+226
+Edge Guenther-Ding
+Guenther
+Ding
+Violet
+234
+Edge Stefankovic-Shen
+Stefankovic
+Shen
+Red
+238
+Edge Stefankovic-Liu
+Stefankovic
+Liu
+Red
+270
+Edge Seiferas-Shen
+Seiferas
+Shen
+Red
+274
+Edge Seiferas-Liu
+Seiferas
+Liu
+Red
+283
+Edge Seiferas-Stefankovic
+Seiferas
+Stefankovic
+Red

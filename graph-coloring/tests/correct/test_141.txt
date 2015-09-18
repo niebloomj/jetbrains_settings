@@ -1,0 +1,77 @@
+NO
+15
+55
+Edge Howard-Singkhamsack
+Howard
+Singkhamsack
+Violet
+91
+Edge Seiferas-Singkhamsack
+Seiferas
+Singkhamsack
+Violet
+93
+Edge Seiferas-Howard
+Seiferas
+Howard
+Violet
+110
+Edge Allen-Shen
+Allen
+Shen
+Red
+166
+Edge Luo-Pullara
+Luo
+Pullara
+Orange
+182
+Edge Guenther-Shen
+Guenther
+Shen
+Red
+186
+Edge Guenther-Allen
+Guenther
+Allen
+Red
+198
+Edge Ding-Hemaspaandra
+Ding
+Hemaspaandra
+Green
+234
+Edge Schubert-Hemaspaandra
+Schubert
+Hemaspaandra
+Green
+245
+Edge Schubert-Ding
+Schubert
+Ding
+Green
+260
+Edge Liu-Carpenter
+Liu
+Carpenter
+Yellow
+280
+Edge Mitchell-Guenther
+Mitchell
+Guenther
+Red
+297
+Edge Nelson-Luo
+Nelson
+Luo
+Orange
+314
+Edge Brown-Carpenter
+Brown
+Carpenter
+Yellow
+320
+Edge Brown-Liu
+Brown
+Liu
+Yellow

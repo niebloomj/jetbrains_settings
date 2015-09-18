@@ -1,0 +1,77 @@
+NO
+15
+38
+Edge Luo-Venkitasubramaniam
+Luo
+Venkitasubramaniam
+Indigo
+78
+Edge Pawlicki-Luo
+Pawlicki
+Luo
+Indigo
+118
+Edge Costello-Pawlicki
+Costello
+Pawlicki
+Indigo
+172
+Edge Nelson-Ding
+Nelson
+Ding
+Blue
+212
+Edge Dwarkadas-Shen
+Dwarkadas
+Shen
+Yellow
+238
+Edge Pizzutelli-Singkhamsack
+Pizzutelli
+Singkhamsack
+Red
+252
+Edge Schubert-Stefankovic
+Schubert
+Stefankovic
+Orange
+279
+Edge Ipek-Schubert
+Ipek
+Schubert
+Orange
+287
+Edge Carpenter-Luo
+Carpenter
+Luo
+Indigo
+289
+Edge Carpenter-Pawlicki
+Carpenter
+Pawlicki
+Indigo
+291
+Edge Carpenter-Costello
+Carpenter
+Costello
+Indigo
+310
+Edge Mitchell-Costello
+Mitchell
+Costello
+Indigo
+319
+Edge Mitchell-Carpenter
+Mitchell
+Carpenter
+Indigo
+333
+Edge Liu-Singkhamsack
+Liu
+Singkhamsack
+Red
+335
+Edge Liu-Pizzutelli
+Liu
+Pizzutelli
+Red

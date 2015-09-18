@@ -1,0 +1,17 @@
+NO
+3
+60
+Edge Guo-Carpenter
+Guo
+Carpenter
+Green
+88
+Edge Criswell-Allen
+Criswell
+Allen
+Indigo
+90
+Edge Criswell-Seiferas
+Criswell
+Seiferas
+Indigo

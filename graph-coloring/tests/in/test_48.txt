@@ -1,0 +1,212 @@
+10
+45
+8
+Hoque
+Yellow
+6
+Roche
+Green
+5
+Singkhamsack
+Blue
+3
+Brown
+Blue
+2
+Venkitasubramaniam
+Indigo
+4
+Schubert
+Indigo
+9
+Seiferas
+Yellow
+1
+Pawlicki
+Indigo
+0
+Stefankovic
+Violet
+7
+Pullara
+Indigo
+95
+Edge Pullara-Schubert
+7
+4
+53
+Edge Schubert-Brown
+4
+3
+52
+Edge Schubert-Singkhamsack
+4
+5
+73
+Edge Pawlicki-Brown
+1
+3
+86
+Edge Stefankovic-Seiferas
+0
+9
+40
+Edge Venkitasubramaniam-Hoque
+2
+8
+50
+Edge Schubert-Hoque
+4
+8
+92
+Edge Pullara-Singkhamsack
+7
+5
+81
+Edge Stefankovic-Roche
+0
+6
+90
+Edge Pullara-Hoque
+7
+8
+61
+Edge Seiferas-Roche
+9
+6
+60
+Edge Seiferas-Hoque
+9
+8
+63
+Edge Seiferas-Brown
+9
+3
+94
+Edge Pullara-Venkitasubramaniam
+7
+2
+64
+Edge Seiferas-Venkitasubramaniam
+9
+2
+31
+Edge Brown-Roche
+3
+6
+30
+Edge Brown-Hoque
+3
+8
+32
+Edge Brown-Singkhamsack
+3
+5
+96
+Edge Pullara-Seiferas
+7
+9
+72
+Edge Pawlicki-Singkhamsack
+1
+5
+10
+Edge Roche-Hoque
+6
+8
+21
+Edge Singkhamsack-Roche
+5
+6
+74
+Edge Pawlicki-Venkitasubramaniam
+1
+2
+91
+Edge Pullara-Roche
+7
+6
+54
+Edge Schubert-Venkitasubramaniam
+4
+2
+20
+Edge Singkhamsack-Hoque
+5
+8
+80
+Edge Stefankovic-Hoque
+0
+8
+62
+Edge Seiferas-Singkhamsack
+9
+5
+93
+Edge Pullara-Brown
+7
+3
+65
+Edge Seiferas-Schubert
+9
+4
+75
+Edge Pawlicki-Schubert
+1
+4
+43
+Edge Venkitasubramaniam-Brown
+2
+3
+42
+Edge Venkitasubramaniam-Singkhamsack
+2
+5
+51
+Edge Schubert-Roche
+4
+6
+70
+Edge Pawlicki-Hoque
+1
+8
+85
+Edge Stefankovic-Schubert
+0
+4
+98
+Edge Pullara-Stefankovic
+7
+0
+71
+Edge Pawlicki-Roche
+1
+6
+97
+Edge Pullara-Pawlicki
+7
+1
+84
+Edge Stefankovic-Venkitasubramaniam
+0
+2
+76
+Edge Pawlicki-Seiferas
+1
+9
+82
+Edge Stefankovic-Singkhamsack
+0
+5
+83
+Edge Stefankovic-Brown
+0
+3
+87
+Edge Stefankovic-Pawlicki
+0
+1
+41
+Edge Venkitasubramaniam-Roche
+2
+6

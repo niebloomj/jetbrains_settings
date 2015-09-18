@@ -1,0 +1,99 @@
+11
+16
+10
+Luo
+Blue
+1
+Venkitasubramaniam
+Yellow
+4
+Costello
+Green
+0
+Mitchell
+Red
+5
+Roche
+Green
+9
+Shen
+Red
+3
+Brown
+Orange
+6
+Carpenter
+Indigo
+8
+Allen
+Violet
+7
+Ipek
+Blue
+2
+Stefankovic
+Yellow
+56
+Edge Shen-Venkitasubramaniam
+9
+1
+113
+Edge Stefankovic-Mitchell
+2
+0
+22
+Edge Costello-Luo
+4
+10
+107
+Edge Ipek-Allen
+7
+8
+104
+Edge Ipek-Shen
+7
+9
+69
+Edge Brown-Mitchell
+3
+0
+95
+Edge Allen-Carpenter
+8
+6
+93
+Edge Allen-Shen
+8
+9
+88
+Edge Allen-Luo
+8
+10
+81
+Edge Carpenter-Roche
+6
+5
+94
+Edge Allen-Brown
+8
+3
+114
+Edge Stefankovic-Roche
+2
+5
+23
+Edge Costello-Venkitasubramaniam
+4
+1
+33
+Edge Mitchell-Luo
+0
+10
+35
+Edge Mitchell-Costello
+0
+4
+58
+Edge Shen-Mitchell
+9
+0

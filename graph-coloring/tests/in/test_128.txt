@@ -1,0 +1,418 @@
+20
+89
+19
+Pullara
+Blue
+0
+Schubert
+Yellow
+17
+Howard
+Yellow
+14
+Venkitasubramaniam
+Red
+13
+Pizzutelli
+Yellow
+6
+Guenther
+Indigo
+8
+Brown
+Violet
+11
+Ding
+Orange
+16
+Allen
+Red
+10
+Stefankovic
+Yellow
+12
+Mitchell
+Green
+4
+Roche
+Red
+1
+Ipek
+Orange
+9
+Dwarkadas
+Green
+18
+Liu
+Green
+15
+Pawlicki
+Yellow
+7
+Seiferas
+Violet
+2
+Singkhamsack
+Green
+3
+Costello
+Indigo
+5
+Carpenter
+Orange
+328
+Edge Seiferas-Allen
+7
+16
+345
+Edge Singkhamsack-Guenther
+2
+6
+81
+Edge Pizzutelli-Schubert
+13
+0
+303
+Edge Pawlicki-Venkitasubramaniam
+15
+14
+205
+Edge Mitchell-Guenther
+12
+6
+142
+Edge Ding-Howard
+11
+17
+271
+Edge Dwarkadas-Roche
+9
+4
+266
+Edge Dwarkadas-Brown
+9
+8
+285
+Edge Liu-Guenther
+18
+6
+384
+Edge Carpenter-Pizzutelli
+5
+13
+260
+Edge Dwarkadas-Pullara
+9
+19
+144
+Edge Ding-Pizzutelli
+11
+13
+241
+Edge Ipek-Schubert
+1
+0
+347
+Edge Singkhamsack-Ding
+2
+11
+293
+Edge Liu-Dwarkadas
+18
+9
+393
+Edge Carpenter-Dwarkadas
+5
+9
+290
+Edge Liu-Mitchell
+18
+12
+364
+Edge Costello-Pizzutelli
+3
+13
+243
+Edge Ipek-Venkitasubramaniam
+1
+14
+261
+Edge Dwarkadas-Schubert
+9
+0
+396
+Edge Carpenter-Seiferas
+5
+7
+310
+Edge Pawlicki-Mitchell
+15
+12
+221
+Edge Roche-Schubert
+4
+0
+101
+Edge Guenther-Schubert
+6
+0
+250
+Edge Ipek-Mitchell
+1
+12
+100
+Edge Guenther-Pullara
+6
+19
+344
+Edge Singkhamsack-Pizzutelli
+2
+13
+366
+Edge Costello-Brown
+3
+8
+183
+Edge Stefankovic-Venkitasubramaniam
+10
+14
+121
+Edge Brown-Schubert
+8
+0
+351
+Edge Singkhamsack-Roche
+2
+4
+313
+Edge Pawlicki-Dwarkadas
+15
+9
+300
+Edge Pawlicki-Pullara
+15
+19
+280
+Edge Liu-Pullara
+18
+19
+208
+Edge Mitchell-Allen
+12
+16
+350
+Edge Singkhamsack-Mitchell
+2
+12
+265
+Edge Dwarkadas-Guenther
+9
+6
+209
+Edge Mitchell-Stefankovic
+12
+10
+188
+Edge Stefankovic-Allen
+10
+16
+283
+Edge Liu-Venkitasubramaniam
+18
+14
+324
+Edge Seiferas-Pizzutelli
+7
+13
+145
+Edge Ding-Guenther
+11
+6
+390
+Edge Carpenter-Mitchell
+5
+12
+369
+Edge Costello-Stefankovic
+3
+10
+375
+Edge Costello-Pawlicki
+3
+15
+355
+Edge Singkhamsack-Pawlicki
+2
+15
+301
+Edge Pawlicki-Schubert
+15
+0
+103
+Edge Guenther-Venkitasubramaniam
+6
+14
+184
+Edge Stefankovic-Pizzutelli
+10
+13
+41
+Edge Howard-Schubert
+17
+0
+304
+Edge Pawlicki-Pizzutelli
+15
+13
+323
+Edge Seiferas-Venkitasubramaniam
+7
+14
+182
+Edge Stefankovic-Howard
+10
+17
+230
+Edge Roche-Mitchell
+4
+12
+302
+Edge Pawlicki-Howard
+15
+17
+249
+Edge Ipek-Stefankovic
+1
+10
+346
+Edge Singkhamsack-Brown
+2
+8
+348
+Edge Singkhamsack-Allen
+2
+16
+340
+Edge Singkhamsack-Pullara
+2
+19
+270
+Edge Dwarkadas-Mitchell
+9
+12
+394
+Edge Carpenter-Liu
+5
+18
+306
+Edge Pawlicki-Brown
+15
+8
+288
+Edge Liu-Allen
+18
+16
+202
+Edge Mitchell-Howard
+12
+17
+164
+Edge Allen-Pizzutelli
+16
+13
+349
+Edge Singkhamsack-Stefankovic
+2
+10
+292
+Edge Liu-Ipek
+18
+1
+185
+Edge Stefankovic-Guenther
+10
+6
+342
+Edge Singkhamsack-Howard
+2
+17
+368
+Edge Costello-Allen
+3
+16
+82
+Edge Pizzutelli-Howard
+13
+17
+122
+Edge Brown-Howard
+8
+17
+220
+Edge Roche-Pullara
+4
+19
+62
+Edge Venkitasubramaniam-Howard
+14
+17
+397
+Edge Carpenter-Singkhamsack
+5
+2
+104
+Edge Guenther-Pizzutelli
+6
+13
+267
+Edge Dwarkadas-Ding
+9
+11
+224
+Edge Roche-Pizzutelli
+4
+13
+161
+Edge Allen-Schubert
+16
+0
+367
+Edge Costello-Ding
+3
+11
+372
+Edge Costello-Ipek
+3
+1
+80
+Edge Pizzutelli-Pullara
+13
+19
+160
+Edge Allen-Pullara
+16
+19
+361
+Edge Costello-Schubert
+3
+0
+391
+Edge Carpenter-Roche
+5
+4
+251
+Edge Ipek-Roche
+1
+4
+61
+Edge Venkitasubramaniam-Schubert
+14
+0
+354
+Edge Singkhamsack-Liu
+2
+18
+272
+Edge Dwarkadas-Ipek
+9
+1

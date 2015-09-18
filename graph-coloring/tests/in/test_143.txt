@@ -1,0 +1,614 @@
+20
+138
+0
+Singkhamsack
+Yellow
+7
+Howard
+Red
+18
+Stefankovic
+Violet
+3
+Scott
+Blue
+15
+Schubert
+Violet
+10
+Mitchell
+Violet
+12
+Hoque
+Red
+5
+Roche
+Blue
+16
+Ipek
+Blue
+13
+Costello
+Indigo
+2
+Hemaspaandra
+Green
+8
+Guo
+Indigo
+17
+Dwarkadas
+Red
+11
+Allen
+Indigo
+19
+Carpenter
+Indigo
+14
+Pawlicki
+Violet
+4
+Ding
+Red
+1
+Guenther
+Yellow
+6
+Gildea
+Red
+9
+Luo
+Blue
+82
+Edge Schubert-Stefankovic
+15
+18
+241
+Edge Dwarkadas-Howard
+17
+7
+285
+Edge Carpenter-Mitchell
+19
+10
+361
+Edge Gildea-Howard
+6
+7
+224
+Edge Guo-Schubert
+8
+15
+145
+Edge Roche-Mitchell
+5
+10
+397
+Edge Luo-Guenther
+9
+1
+121
+Edge Hoque-Howard
+12
+7
+292
+Edge Carpenter-Dwarkadas
+19
+17
+291
+Edge Carpenter-Guo
+19
+8
+61
+Edge Scott-Howard
+3
+7
+201
+Edge Hemaspaandra-Howard
+2
+7
+41
+Edge Stefankovic-Howard
+18
+7
+287
+Edge Carpenter-Roche
+19
+5
+341
+Edge Guenther-Howard
+1
+7
+356
+Edge Guenther-Ding
+1
+4
+340
+Edge Guenther-Singkhamsack
+1
+0
+206
+Edge Hemaspaandra-Hoque
+2
+12
+270
+Edge Allen-Hemaspaandra
+11
+2
+371
+Edge Gildea-Guo
+6
+8
+267
+Edge Allen-Roche
+11
+5
+20
+Edge Howard-Singkhamsack
+7
+0
+122
+Edge Hoque-Stefankovic
+12
+18
+141
+Edge Roche-Howard
+5
+7
+180
+Edge Costello-Singkhamsack
+13
+0
+329
+Edge Ding-Costello
+4
+13
+160
+Edge Ipek-Singkhamsack
+16
+0
+362
+Edge Gildea-Stefankovic
+6
+18
+207
+Edge Hemaspaandra-Roche
+2
+5
+161
+Edge Ipek-Howard
+16
+7
+166
+Edge Ipek-Hoque
+16
+12
+261
+Edge Allen-Howard
+11
+7
+380
+Edge Luo-Singkhamsack
+9
+0
+280
+Edge Carpenter-Singkhamsack
+19
+0
+398
+Edge Luo-Gildea
+9
+6
+140
+Edge Roche-Singkhamsack
+5
+0
+394
+Edge Luo-Carpenter
+9
+19
+60
+Edge Scott-Singkhamsack
+3
+0
+326
+Edge Ding-Hoque
+4
+12
+312
+Edge Pawlicki-Dwarkadas
+14
+17
+390
+Edge Luo-Hemaspaandra
+9
+2
+363
+Edge Gildea-Scott
+6
+3
+167
+Edge Ipek-Roche
+16
+5
+104
+Edge Mitchell-Schubert
+10
+15
+230
+Edge Guo-Hemaspaandra
+8
+2
+354
+Edge Guenther-Carpenter
+1
+19
+388
+Edge Luo-Ipek
+9
+16
+188
+Edge Costello-Ipek
+13
+16
+392
+Edge Luo-Dwarkadas
+9
+17
+203
+Edge Hemaspaandra-Scott
+2
+3
+314
+Edge Pawlicki-Carpenter
+14
+19
+250
+Edge Dwarkadas-Hemaspaandra
+17
+2
+395
+Edge Luo-Pawlicki
+9
+14
+62
+Edge Scott-Stefankovic
+3
+18
+222
+Edge Guo-Stefankovic
+8
+18
+227
+Edge Guo-Roche
+8
+5
+143
+Edge Roche-Scott
+5
+3
+369
+Edge Gildea-Costello
+6
+13
+142
+Edge Roche-Stefankovic
+5
+18
+355
+Edge Guenther-Pawlicki
+1
+14
+228
+Edge Guo-Ipek
+8
+16
+223
+Edge Guo-Scott
+8
+3
+146
+Edge Roche-Hoque
+5
+12
+184
+Edge Costello-Schubert
+13
+15
+181
+Edge Costello-Howard
+13
+7
+367
+Edge Gildea-Roche
+6
+5
+244
+Edge Dwarkadas-Schubert
+17
+15
+377
+Edge Gildea-Guenther
+6
+1
+345
+Edge Guenther-Mitchell
+1
+10
+103
+Edge Mitchell-Scott
+10
+3
+330
+Edge Ding-Hemaspaandra
+4
+2
+226
+Edge Guo-Hoque
+8
+12
+327
+Edge Ding-Roche
+4
+5
+220
+Edge Guo-Singkhamsack
+8
+0
+300
+Edge Pawlicki-Singkhamsack
+14
+0
+384
+Edge Luo-Schubert
+9
+15
+262
+Edge Allen-Stefankovic
+11
+18
+352
+Edge Guenther-Dwarkadas
+1
+17
+301
+Edge Pawlicki-Howard
+14
+7
+344
+Edge Guenther-Schubert
+1
+15
+81
+Edge Schubert-Howard
+15
+7
+165
+Edge Ipek-Mitchell
+16
+10
+310
+Edge Pawlicki-Hemaspaandra
+14
+2
+288
+Edge Carpenter-Ipek
+19
+16
+347
+Edge Guenther-Roche
+1
+5
+249
+Edge Dwarkadas-Costello
+17
+13
+187
+Edge Costello-Roche
+13
+5
+368
+Edge Gildea-Ipek
+6
+16
+396
+Edge Luo-Ding
+9
+4
+286
+Edge Carpenter-Hoque
+19
+12
+393
+Edge Luo-Allen
+9
+11
+334
+Edge Ding-Carpenter
+4
+19
+353
+Edge Guenther-Allen
+1
+11
+182
+Edge Costello-Stefankovic
+13
+18
+202
+Edge Hemaspaandra-Stefankovic
+2
+18
+245
+Edge Dwarkadas-Mitchell
+17
+10
+186
+Edge Costello-Hoque
+13
+12
+225
+Edge Guo-Mitchell
+8
+10
+348
+Edge Guenther-Ipek
+1
+16
+381
+Edge Luo-Howard
+9
+7
+120
+Edge Hoque-Singkhamsack
+12
+0
+208
+Edge Hemaspaandra-Ipek
+2
+16
+251
+Edge Dwarkadas-Guo
+17
+8
+325
+Edge Ding-Mitchell
+4
+10
+342
+Edge Guenther-Stefankovic
+1
+18
+200
+Edge Hemaspaandra-Singkhamsack
+2
+0
+324
+Edge Ding-Schubert
+4
+15
+350
+Edge Guenther-Hemaspaandra
+1
+2
+308
+Edge Pawlicki-Ipek
+14
+16
+243
+Edge Dwarkadas-Scott
+17
+3
+333
+Edge Ding-Allen
+4
+11
+311
+Edge Pawlicki-Guo
+14
+8
+290
+Edge Carpenter-Hemaspaandra
+19
+2
+360
+Edge Gildea-Singkhamsack
+6
+0
+365
+Edge Gildea-Mitchell
+6
+10
+83
+Edge Schubert-Scott
+15
+3
+271
+Edge Allen-Guo
+11
+8
+102
+Edge Mitchell-Stefankovic
+10
+18
+320
+Edge Ding-Singkhamsack
+4
+0
+265
+Edge Allen-Mitchell
+11
+10
+80
+Edge Schubert-Singkhamsack
+15
+0
+248
+Edge Dwarkadas-Ipek
+17
+16
+376
+Edge Gildea-Ding
+6
+4
+309
+Edge Pawlicki-Costello
+14
+13
+373
+Edge Gildea-Allen
+6
+11
+366
+Edge Gildea-Hoque
+6
+12
+247
+Edge Dwarkadas-Roche
+17
+5
+205
+Edge Hemaspaandra-Mitchell
+2
+10
+313
+Edge Pawlicki-Allen
+14
+11
+364
+Edge Gildea-Schubert
+6
+15
+387
+Edge Luo-Roche
+9
+5
+391
+Edge Luo-Guo
+9
+8
+343
+Edge Guenther-Scott
+1
+3
+124
+Edge Hoque-Schubert
+12
+15
+370
+Edge Gildea-Hemaspaandra
+6
+2
+269
+Edge Allen-Costello
+11
+13
+323
+Edge Ding-Scott
+4
+3
+162
+Edge Ipek-Stefankovic
+16
+18

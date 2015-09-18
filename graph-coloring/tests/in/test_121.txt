@@ -1,0 +1,506 @@
+16
+114
+13
+Venkitasubramaniam
+Violet
+4
+Guo
+Green
+3
+Singkhamsack
+Orange
+12
+Carpenter
+Violet
+10
+Gildea
+Blue
+9
+Howard
+Red
+0
+Hoque
+Violet
+15
+Criswell
+Yellow
+1
+Pullara
+Violet
+7
+Hemaspaandra
+Indigo
+6
+Costello
+Red
+14
+Pizzutelli
+Indigo
+8
+Shen
+Red
+2
+Ding
+Blue
+11
+Mitchell
+Blue
+5
+Guenther
+Yellow
+83
+Edge Howard-Carpenter
+9
+12
+197
+Edge Shen-Howard
+8
+9
+130
+Edge Pullara-Singkhamsack
+1
+3
+33
+Edge Singkhamsack-Guo
+3
+4
+183
+Edge Pizzutelli-Criswell
+14
+15
+115
+Edge Criswell-Carpenter
+15
+12
+218
+Edge Ding-Costello
+2
+6
+148
+Edge Hemaspaandra-Gildea
+7
+10
+128
+Edge Pullara-Venkitasubramaniam
+1
+13
+152
+Edge Hemaspaandra-Pullara
+7
+1
+230
+Edge Mitchell-Hoque
+11
+0
+116
+Edge Criswell-Gildea
+15
+10
+48
+Edge Carpenter-Venkitasubramaniam
+12
+13
+165
+Edge Costello-Howard
+6
+9
+203
+Edge Shen-Pizzutelli
+8
+14
+150
+Edge Hemaspaandra-Hoque
+7
+0
+132
+Edge Pullara-Gildea
+1
+10
+180
+Edge Pizzutelli-Gildea
+14
+10
+236
+Edge Mitchell-Shen
+11
+8
+144
+Edge Hemaspaandra-Venkitasubramaniam
+7
+13
+242
+Edge Guenther-Singkhamsack
+5
+3
+244
+Edge Guenther-Gildea
+5
+10
+99
+Edge Hoque-Carpenter
+0
+12
+162
+Edge Costello-Singkhamsack
+6
+3
+192
+Edge Shen-Venkitasubramaniam
+8
+13
+177
+Edge Pizzutelli-Guo
+14
+4
+193
+Edge Shen-Guo
+8
+4
+247
+Edge Guenther-Criswell
+5
+15
+249
+Edge Guenther-Hemaspaandra
+5
+7
+186
+Edge Pizzutelli-Costello
+14
+6
+201
+Edge Shen-Hemaspaandra
+8
+7
+112
+Edge Criswell-Venkitasubramaniam
+15
+13
+67
+Edge Gildea-Carpenter
+10
+12
+209
+Edge Ding-Guo
+2
+4
+80
+Edge Howard-Venkitasubramaniam
+9
+13
+213
+Edge Ding-Howard
+2
+9
+211
+Edge Ding-Carpenter
+2
+12
+252
+Edge Guenther-Shen
+5
+8
+212
+Edge Ding-Gildea
+2
+10
+233
+Edge Mitchell-Hemaspaandra
+11
+7
+254
+Edge Guenther-Mitchell
+5
+11
+118
+Edge Criswell-Hoque
+15
+0
+96
+Edge Hoque-Venkitasubramaniam
+0
+13
+248
+Edge Guenther-Pullara
+5
+1
+208
+Edge Ding-Venkitasubramaniam
+2
+13
+182
+Edge Pizzutelli-Hoque
+14
+0
+210
+Edge Ding-Singkhamsack
+2
+3
+98
+Edge Hoque-Singkhamsack
+0
+3
+160
+Edge Costello-Venkitasubramaniam
+6
+13
+217
+Edge Ding-Hemaspaandra
+2
+7
+214
+Edge Ding-Hoque
+2
+0
+135
+Edge Pullara-Criswell
+1
+15
+167
+Edge Costello-Criswell
+6
+15
+231
+Edge Mitchell-Criswell
+11
+15
+84
+Edge Howard-Gildea
+9
+10
+97
+Edge Hoque-Guo
+0
+4
+181
+Edge Pizzutelli-Howard
+14
+9
+250
+Edge Guenther-Costello
+5
+6
+169
+Edge Costello-Hemaspaandra
+6
+7
+245
+Edge Guenther-Howard
+5
+9
+81
+Edge Howard-Guo
+9
+4
+161
+Edge Costello-Guo
+6
+4
+195
+Edge Shen-Carpenter
+8
+12
+228
+Edge Mitchell-Gildea
+11
+10
+184
+Edge Pizzutelli-Pullara
+14
+1
+194
+Edge Shen-Singkhamsack
+8
+3
+199
+Edge Shen-Criswell
+8
+15
+219
+Edge Ding-Pizzutelli
+2
+14
+32
+Edge Singkhamsack-Venkitasubramaniam
+3
+13
+200
+Edge Shen-Pullara
+8
+1
+49
+Edge Carpenter-Guo
+12
+4
+227
+Edge Mitchell-Carpenter
+11
+12
+220
+Edge Ding-Shen
+2
+8
+129
+Edge Pullara-Guo
+1
+4
+224
+Edge Mitchell-Venkitasubramaniam
+11
+13
+151
+Edge Hemaspaandra-Criswell
+7
+15
+82
+Edge Howard-Singkhamsack
+9
+3
+164
+Edge Costello-Gildea
+6
+10
+100
+Edge Hoque-Gildea
+0
+10
+176
+Edge Pizzutelli-Venkitasubramaniam
+14
+13
+101
+Edge Hoque-Howard
+0
+9
+246
+Edge Guenther-Hoque
+5
+0
+131
+Edge Pullara-Carpenter
+1
+12
+216
+Edge Ding-Pullara
+2
+1
+226
+Edge Mitchell-Singkhamsack
+11
+3
+234
+Edge Mitchell-Costello
+11
+6
+146
+Edge Hemaspaandra-Singkhamsack
+7
+3
+149
+Edge Hemaspaandra-Howard
+7
+9
+225
+Edge Mitchell-Guo
+11
+4
+253
+Edge Guenther-Ding
+5
+2
+229
+Edge Mitchell-Howard
+11
+9
+66
+Edge Gildea-Singkhamsack
+10
+3
+251
+Edge Guenther-Pizzutelli
+5
+14
+202
+Edge Shen-Costello
+8
+6
+241
+Edge Guenther-Guo
+5
+4
+178
+Edge Pizzutelli-Singkhamsack
+14
+3
+114
+Edge Criswell-Singkhamsack
+15
+3
+147
+Edge Hemaspaandra-Carpenter
+7
+12
+50
+Edge Carpenter-Singkhamsack
+12
+3
+243
+Edge Guenther-Carpenter
+5
+12
+198
+Edge Shen-Hoque
+8
+0
+117
+Edge Criswell-Howard
+15
+9
+64
+Edge Gildea-Venkitasubramaniam
+10
+13
+16
+Edge Guo-Venkitasubramaniam
+4
+13
+240
+Edge Guenther-Venkitasubramaniam
+5
+13
+134
+Edge Pullara-Hoque
+1
+0
+232
+Edge Mitchell-Pullara
+11
+1
+196
+Edge Shen-Gildea
+8
+10
+237
+Edge Mitchell-Ding
+11
+2
+133
+Edge Pullara-Howard
+1
+9
+185
+Edge Pizzutelli-Hemaspaandra
+14
+7
+179
+Edge Pizzutelli-Carpenter
+14
+12
+215
+Edge Ding-Criswell
+2
+15
+235
+Edge Mitchell-Pizzutelli
+11
+14

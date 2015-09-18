@@ -1,0 +1,32 @@
+NO
+6
+138
+Edge Schubert-Roche
+Schubert
+Roche
+Red
+159
+Edge Howard-Schubert
+Howard
+Schubert
+Red
+197
+Edge Dwarkadas-Schubert
+Dwarkadas
+Schubert
+Red
+216
+Edge Shen-Schubert
+Shen
+Schubert
+Red
+249
+Edge Ding-Singkhamsack
+Ding
+Singkhamsack
+Green
+323
+Edge Pullara-Ipek
+Pullara
+Ipek
+Green

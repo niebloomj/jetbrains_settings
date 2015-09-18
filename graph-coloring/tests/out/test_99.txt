@@ -1,0 +1,47 @@
+NO
+9
+47
+Edge Hemaspaandra-Nelson
+Hemaspaandra
+Nelson
+Green
+75
+Edge Guo-Ding
+Guo
+Ding
+Indigo
+94
+Edge Brown-Stefankovic
+Brown
+Stefankovic
+Orange
+139
+Edge Mitchell-Stefankovic
+Mitchell
+Stefankovic
+Orange
+141
+Edge Mitchell-Brown
+Mitchell
+Brown
+Orange
+184
+Edge Criswell-Stefankovic
+Criswell
+Stefankovic
+Orange
+186
+Edge Criswell-Brown
+Criswell
+Brown
+Orange
+189
+Edge Criswell-Mitchell
+Criswell
+Mitchell
+Orange
+203
+Edge Gildea-Howard
+Gildea
+Howard
+Blue

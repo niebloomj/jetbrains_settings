@@ -1,0 +1,77 @@
+9
+12
+2
+Criswell
+Green
+1
+Kautz
+Yellow
+7
+Pullara
+Yellow
+8
+Ding
+Green
+3
+Allen
+Orange
+0
+Nelson
+Indigo
+5
+Howard
+Violet
+4
+Venkitasubramaniam
+Blue
+6
+Costello
+Indigo
+29
+Edge Ding-Pullara
+8
+7
+57
+Edge Howard-Ding
+5
+8
+77
+Edge Costello-Nelson
+6
+0
+47
+Edge Nelson-Pullara
+0
+7
+79
+Edge Costello-Venkitasubramaniam
+6
+4
+58
+Edge Howard-Allen
+5
+3
+66
+Edge Venkitasubramaniam-Ding
+4
+8
+18
+Edge Pullara-Criswell
+7
+2
+55
+Edge Howard-Kautz
+5
+1
+74
+Edge Costello-Pullara
+6
+7
+54
+Edge Howard-Criswell
+5
+2
+45
+Edge Nelson-Criswell
+0
+2

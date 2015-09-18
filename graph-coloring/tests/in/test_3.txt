@@ -1,0 +1,632 @@
+18
+144
+9
+Seiferas
+Indigo
+14
+Guo
+Yellow
+11
+Nelson
+Violet
+8
+Ding
+Blue
+3
+Hoque
+Blue
+1
+Schubert
+Indigo
+16
+Dwarkadas
+Orange
+5
+Luo
+Violet
+15
+Scott
+Blue
+0
+Pawlicki
+Yellow
+6
+Costello
+Orange
+17
+Brown
+Orange
+12
+Pizzutelli
+Violet
+7
+Liu
+Violet
+10
+Guenther
+Yellow
+4
+Allen
+Indigo
+2
+Criswell
+Orange
+13
+Roche
+Blue
+54
+Edge Ding-Seiferas
+8
+9
+241
+Edge Liu-Luo
+7
+5
+321
+Edge Roche-Allen
+13
+4
+109
+Edge Dwarkadas-Guo
+16
+14
+291
+Edge Criswell-Ding
+2
+8
+279
+Edge Allen-Pawlicki
+4
+0
+226
+Edge Pizzutelli-Costello
+12
+6
+183
+Edge Costello-Ding
+6
+8
+201
+Edge Brown-Ding
+17
+8
+242
+Edge Liu-Scott
+7
+15
+204
+Edge Brown-Dwarkadas
+17
+16
+185
+Edge Costello-Schubert
+6
+1
+219
+Edge Pizzutelli-Ding
+12
+8
+264
+Edge Guenther-Pizzutelli
+10
+12
+202
+Edge Brown-Hoque
+17
+3
+246
+Edge Liu-Pizzutelli
+7
+12
+227
+Edge Pizzutelli-Brown
+12
+17
+200
+Edge Brown-Nelson
+17
+11
+281
+Edge Allen-Brown
+4
+17
+278
+Edge Allen-Scott
+4
+15
+236
+Edge Liu-Nelson
+7
+11
+113
+Edge Dwarkadas-Schubert
+16
+1
+110
+Edge Dwarkadas-Nelson
+16
+11
+280
+Edge Allen-Costello
+4
+6
+303
+Edge Criswell-Allen
+2
+4
+36
+Edge Nelson-Seiferas
+11
+9
+301
+Edge Criswell-Liu
+2
+7
+314
+Edge Roche-Scott
+13
+15
+270
+Edge Allen-Seiferas
+4
+9
+300
+Edge Criswell-Pizzutelli
+2
+12
+131
+Edge Luo-Schubert
+5
+1
+207
+Edge Brown-Pawlicki
+17
+0
+112
+Edge Dwarkadas-Hoque
+16
+3
+75
+Edge Hoque-Ding
+3
+8
+290
+Edge Criswell-Nelson
+2
+11
+295
+Edge Criswell-Luo
+2
+5
+322
+Edge Roche-Criswell
+13
+2
+91
+Edge Schubert-Guo
+1
+14
+187
+Edge Costello-Luo
+6
+5
+181
+Edge Costello-Guo
+6
+14
+55
+Edge Ding-Guo
+8
+14
+258
+Edge Guenther-Dwarkadas
+10
+16
+307
+Edge Roche-Guo
+13
+14
+205
+Edge Brown-Luo
+17
+5
+273
+Edge Allen-Ding
+4
+8
+243
+Edge Liu-Pawlicki
+7
+0
+225
+Edge Pizzutelli-Pawlicki
+12
+0
+206
+Edge Brown-Scott
+17
+15
+317
+Edge Roche-Brown
+13
+17
+276
+Edge Allen-Dwarkadas
+4
+16
+198
+Edge Brown-Seiferas
+17
+9
+146
+Edge Scott-Nelson
+15
+11
+254
+Edge Guenther-Nelson
+10
+11
+218
+Edge Pizzutelli-Nelson
+12
+11
+224
+Edge Pizzutelli-Scott
+12
+15
+126
+Edge Luo-Seiferas
+5
+9
+257
+Edge Guenther-Schubert
+10
+1
+253
+Edge Guenther-Guo
+10
+14
+271
+Edge Allen-Guo
+4
+14
+277
+Edge Allen-Luo
+4
+5
+151
+Edge Scott-Luo
+15
+5
+239
+Edge Liu-Schubert
+7
+1
+162
+Edge Pawlicki-Seiferas
+0
+9
+292
+Edge Criswell-Hoque
+2
+3
+72
+Edge Hoque-Seiferas
+3
+9
+108
+Edge Dwarkadas-Seiferas
+16
+9
+199
+Edge Brown-Guo
+17
+14
+223
+Edge Pizzutelli-Luo
+12
+5
+37
+Edge Nelson-Guo
+11
+14
+164
+Edge Pawlicki-Nelson
+0
+11
+289
+Edge Criswell-Guo
+2
+14
+316
+Edge Roche-Costello
+13
+6
+238
+Edge Liu-Hoque
+7
+3
+275
+Edge Allen-Schubert
+4
+1
+169
+Edge Pawlicki-Luo
+0
+5
+293
+Edge Criswell-Schubert
+2
+1
+148
+Edge Scott-Hoque
+15
+3
+129
+Edge Luo-Ding
+5
+8
+302
+Edge Criswell-Guenther
+2
+10
+308
+Edge Roche-Nelson
+13
+11
+306
+Edge Roche-Seiferas
+13
+9
+298
+Edge Criswell-Costello
+2
+6
+56
+Edge Ding-Nelson
+8
+11
+244
+Edge Liu-Costello
+7
+6
+274
+Edge Allen-Hoque
+4
+3
+144
+Edge Scott-Seiferas
+15
+9
+284
+Edge Allen-Guenther
+4
+10
+294
+Edge Criswell-Dwarkadas
+2
+16
+130
+Edge Luo-Hoque
+5
+3
+167
+Edge Pawlicki-Schubert
+0
+1
+235
+Edge Liu-Guo
+7
+14
+296
+Edge Criswell-Scott
+2
+15
+73
+Edge Hoque-Guo
+3
+14
+163
+Edge Pawlicki-Guo
+0
+14
+182
+Edge Costello-Nelson
+6
+11
+165
+Edge Pawlicki-Ding
+0
+8
+180
+Edge Costello-Seiferas
+6
+9
+90
+Edge Schubert-Seiferas
+1
+9
+282
+Edge Allen-Pizzutelli
+4
+12
+203
+Edge Brown-Schubert
+17
+1
+168
+Edge Pawlicki-Dwarkadas
+0
+16
+319
+Edge Roche-Liu
+13
+7
+297
+Edge Criswell-Pawlicki
+2
+0
+263
+Edge Guenther-Brown
+10
+17
+186
+Edge Costello-Dwarkadas
+6
+16
+311
+Edge Roche-Schubert
+13
+1
+184
+Edge Costello-Hoque
+6
+3
+208
+Edge Brown-Costello
+17
+6
+315
+Edge Roche-Pawlicki
+13
+0
+170
+Edge Pawlicki-Scott
+0
+15
+312
+Edge Roche-Dwarkadas
+13
+16
+93
+Edge Schubert-Ding
+1
+8
+260
+Edge Guenther-Scott
+10
+15
+310
+Edge Roche-Hoque
+13
+3
+259
+Edge Guenther-Luo
+10
+5
+166
+Edge Pawlicki-Hoque
+0
+3
+220
+Edge Pizzutelli-Hoque
+12
+3
+261
+Edge Guenther-Pawlicki
+10
+0
+111
+Edge Dwarkadas-Ding
+16
+8
+150
+Edge Scott-Dwarkadas
+15
+16
+94
+Edge Schubert-Hoque
+1
+3
+320
+Edge Roche-Guenther
+13
+10
+237
+Edge Liu-Ding
+7
+8
+272
+Edge Allen-Nelson
+4
+11
+255
+Edge Guenther-Ding
+10
+8
+147
+Edge Scott-Ding
+15
+8
+216
+Edge Pizzutelli-Seiferas
+12
+9
+127
+Edge Luo-Guo
+5
+14
+283
+Edge Allen-Liu
+4
+7
+256
+Edge Guenther-Hoque
+10
+3
+74
+Edge Hoque-Nelson
+3
+11
+188
+Edge Costello-Scott
+6
+15
+145
+Edge Scott-Guo
+15
+14
+132
+Edge Luo-Dwarkadas
+5
+16
+299
+Edge Criswell-Brown
+2
+17
+262
+Edge Guenther-Costello
+10
+6
+18
+Edge Guo-Seiferas
+14
+9
+234
+Edge Liu-Seiferas
+7
+9
+245
+Edge Liu-Brown
+7
+17
+128
+Edge Luo-Nelson
+5
+11
+222
+Edge Pizzutelli-Dwarkadas
+12
+16
+149
+Edge Scott-Schubert
+15
+1
+318
+Edge Roche-Pizzutelli
+13
+12
+189
+Edge Costello-Pawlicki
+6
+0

@@ -1,0 +1,92 @@
+NO
+18
+28
+Edge Hoque-Stefankovic
+Hoque
+Stefankovic
+Indigo
+43
+Edge Allen-Kautz
+Allen
+Kautz
+Red
+57
+Edge Guo-Kautz
+Guo
+Kautz
+Red
+59
+Edge Guo-Allen
+Guo
+Allen
+Red
+98
+Edge Shen-Stefankovic
+Shen
+Stefankovic
+Indigo
+100
+Edge Shen-Hoque
+Shen
+Hoque
+Indigo
+112
+Edge Liu-Stefankovic
+Liu
+Stefankovic
+Indigo
+114
+Edge Liu-Hoque
+Liu
+Hoque
+Indigo
+119
+Edge Liu-Shen
+Liu
+Shen
+Indigo
+131
+Edge Luo-Pawlicki
+Luo
+Pawlicki
+Violet
+145
+Edge Carpenter-Pawlicki
+Carpenter
+Pawlicki
+Violet
+149
+Edge Carpenter-Luo
+Carpenter
+Luo
+Violet
+159
+Edge Scott-Pawlicki
+Scott
+Pawlicki
+Violet
+163
+Edge Scott-Luo
+Scott
+Luo
+Violet
+164
+Edge Scott-Carpenter
+Scott
+Carpenter
+Violet
+169
+Edge Seiferas-Kautz
+Seiferas
+Kautz
+Red
+171
+Edge Seiferas-Allen
+Seiferas
+Allen
+Red
+172
+Edge Seiferas-Guo
+Seiferas
+Guo
+Red

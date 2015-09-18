@@ -1,0 +1,82 @@
+NO
+16
+54
+Edge Howard-Ding
+Howard
+Ding
+Yellow
+74
+Edge Stefankovic-Pullara
+Stefankovic
+Pullara
+Indigo
+129
+Edge Roche-Howard
+Roche
+Howard
+Yellow
+208
+Edge Kautz-Guenther
+Kautz
+Guenther
+Red
+225
+Edge Allen-Schubert
+Allen
+Schubert
+Blue
+239
+Edge Singkhamsack-Brown
+Singkhamsack
+Brown
+Orange
+262
+Edge Scott-Guenther
+Scott
+Guenther
+Red
+263
+Edge Scott-Kautz
+Scott
+Kautz
+Red
+280
+Edge Pawlicki-Guenther
+Pawlicki
+Guenther
+Red
+281
+Edge Pawlicki-Kautz
+Pawlicki
+Kautz
+Red
+284
+Edge Pawlicki-Scott
+Pawlicki
+Scott
+Red
+293
+Edge Hemaspaandra-Brown
+Hemaspaandra
+Brown
+Orange
+301
+Edge Hemaspaandra-Singkhamsack
+Hemaspaandra
+Singkhamsack
+Orange
+311
+Edge Liu-Brown
+Liu
+Brown
+Orange
+319
+Edge Liu-Singkhamsack
+Liu
+Singkhamsack
+Orange
+322
+Edge Liu-Hemaspaandra
+Liu
+Hemaspaandra
+Orange

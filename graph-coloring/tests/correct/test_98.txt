@@ -1,0 +1,47 @@
+NO
+9
+29
+Edge Singkhamsack-Pawlicki
+Singkhamsack
+Pawlicki
+Orange
+85
+Edge Hoque-Pawlicki
+Hoque
+Pawlicki
+Orange
+86
+Edge Hoque-Singkhamsack
+Hoque
+Singkhamsack
+Orange
+127
+Edge Gildea-Pawlicki
+Gildea
+Pawlicki
+Orange
+128
+Edge Gildea-Singkhamsack
+Gildea
+Singkhamsack
+Orange
+132
+Edge Gildea-Hoque
+Gildea
+Hoque
+Orange
+145
+Edge Brown-Scott
+Brown
+Scott
+Yellow
+172
+Edge Pullara-Pizzutelli
+Pullara
+Pizzutelli
+Violet
+193
+Edge Ding-Schubert
+Ding
+Schubert
+Indigo

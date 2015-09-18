@@ -1,0 +1,196 @@
+14
+38
+2
+Stefankovic
+Red
+5
+Allen
+Red
+8
+Liu
+Red
+6
+Pizzutelli
+Orange
+4
+Schubert
+Blue
+7
+Roche
+Violet
+13
+Gildea
+Green
+1
+Ding
+Red
+12
+Hemaspaandra
+Red
+3
+Luo
+Orange
+10
+Howard
+Green
+0
+Costello
+Blue
+11
+Venkitasubramaniam
+Orange
+9
+Dwarkadas
+Green
+186
+Edge Dwarkadas-Schubert
+9
+4
+191
+Edge Dwarkadas-Luo
+9
+3
+187
+Edge Dwarkadas-Roche
+9
+7
+127
+Edge Luo-Allen
+3
+5
+88
+Edge Gildea-Schubert
+13
+4
+178
+Edge Venkitasubramaniam-Howard
+11
+10
+115
+Edge Hemaspaandra-Pizzutelli
+12
+6
+149
+Edge Howard-Luo
+10
+3
+14
+Edge Allen-Stefankovic
+5
+2
+29
+Edge Liu-Allen
+8
+5
+57
+Edge Schubert-Allen
+4
+5
+133
+Edge Luo-Ding
+3
+1
+155
+Edge Costello-Allen
+0
+5
+56
+Edge Schubert-Stefankovic
+4
+2
+171
+Edge Venkitasubramaniam-Pizzutelli
+11
+6
+146
+Edge Howard-Gildea
+10
+13
+170
+Edge Venkitasubramaniam-Liu
+11
+8
+144
+Edge Howard-Schubert
+10
+4
+102
+Edge Ding-Schubert
+1
+4
+164
+Edge Costello-Howard
+0
+10
+128
+Edge Luo-Liu
+3
+8
+99
+Edge Ding-Allen
+1
+5
+177
+Edge Venkitasubramaniam-Luo
+11
+3
+169
+Edge Venkitasubramaniam-Allen
+11
+5
+87
+Edge Gildea-Pizzutelli
+13
+6
+189
+Edge Dwarkadas-Ding
+9
+1
+172
+Edge Venkitasubramaniam-Schubert
+11
+4
+176
+Edge Venkitasubramaniam-Hemaspaandra
+11
+12
+89
+Edge Gildea-Roche
+13
+7
+193
+Edge Dwarkadas-Costello
+9
+0
+156
+Edge Costello-Liu
+0
+8
+71
+Edge Roche-Allen
+7
+5
+184
+Edge Dwarkadas-Liu
+9
+8
+179
+Edge Venkitasubramaniam-Costello
+11
+0
+157
+Edge Costello-Pizzutelli
+0
+6
+188
+Edge Dwarkadas-Gildea
+9
+13
+104
+Edge Ding-Gildea
+1
+13
+114
+Edge Hemaspaandra-Liu
+12
+8

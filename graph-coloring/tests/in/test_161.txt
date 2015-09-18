@@ -1,0 +1,206 @@
+12
+42
+4
+Scott
+Violet
+0
+Pawlicki
+Blue
+2
+Guo
+Blue
+9
+Stefankovic
+Yellow
+3
+Liu
+Orange
+5
+Kautz
+Orange
+8
+Pizzutelli
+Red
+10
+Brown
+Green
+6
+Luo
+Violet
+7
+Mitchell
+Yellow
+11
+Howard
+Violet
+1
+Costello
+Green
+122
+Edge Howard-Guo
+11
+2
+124
+Edge Howard-Liu
+11
+3
+132
+Edge Costello-Scott
+1
+4
+100
+Edge Luo-Liu
+6
+3
+89
+Edge Brown-Kautz
+10
+5
+110
+Edge Mitchell-Guo
+7
+2
+134
+Edge Costello-Guo
+1
+2
+25
+Edge Guo-Pawlicki
+2
+0
+76
+Edge Pizzutelli-Liu
+8
+3
+36
+Edge Stefankovic-Scott
+9
+4
+87
+Edge Brown-Stefankovic
+10
+9
+64
+Edge Kautz-Liu
+5
+3
+138
+Edge Costello-Pizzutelli
+1
+8
+88
+Edge Brown-Liu
+10
+3
+62
+Edge Kautz-Guo
+5
+2
+51
+Edge Liu-Stefankovic
+3
+9
+74
+Edge Pizzutelli-Guo
+8
+2
+120
+Edge Howard-Scott
+11
+4
+139
+Edge Costello-Brown
+1
+10
+125
+Edge Howard-Kautz
+11
+5
+86
+Edge Brown-Guo
+10
+2
+84
+Edge Brown-Scott
+10
+4
+24
+Edge Guo-Scott
+2
+4
+116
+Edge Mitchell-Luo
+7
+6
+101
+Edge Luo-Kautz
+6
+5
+75
+Edge Pizzutelli-Stefankovic
+8
+9
+123
+Edge Howard-Stefankovic
+11
+9
+133
+Edge Costello-Pawlicki
+1
+0
+113
+Edge Mitchell-Kautz
+7
+5
+102
+Edge Luo-Pizzutelli
+6
+8
+140
+Edge Costello-Luo
+1
+6
+50
+Edge Liu-Guo
+3
+2
+137
+Edge Costello-Kautz
+1
+5
+142
+Edge Costello-Howard
+1
+11
+135
+Edge Costello-Stefankovic
+1
+9
+90
+Edge Brown-Pizzutelli
+10
+8
+38
+Edge Stefankovic-Guo
+9
+2
+136
+Edge Costello-Liu
+1
+3
+63
+Edge Kautz-Stefankovic
+5
+9
+103
+Edge Luo-Brown
+6
+10
+126
+Edge Howard-Pizzutelli
+11
+8
+114
+Edge Mitchell-Pizzutelli
+7
+8

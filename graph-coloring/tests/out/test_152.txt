@@ -1,0 +1,97 @@
+NO
+19
+59
+Edge Carpenter-Singkhamsack
+Carpenter
+Singkhamsack
+Orange
+96
+Edge Seiferas-Stefankovic
+Seiferas
+Stefankovic
+Violet
+114
+Edge Brown-Scott
+Brown
+Scott
+Red
+154
+Edge Hemaspaandra-Singkhamsack
+Hemaspaandra
+Singkhamsack
+Orange
+155
+Edge Hemaspaandra-Carpenter
+Hemaspaandra
+Carpenter
+Orange
+177
+Edge Luo-Brown
+Luo
+Brown
+Red
+190
+Edge Guenther-Scott
+Guenther
+Scott
+Red
+199
+Edge Guenther-Luo
+Guenther
+Luo
+Red
+214
+Edge Schubert-Seiferas
+Schubert
+Seiferas
+Violet
+254
+Edge Shen-Costello
+Shen
+Costello
+Blue
+267
+Edge Nelson-Stefankovic
+Nelson
+Stefankovic
+Violet
+271
+Edge Nelson-Seiferas
+Nelson
+Seiferas
+Violet
+285
+Edge Liu-Scott
+Liu
+Scott
+Red
+291
+Edge Liu-Brown
+Liu
+Brown
+Red
+294
+Edge Liu-Luo
+Liu
+Luo
+Red
+295
+Edge Liu-Guenther
+Liu
+Guenther
+Red
+335
+Edge Mitchell-Pullara
+Mitchell
+Pullara
+Green
+354
+Edge Venkitasubramaniam-Pullara
+Venkitasubramaniam
+Pullara
+Green
+359
+Edge Venkitasubramaniam-Mitchell
+Venkitasubramaniam
+Mitchell
+Green

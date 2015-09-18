@@ -1,0 +1,183 @@
+15
+34
+3
+Scott
+Indigo
+6
+Shen
+Yellow
+13
+Dwarkadas
+Yellow
+12
+Singkhamsack
+Blue
+0
+Guo
+Orange
+1
+Nelson
+Violet
+5
+Roche
+Orange
+9
+Pullara
+Violet
+8
+Howard
+Violet
+14
+Kautz
+Violet
+4
+Pizzutelli
+Blue
+2
+Ding
+Blue
+11
+Brown
+Yellow
+10
+Schubert
+Orange
+7
+Seiferas
+Green
+106
+Edge Pullara-Shen
+9
+6
+47
+Edge Singkhamsack-Dwarkadas
+12
+13
+141
+Edge Kautz-Roche
+14
+5
+143
+Edge Kautz-Howard
+14
+8
+223
+Edge Seiferas-Schubert
+7
+10
+181
+Edge Brown-Shen
+11
+6
+191
+Edge Brown-Ding
+11
+2
+139
+Edge Kautz-Guo
+14
+0
+185
+Edge Brown-Nelson
+11
+1
+172
+Edge Ding-Pullara
+2
+9
+180
+Edge Brown-Scott
+11
+3
+175
+Edge Ding-Pizzutelli
+2
+4
+199
+Edge Schubert-Guo
+10
+0
+166
+Edge Ding-Shen
+2
+6
+221
+Edge Seiferas-Ding
+7
+2
+218
+Edge Seiferas-Howard
+7
+8
+153
+Edge Pizzutelli-Singkhamsack
+4
+12
+77
+Edge Nelson-Dwarkadas
+1
+13
+107
+Edge Pullara-Dwarkadas
+9
+13
+46
+Edge Singkhamsack-Shen
+12
+6
+210
+Edge Seiferas-Scott
+7
+3
+63
+Edge Guo-Singkhamsack
+0
+12
+159
+Edge Pizzutelli-Kautz
+4
+14
+157
+Edge Pizzutelli-Pullara
+4
+9
+92
+Edge Roche-Dwarkadas
+5
+13
+158
+Edge Pizzutelli-Howard
+4
+8
+198
+Edge Schubert-Singkhamsack
+10
+12
+222
+Edge Seiferas-Brown
+7
+11
+203
+Edge Schubert-Howard
+10
+8
+142
+Edge Kautz-Pullara
+14
+9
+136
+Edge Kautz-Shen
+14
+6
+195
+Edge Schubert-Scott
+10
+3
+30
+Edge Dwarkadas-Scott
+13
+3
+125
+Edge Howard-Nelson
+8
+1

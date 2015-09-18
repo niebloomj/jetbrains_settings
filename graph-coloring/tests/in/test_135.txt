@@ -1,0 +1,261 @@
+13
+55
+0
+Kautz
+Yellow
+10
+Guenther
+Yellow
+4
+Ding
+Red
+8
+Gildea
+Blue
+1
+Singkhamsack
+Yellow
+3
+Guo
+Red
+7
+Allen
+Blue
+9
+Luo
+Violet
+11
+Ipek
+Yellow
+5
+Schubert
+Yellow
+12
+Seiferas
+Indigo
+2
+Nelson
+Yellow
+6
+Mitchell
+Yellow
+69
+Edge Guo-Singkhamsack
+3
+1
+80
+Edge Allen-Ding
+7
+4
+151
+Edge Nelson-Ipek
+2
+11
+83
+Edge Allen-Guo
+7
+3
+147
+Edge Nelson-Singkhamsack
+2
+1
+163
+Edge Mitchell-Luo
+6
+9
+82
+Edge Allen-Singkhamsack
+7
+1
+106
+Edge Ipek-Ding
+11
+4
+104
+Edge Ipek-Kautz
+11
+0
+107
+Edge Ipek-Gildea
+11
+8
+137
+Edge Seiferas-Luo
+12
+9
+138
+Edge Seiferas-Ipek
+12
+11
+27
+Edge Ding-Guenther
+4
+10
+134
+Edge Seiferas-Singkhamsack
+12
+1
+118
+Edge Schubert-Guenther
+5
+10
+81
+Edge Allen-Gildea
+7
+8
+156
+Edge Mitchell-Kautz
+6
+0
+132
+Edge Seiferas-Ding
+12
+4
+68
+Edge Guo-Gildea
+3
+8
+120
+Edge Schubert-Gildea
+5
+8
+91
+Edge Luo-Kautz
+9
+0
+145
+Edge Nelson-Ding
+2
+4
+53
+Edge Singkhamsack-Guenther
+1
+10
+40
+Edge Gildea-Guenther
+8
+10
+121
+Edge Schubert-Singkhamsack
+5
+1
+144
+Edge Nelson-Guenther
+2
+10
+159
+Edge Mitchell-Gildea
+6
+8
+123
+Edge Schubert-Allen
+5
+7
+124
+Edge Schubert-Luo
+5
+9
+55
+Edge Singkhamsack-Gildea
+1
+8
+39
+Edge Gildea-Kautz
+8
+0
+108
+Edge Ipek-Singkhamsack
+11
+1
+26
+Edge Ding-Kautz
+4
+0
+54
+Edge Singkhamsack-Ding
+1
+4
+164
+Edge Mitchell-Ipek
+6
+11
+105
+Edge Ipek-Guenther
+11
+10
+165
+Edge Mitchell-Schubert
+6
+5
+94
+Edge Luo-Gildea
+9
+8
+136
+Edge Seiferas-Allen
+12
+7
+96
+Edge Luo-Guo
+9
+3
+125
+Edge Schubert-Ipek
+5
+11
+150
+Edge Nelson-Luo
+2
+9
+93
+Edge Luo-Ding
+9
+4
+65
+Edge Guo-Kautz
+3
+0
+161
+Edge Mitchell-Guo
+6
+3
+92
+Edge Luo-Guenther
+9
+10
+41
+Edge Gildea-Ding
+8
+4
+109
+Edge Ipek-Guo
+11
+3
+78
+Edge Allen-Kautz
+7
+0
+95
+Edge Luo-Singkhamsack
+9
+1
+97
+Edge Luo-Allen
+9
+7
+52
+Edge Singkhamsack-Kautz
+1
+0
+67
+Edge Guo-Ding
+3
+4
+152
+Edge Nelson-Schubert
+2
+5
+122
+Edge Schubert-Guo
+5
+3

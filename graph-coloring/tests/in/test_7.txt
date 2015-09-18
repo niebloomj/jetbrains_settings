@@ -1,0 +1,193 @@
+13
+38
+3
+Schubert
+Blue
+1
+Nelson
+Blue
+11
+Roche
+Orange
+12
+Shen
+Yellow
+4
+Singkhamsack
+Violet
+7
+Stefankovic
+Yellow
+10
+Costello
+Orange
+8
+Howard
+Yellow
+9
+Kautz
+Violet
+6
+Mitchell
+Yellow
+2
+Gildea
+Red
+0
+Guenther
+Green
+5
+Luo
+Blue
+41
+Edge Shen-Roche
+12
+11
+164
+Edge Luo-Kautz
+5
+9
+118
+Edge Mitchell-Nelson
+6
+1
+82
+Edge Costello-Singkhamsack
+10
+4
+106
+Edge Kautz-Roche
+9
+11
+137
+Edge Gildea-Howard
+2
+8
+83
+Edge Costello-Stefankovic
+10
+7
+124
+Edge Mitchell-Howard
+6
+8
+27
+Edge Roche-Nelson
+11
+1
+96
+Edge Howard-Stefankovic
+8
+7
+53
+Edge Singkhamsack-Nelson
+4
+1
+68
+Edge Stefankovic-Shen
+7
+12
+69
+Edge Stefankovic-Singkhamsack
+7
+4
+97
+Edge Howard-Costello
+8
+10
+105
+Edge Kautz-Nelson
+9
+1
+104
+Edge Kautz-Schubert
+9
+3
+131
+Edge Gildea-Nelson
+2
+1
+134
+Edge Gildea-Singkhamsack
+2
+4
+94
+Edge Howard-Shen
+8
+12
+160
+Edge Luo-Singkhamsack
+5
+4
+121
+Edge Mitchell-Singkhamsack
+6
+4
+109
+Edge Kautz-Stefankovic
+9
+7
+143
+Edge Guenther-Schubert
+0
+3
+79
+Edge Costello-Nelson
+10
+1
+153
+Edge Guenther-Gildea
+0
+2
+125
+Edge Mitchell-Kautz
+6
+9
+40
+Edge Shen-Nelson
+12
+1
+123
+Edge Mitchell-Costello
+6
+10
+39
+Edge Shen-Schubert
+12
+3
+149
+Edge Guenther-Costello
+0
+10
+157
+Edge Luo-Nelson
+5
+1
+146
+Edge Guenther-Shen
+0
+12
+78
+Edge Costello-Schubert
+10
+3
+150
+Edge Guenther-Howard
+0
+8
+117
+Edge Mitchell-Schubert
+6
+3
+139
+Edge Gildea-Mitchell
+2
+6
+52
+Edge Singkhamsack-Schubert
+4
+3
+65
+Edge Stefankovic-Schubert
+7
+3

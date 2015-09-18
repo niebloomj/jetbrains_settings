@@ -1,0 +1,356 @@
+14
+78
+13
+Shen
+Green
+7
+Costello
+Orange
+6
+Guenther
+Violet
+9
+Criswell
+Blue
+12
+Roche
+Indigo
+4
+Hoque
+Yellow
+3
+Singkhamsack
+Indigo
+10
+Nelson
+Blue
+5
+Carpenter
+Indigo
+8
+Kautz
+Blue
+11
+Pawlicki
+Violet
+0
+Seiferas
+Red
+2
+Schubert
+Indigo
+1
+Ipek
+Indigo
+72
+Edge Hoque-Guenther
+4
+6
+193
+Edge Ipek-Seiferas
+1
+0
+115
+Edge Carpenter-Criswell
+5
+9
+119
+Edge Carpenter-Nelson
+5
+10
+129
+Edge Kautz-Criswell
+8
+9
+98
+Edge Nelson-Shen
+10
+13
+187
+Edge Ipek-Hoque
+1
+4
+186
+Edge Ipek-Roche
+1
+12
+70
+Edge Hoque-Shen
+4
+13
+148
+Edge Pawlicki-Carpenter
+11
+5
+73
+Edge Hoque-Criswell
+4
+9
+177
+Edge Schubert-Kautz
+2
+8
+182
+Edge Ipek-Shen
+1
+13
+134
+Edge Kautz-Carpenter
+8
+5
+147
+Edge Pawlicki-Nelson
+11
+10
+188
+Edge Ipek-Singkhamsack
+1
+3
+132
+Edge Kautz-Singkhamsack
+8
+3
+171
+Edge Schubert-Criswell
+2
+9
+169
+Edge Schubert-Costello
+2
+7
+184
+Edge Ipek-Guenther
+1
+6
+102
+Edge Nelson-Roche
+10
+12
+113
+Edge Carpenter-Costello
+5
+7
+43
+Edge Criswell-Costello
+9
+7
+158
+Edge Seiferas-Roche
+0
+12
+168
+Edge Schubert-Shen
+2
+13
+173
+Edge Schubert-Hoque
+2
+4
+104
+Edge Nelson-Singkhamsack
+10
+3
+59
+Edge Roche-Criswell
+12
+9
+127
+Edge Kautz-Costello
+8
+7
+190
+Edge Ipek-Carpenter
+1
+5
+172
+Edge Schubert-Roche
+2
+12
+194
+Edge Ipek-Schubert
+1
+2
+112
+Edge Carpenter-Shen
+5
+13
+141
+Edge Pawlicki-Costello
+11
+7
+131
+Edge Kautz-Hoque
+8
+4
+130
+Edge Kautz-Roche
+8
+12
+103
+Edge Nelson-Hoque
+10
+4
+133
+Edge Kautz-Nelson
+8
+10
+14
+Edge Costello-Shen
+7
+13
+160
+Edge Seiferas-Singkhamsack
+0
+3
+58
+Edge Roche-Guenther
+12
+6
+114
+Edge Carpenter-Guenther
+5
+6
+163
+Edge Seiferas-Kautz
+0
+8
+74
+Edge Hoque-Roche
+4
+12
+157
+Edge Seiferas-Criswell
+0
+9
+116
+Edge Carpenter-Roche
+5
+12
+183
+Edge Ipek-Costello
+1
+7
+149
+Edge Pawlicki-Kautz
+11
+8
+28
+Edge Guenther-Shen
+6
+13
+191
+Edge Ipek-Kautz
+1
+8
+99
+Edge Nelson-Costello
+10
+7
+118
+Edge Carpenter-Singkhamsack
+5
+3
+170
+Edge Schubert-Guenther
+2
+6
+126
+Edge Kautz-Shen
+8
+13
+175
+Edge Schubert-Nelson
+2
+10
+44
+Edge Criswell-Guenther
+9
+6
+189
+Edge Ipek-Nelson
+1
+10
+144
+Edge Pawlicki-Roche
+11
+12
+145
+Edge Pawlicki-Hoque
+11
+4
+185
+Edge Ipek-Criswell
+1
+9
+178
+Edge Schubert-Pawlicki
+2
+11
+143
+Edge Pawlicki-Criswell
+11
+9
+56
+Edge Roche-Shen
+12
+13
+154
+Edge Seiferas-Shen
+0
+13
+42
+Edge Criswell-Shen
+9
+13
+85
+Edge Singkhamsack-Costello
+3
+7
+155
+Edge Seiferas-Costello
+0
+7
+117
+Edge Carpenter-Hoque
+5
+4
+176
+Edge Schubert-Carpenter
+2
+5
+174
+Edge Schubert-Singkhamsack
+2
+3
+89
+Edge Singkhamsack-Hoque
+3
+4
+128
+Edge Kautz-Guenther
+8
+6
+179
+Edge Schubert-Seiferas
+2
+0
+29
+Edge Guenther-Costello
+6
+7
+192
+Edge Ipek-Pawlicki
+1
+11
+146
+Edge Pawlicki-Singkhamsack
+11
+3
+87
+Edge Singkhamsack-Criswell
+3
+9
+161
+Edge Seiferas-Nelson
+0
+10

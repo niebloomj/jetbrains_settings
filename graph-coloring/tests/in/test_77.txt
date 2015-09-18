@@ -1,0 +1,82 @@
+12
+11
+10
+Pawlicki
+Red
+3
+Singkhamsack
+Blue
+2
+Ding
+Violet
+11
+Scott
+Green
+8
+Shen
+Orange
+4
+Luo
+Blue
+5
+Pizzutelli
+Indigo
+7
+Mitchell
+Violet
+6
+Howard
+Red
+1
+Schubert
+Violet
+0
+Guenther
+Blue
+9
+Dwarkadas
+Indigo
+122
+Edge Guenther-Ding
+0
+2
+120
+Edge Guenther-Pawlicki
+0
+10
+110
+Edge Schubert-Ding
+1
+2
+115
+Edge Schubert-Mitchell
+1
+7
+49
+Edge Shen-Singkhamsack
+8
+3
+86
+Edge Mitchell-Ding
+7
+2
+103
+Edge Howard-Mitchell
+6
+7
+113
+Edge Schubert-Luo
+1
+4
+112
+Edge Schubert-Shen
+1
+8
+60
+Edge Luo-Pawlicki
+4
+10
+121
+Edge Guenther-Singkhamsack
+0
+3

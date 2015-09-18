@@ -1,0 +1,57 @@
+NO
+11
+15
+Edge Mitchell-Hemaspaandra
+Mitchell
+Hemaspaandra
+Yellow
+111
+Edge Roche-Guenther
+Roche
+Guenther
+Green
+126
+Edge Gildea-Guenther
+Gildea
+Guenther
+Green
+127
+Edge Gildea-Roche
+Gildea
+Roche
+Green
+153
+Edge Kautz-Ipek
+Kautz
+Ipek
+Violet
+155
+Edge Kautz-Dwarkadas
+Kautz
+Dwarkadas
+Violet
+195
+Edge Venkitasubramaniam-Hemaspaandra
+Venkitasubramaniam
+Hemaspaandra
+Yellow
+196
+Edge Venkitasubramaniam-Mitchell
+Venkitasubramaniam
+Mitchell
+Yellow
+210
+Edge Pullara-Hemaspaandra
+Pullara
+Hemaspaandra
+Yellow
+211
+Edge Pullara-Mitchell
+Pullara
+Mitchell
+Yellow
+223
+Edge Pullara-Venkitasubramaniam
+Pullara
+Venkitasubramaniam
+Yellow

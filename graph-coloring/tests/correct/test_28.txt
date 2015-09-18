@@ -1,0 +1,32 @@
+NO
+6
+35
+Edge Guenther-Seiferas
+Guenther
+Seiferas
+Blue
+44
+Edge Nelson-Guenther
+Nelson
+Guenther
+Blue
+49
+Edge Brown-Pullara
+Brown
+Pullara
+Green
+59
+Edge Shen-Seiferas
+Shen
+Seiferas
+Blue
+60
+Edge Shen-Guenther
+Shen
+Guenther
+Blue
+61
+Edge Shen-Nelson
+Shen
+Nelson
+Blue

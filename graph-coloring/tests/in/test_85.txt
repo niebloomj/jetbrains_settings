@@ -1,0 +1,183 @@
+15
+34
+7
+Criswell
+Green
+5
+Kautz
+Red
+10
+Brown
+Blue
+8
+Hoque
+Red
+0
+Schubert
+Yellow
+3
+Roche
+Red
+4
+Guo
+Violet
+14
+Ding
+Green
+9
+Singkhamsack
+Blue
+2
+Ipek
+Yellow
+11
+Seiferas
+Blue
+12
+Dwarkadas
+Green
+1
+Stefankovic
+Red
+6
+Hemaspaandra
+Green
+13
+Gildea
+Violet
+121
+Edge Singkhamsack-Kautz
+9
+5
+199
+Edge Hemaspaandra-Schubert
+6
+0
+126
+Edge Singkhamsack-Guo
+9
+4
+185
+Edge Stefankovic-Roche
+1
+3
+175
+Edge Dwarkadas-Seiferas
+12
+11
+61
+Edge Schubert-Kautz
+0
+5
+203
+Edge Hemaspaandra-Singkhamsack
+6
+9
+105
+Edge Ding-Criswell
+14
+7
+215
+Edge Gildea-Roche
+13
+3
+219
+Edge Gildea-Ipek
+13
+2
+200
+Edge Hemaspaandra-Roche
+6
+3
+206
+Edge Hemaspaandra-Dwarkadas
+6
+12
+181
+Edge Stefankovic-Kautz
+1
+5
+158
+Edge Seiferas-Singkhamsack
+11
+9
+62
+Edge Schubert-Brown
+0
+10
+77
+Edge Roche-Brown
+3
+10
+184
+Edge Stefankovic-Schubert
+1
+0
+173
+Edge Dwarkadas-Singkhamsack
+12
+9
+93
+Edge Guo-Hoque
+4
+8
+91
+Edge Guo-Kautz
+4
+5
+47
+Edge Hoque-Brown
+8
+10
+198
+Edge Hemaspaandra-Hoque
+6
+8
+109
+Edge Ding-Schubert
+14
+0
+166
+Edge Dwarkadas-Kautz
+12
+5
+151
+Edge Seiferas-Kautz
+11
+5
+122
+Edge Singkhamsack-Brown
+9
+10
+127
+Edge Singkhamsack-Ding
+9
+14
+107
+Edge Ding-Brown
+14
+10
+216
+Edge Gildea-Guo
+13
+4
+30
+Edge Brown-Criswell
+10
+7
+169
+Edge Dwarkadas-Schubert
+12
+0
+197
+Edge Hemaspaandra-Brown
+6
+10
+221
+Edge Gildea-Dwarkadas
+13
+12
+154
+Edge Seiferas-Schubert
+11
+0

@@ -1,0 +1,87 @@
+7
+16
+2
+Dwarkadas
+Indigo
+3
+Pawlicki
+Violet
+6
+Guo
+Orange
+1
+Kautz
+Orange
+5
+Criswell
+Indigo
+0
+Mitchell
+Red
+4
+Pizzutelli
+Blue
+35
+Edge Mitchell-Dwarkadas
+0
+2
+44
+Edge Pizzutelli-Guo
+4
+6
+46
+Edge Pizzutelli-Criswell
+4
+5
+39
+Edge Mitchell-Criswell
+0
+5
+23
+Edge Kautz-Guo
+1
+6
+31
+Edge Criswell-Kautz
+5
+1
+7
+Edge Pawlicki-Dwarkadas
+3
+2
+37
+Edge Mitchell-Guo
+0
+6
+29
+Edge Criswell-Pawlicki
+5
+3
+30
+Edge Criswell-Guo
+5
+6
+21
+Edge Kautz-Dwarkadas
+1
+2
+22
+Edge Kautz-Pawlicki
+1
+3
+47
+Edge Pizzutelli-Mitchell
+4
+0
+28
+Edge Criswell-Dwarkadas
+5
+2
+43
+Edge Pizzutelli-Pawlicki
+4
+3
+42
+Edge Pizzutelli-Dwarkadas
+4
+2

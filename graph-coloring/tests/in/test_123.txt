@@ -1,0 +1,108 @@
+18
+13
+11
+Brown
+Orange
+17
+Shen
+Red
+7
+Kautz
+Yellow
+3
+Guo
+Green
+9
+Seiferas
+Red
+4
+Stefankovic
+Yellow
+16
+Schubert
+Green
+5
+Howard
+Yellow
+0
+Carpenter
+Orange
+2
+Ding
+Indigo
+6
+Liu
+Red
+14
+Pizzutelli
+Green
+13
+Ipek
+Blue
+15
+Singkhamsack
+Violet
+1
+Nelson
+Red
+12
+Mitchell
+Violet
+8
+Scott
+Blue
+10
+Criswell
+Indigo
+270
+Edge Mitchell-Brown
+12
+11
+274
+Edge Mitchell-Seiferas
+12
+9
+56
+Edge Guo-Kautz
+3
+7
+169
+Edge Ding-Howard
+2
+5
+289
+Edge Scott-Shen
+8
+17
+245
+Edge Singkhamsack-Pizzutelli
+15
+14
+241
+Edge Singkhamsack-Howard
+15
+5
+170
+Edge Ding-Carpenter
+2
+0
+216
+Edge Ipek-Brown
+13
+11
+261
+Edge Nelson-Ding
+1
+2
+55
+Edge Guo-Shen
+3
+17
+316
+Edge Criswell-Liu
+10
+6
+188
+Edge Liu-Carpenter
+6
+0

@@ -1,0 +1,32 @@
+NO
+6
+16
+Edge Singkhamsack-Shen
+Singkhamsack
+Shen
+Red
+32
+Edge Kautz-Shen
+Kautz
+Shen
+Red
+34
+Edge Kautz-Singkhamsack
+Kautz
+Singkhamsack
+Red
+35
+Edge Kautz-Ipek
+Kautz
+Ipek
+Red
+41
+Edge Pizzutelli-Roche
+Pizzutelli
+Roche
+Orange
+62
+Edge Scott-Allen
+Scott
+Allen
+Orange

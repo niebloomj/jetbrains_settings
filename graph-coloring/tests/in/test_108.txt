@@ -1,0 +1,443 @@
+19
+96
+14
+Singkhamsack
+Red
+7
+Schubert
+Red
+0
+Hemaspaandra
+Violet
+17
+Nelson
+Orange
+1
+Howard
+Red
+18
+Guenther
+Yellow
+6
+Luo
+Orange
+16
+Venkitasubramaniam
+Blue
+4
+Ipek
+Violet
+10
+Pizzutelli
+Orange
+2
+Guo
+Violet
+11
+Gildea
+Orange
+5
+Seiferas
+Red
+13
+Stefankovic
+Yellow
+15
+Pullara
+Blue
+9
+Ding
+Orange
+8
+Roche
+Violet
+3
+Allen
+Orange
+12
+Dwarkadas
+Blue
+216
+Edge Gildea-Venkitasubramaniam
+11
+16
+319
+Edge Roche-Ding
+8
+9
+358
+Edge Dwarkadas-Roche
+12
+8
+57
+Edge Nelson-Singkhamsack
+17
+14
+209
+Edge Gildea-Singkhamsack
+11
+14
+305
+Edge Roche-Schubert
+8
+7
+339
+Edge Allen-Roche
+3
+8
+136
+Edge Venkitasubramaniam-Nelson
+16
+17
+138
+Edge Venkitasubramaniam-Guenther
+16
+18
+247
+Edge Stefankovic-Singkhamsack
+13
+14
+326
+Edge Allen-Nelson
+3
+17
+344
+Edge Dwarkadas-Hemaspaandra
+12
+0
+274
+Edge Pullara-Ipek
+15
+4
+271
+Edge Pullara-Guenther
+15
+18
+135
+Edge Venkitasubramaniam-Hemaspaandra
+16
+0
+304
+Edge Roche-Singkhamsack
+8
+14
+239
+Edge Seiferas-Gildea
+5
+11
+356
+Edge Dwarkadas-Pullara
+12
+15
+254
+Edge Stefankovic-Venkitasubramaniam
+13
+16
+270
+Edge Pullara-Howard
+15
+1
+38
+Edge Hemaspaandra-Singkhamsack
+0
+14
+238
+Edge Seiferas-Guo
+5
+2
+331
+Edge Allen-Ipek
+3
+4
+231
+Edge Seiferas-Nelson
+5
+17
+306
+Edge Roche-Hemaspaandra
+8
+0
+359
+Edge Dwarkadas-Allen
+12
+3
+299
+Edge Ding-Pullara
+9
+15
+351
+Edge Dwarkadas-Pizzutelli
+12
+10
+197
+Edge Guo-Venkitasubramaniam
+2
+16
+295
+Edge Ding-Guo
+9
+2
+191
+Edge Guo-Schubert
+2
+7
+288
+Edge Ding-Nelson
+9
+17
+349
+Edge Dwarkadas-Venkitasubramaniam
+12
+16
+190
+Edge Guo-Singkhamsack
+2
+14
+269
+Edge Pullara-Nelson
+15
+17
+272
+Edge Pullara-Luo
+15
+6
+290
+Edge Ding-Guenther
+9
+18
+275
+Edge Pullara-Pizzutelli
+15
+10
+152
+Edge Ipek-Singkhamsack
+4
+14
+39
+Edge Hemaspaandra-Schubert
+0
+7
+174
+Edge Pizzutelli-Nelson
+10
+17
+196
+Edge Guo-Luo
+2
+6
+175
+Edge Pizzutelli-Howard
+10
+1
+228
+Edge Seiferas-Singkhamsack
+5
+14
+329
+Edge Allen-Luo
+3
+6
+330
+Edge Allen-Venkitasubramaniam
+3
+16
+327
+Edge Allen-Howard
+3
+1
+237
+Edge Seiferas-Pizzutelli
+5
+10
+179
+Edge Pizzutelli-Ipek
+10
+4
+250
+Edge Stefankovic-Nelson
+13
+17
+308
+Edge Roche-Howard
+8
+1
+352
+Edge Dwarkadas-Guo
+12
+2
+255
+Edge Stefankovic-Ipek
+13
+4
+154
+Edge Ipek-Hemaspaandra
+4
+0
+194
+Edge Guo-Howard
+2
+1
+268
+Edge Pullara-Hemaspaandra
+15
+0
+116
+Edge Luo-Hemaspaandra
+6
+0
+315
+Edge Roche-Gildea
+8
+11
+118
+Edge Luo-Howard
+6
+1
+58
+Edge Nelson-Schubert
+17
+7
+134
+Edge Venkitasubramaniam-Schubert
+16
+7
+278
+Edge Pullara-Seiferas
+15
+5
+348
+Edge Dwarkadas-Luo
+12
+6
+219
+Edge Gildea-Guo
+11
+2
+76
+Edge Howard-Singkhamsack
+1
+14
+176
+Edge Pizzutelli-Guenther
+10
+18
+139
+Edge Venkitasubramaniam-Luo
+16
+6
+213
+Edge Gildea-Howard
+11
+1
+342
+Edge Dwarkadas-Singkhamsack
+12
+14
+258
+Edge Stefankovic-Gildea
+13
+11
+307
+Edge Roche-Nelson
+8
+17
+266
+Edge Pullara-Singkhamsack
+15
+14
+233
+Edge Seiferas-Guenther
+5
+18
+211
+Edge Gildea-Hemaspaandra
+11
+0
+173
+Edge Pizzutelli-Hemaspaandra
+10
+0
+79
+Edge Howard-Nelson
+1
+17
+133
+Edge Venkitasubramaniam-Singkhamsack
+16
+14
+296
+Edge Ding-Gildea
+9
+11
+248
+Edge Stefankovic-Schubert
+13
+7
+212
+Edge Gildea-Nelson
+11
+17
+229
+Edge Seiferas-Schubert
+5
+7
+354
+Edge Dwarkadas-Seiferas
+12
+5
+324
+Edge Allen-Schubert
+3
+7
+193
+Edge Guo-Nelson
+2
+17
+276
+Edge Pullara-Guo
+15
+2
+335
+Edge Allen-Seiferas
+3
+5
+316
+Edge Roche-Seiferas
+8
+5
+78
+Edge Howard-Hemaspaandra
+1
+0
+313
+Edge Roche-Pizzutelli
+8
+10
+293
+Edge Ding-Ipek
+9
+4
+117
+Edge Luo-Nelson
+6
+17
+259
+Edge Stefankovic-Seiferas
+13
+5
+236
+Edge Seiferas-Ipek
+5
+4
+337
+Edge Allen-Pullara
+3
+15
+314
+Edge Roche-Guo
+8
+2
+294
+Edge Ding-Pizzutelli
+9
+10

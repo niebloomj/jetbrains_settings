@@ -1,0 +1,137 @@
+NO
+27
+60
+Edge Carpenter-Ding
+Carpenter
+Ding
+Indigo
+104
+Edge Liu-Dwarkadas
+Liu
+Dwarkadas
+Red
+141
+Edge Singkhamsack-Guo
+Singkhamsack
+Guo
+Yellow
+160
+Edge Nelson-Ding
+Nelson
+Ding
+Indigo
+163
+Edge Nelson-Carpenter
+Nelson
+Carpenter
+Indigo
+184
+Edge Brown-Dwarkadas
+Brown
+Dwarkadas
+Red
+185
+Edge Brown-Liu
+Brown
+Liu
+Red
+220
+Edge Pullara-Ding
+Pullara
+Ding
+Indigo
+223
+Edge Pullara-Carpenter
+Pullara
+Carpenter
+Indigo
+228
+Edge Pullara-Nelson
+Pullara
+Nelson
+Indigo
+250
+Edge Howard-Allen
+Howard
+Allen
+Violet
+261
+Edge Scott-Guo
+Scott
+Guo
+Yellow
+267
+Edge Scott-Singkhamsack
+Scott
+Singkhamsack
+Yellow
+290
+Edge Criswell-Allen
+Criswell
+Allen
+Violet
+292
+Edge Criswell-Howard
+Criswell
+Howard
+Violet
+306
+Edge Kautz-Stefankovic
+Kautz
+Stefankovic
+Blue
+330
+Edge Venkitasubramaniam-Allen
+Venkitasubramaniam
+Allen
+Violet
+332
+Edge Venkitasubramaniam-Howard
+Venkitasubramaniam
+Howard
+Violet
+334
+Edge Venkitasubramaniam-Criswell
+Venkitasubramaniam
+Criswell
+Violet
+346
+Edge Costello-Stefankovic
+Costello
+Stefankovic
+Blue
+355
+Edge Costello-Kautz
+Costello
+Kautz
+Blue
+364
+Edge Schubert-Dwarkadas
+Schubert
+Dwarkadas
+Red
+365
+Edge Schubert-Liu
+Schubert
+Liu
+Red
+369
+Edge Schubert-Brown
+Schubert
+Brown
+Red
+381
+Edge Luo-Guo
+Luo
+Guo
+Yellow
+387
+Edge Luo-Singkhamsack
+Luo
+Singkhamsack
+Yellow
+393
+Edge Luo-Scott
+Luo
+Scott
+Yellow

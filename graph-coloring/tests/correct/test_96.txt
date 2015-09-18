@@ -1,0 +1,47 @@
+NO
+9
+55
+Edge Pawlicki-Howard
+Pawlicki
+Howard
+Red
+68
+Edge Schubert-Howard
+Schubert
+Howard
+Red
+69
+Edge Schubert-Pawlicki
+Schubert
+Pawlicki
+Red
+81
+Edge Criswell-Howard
+Criswell
+Howard
+Red
+82
+Edge Criswell-Pawlicki
+Criswell
+Pawlicki
+Red
+83
+Edge Criswell-Schubert
+Criswell
+Schubert
+Red
+104
+Edge Guo-Liu
+Guo
+Liu
+Indigo
+137
+Edge Scott-Roche
+Scott
+Roche
+Green
+167
+Edge Kautz-Singkhamsack
+Kautz
+Singkhamsack
+Violet

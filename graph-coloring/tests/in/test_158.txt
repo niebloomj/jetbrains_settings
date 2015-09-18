@@ -1,0 +1,23 @@
+3
+3
+0
+Luo
+Blue
+1
+Criswell
+Yellow
+2
+Pullara
+Indigo
+3
+Edge Criswell-Luo
+1
+0
+7
+Edge Pullara-Criswell
+2
+1
+6
+Edge Pullara-Luo
+2
+0
