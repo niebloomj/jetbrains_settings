@@ -1,13 +1,8 @@
-<keymap version="1" name="Mac OS X copy" parent="Mac OS X">
-  <action id="ActivateRunToolWindow">
+<keymap version="1" name="IntelliJ IDEA Classic (OS X) copy" parent="Mac OS X">
+  <action id="Replace" />
+  <action id="Run">
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
-  <action id="CloseActiveTab" />
-  <action id="CloseContent">
-    <keyboard-shortcut first-keystroke="meta w" />
-  </action>
-  <action id="EditorSelectWord" />
-  <action id="Replace" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
