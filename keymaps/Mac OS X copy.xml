@@ -1,0 +1,11 @@
+<keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="ActivateRunToolWindow">
+    <keyboard-shortcut first-keystroke="meta R" />
+  </action>
+  <action id="CloseActiveTab" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="meta W" />
+  </action>
+  <action id="EditorSelectWord" />
+  <action id="Replace" />
+</keymap>
