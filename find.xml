@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="urdining" />
-    <option name="defaultScopeName" value="urdining" />
+    <option name="customScope" value="File '/Users/Jacob/Dropbox/Github/edu-chat-android/app/src/main/res/layout/combined_login.xml'" />
+    <option name="defaultScopeName" value="File '/Users/Jacob/Dropbox/Github/edu-chat-android/app/src/main/res/layout/combined_login.xml'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="urdining" />
+    <option name="SEARCH_SCOPE" value="File '/Users/Jacob/Dropbox/Github/edu-chat-android/app/src/main/res/layout/combined_login.xml'" />
   </component>
 </application>
