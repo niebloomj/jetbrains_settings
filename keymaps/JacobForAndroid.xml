@@ -1,0 +1,9 @@
+<keymap version="1" name="JacobForAndroid" parent="Mac OS X 10.5+">
+  <action id="Refresh" />
+  <action id="Replace" />
+  <action id="Rerun" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="meta R" />
+  </action>
+  <action id="UsageView.Rerun" />
+</keymap>
