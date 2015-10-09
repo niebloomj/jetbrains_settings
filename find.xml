@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '/Users/Jacob/Dropbox/Github/edu-chat-android/app/src/main/res/layout/combined_login.xml'" />
-    <option name="defaultScopeName" value="File '/Users/Jacob/Dropbox/Github/edu-chat-android/app/src/main/res/layout/combined_login.xml'" />
+    <option name="customScope" value="Project 'Project1'" />
+    <option name="defaultScopeName" value="Project 'Project1'" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '/Users/Jacob/Dropbox/Github/edu-chat-android/app/src/main/res/layout/combined_login.xml'" />
+    <option name="SEARCH_SCOPE" value="Project 'Project1'" />
   </component>
 </application>
