@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Homework6'" />
-    <option name="defaultScopeName" value="Project 'Homework6'" />
+    <option name="customScope" value="Project 'Assignment7'" />
+    <option name="defaultScopeName" value="Project 'Assignment7'" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'Homework6'" />
+    <option name="SEARCH_SCOPE" value="Project 'Assignment7'" />
   </component>
 </application>
