@@ -1,8 +1,4 @@
 <keymap version="1" name="Jacob" parent="Mac OS X">
-  <action id="$Delete">
-    <keyboard-shortcut first-keystroke="delete" />
-    <keyboard-shortcut first-keystroke="back_space" />
-  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
