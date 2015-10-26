@@ -5,5 +5,9 @@
     <option name="PATTERN_ANNOTATION" value="org.intellij.lang.annotations.Pattern" />
     <option name="SUBST_ANNOTATION" value="org.intellij.lang.annotations.Subst" />
     <option name="RESOLVE_REFERENCES" value="true" />
+    <injection language="GenericSQL" injector-id="java">
+      <display-name>Channel.basicPublish (com.rabbitmq.client)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("basicPublish").withParameters("java.lang.String", "java.lang.String", "com.rabbitmq.client.AMQP.BasicProperties", "byte[]").definedInClass("com.rabbitmq.client.Channel"))]]></place>
+    </injection>
   </component>
 </application>
