@@ -1,6 +1,11 @@
 <application>
   <component name="ProjectManager">
     <defaultProject version="4">
+      <component name="CMakeSettings" AUTO_RELOAD="false" GENERATION_PASS_SYSTEM_ENVIRONMENT="true">
+        <ADDITIONAL_GENERATION_ENVIRONMENT>
+          <envs />
+        </ADDITIONAL_GENERATION_ENVIRONMENT>
+      </component>
       <component name="CompilerConfiguration">
         <resourceExtensions />
         <wildcardResourcePatterns>
@@ -36,9 +41,9 @@
       <component name="ProjectModuleManager">
         <modules />
       </component>
-      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" assert-keyword="true" jdk-15="true" />
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" assert-keyword="false" jdk-15="false" />
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
+        <property name="settings.editor.selected.configurable" value="preferences.general" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
       </component>
       <component name="RunManager">
