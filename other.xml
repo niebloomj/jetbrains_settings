@@ -128,6 +128,9 @@
   <component name="OCRunConfigurationsSettings">
     <option name="STOP_RUNNING_SESSION_AUTOMATICALLY" value="true" />
   </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_INNER_PREVIEW_USAGES" value="false" />
+  </component>
   <component name="XcodeSettings">
     <option name="selectedXcode" value="/Applications/Xcode.app/Contents/Developer" />
     <option name="detectedXcodes">
