@@ -1,11 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Project2'" />
-    <option name="defaultScopeName" value="Project 'Project2'" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'Project2'" />
+    <option name="customScope" value="Project 'edu_chat_lollipop'" />
+    <option name="defaultScopeName" value="Project 'edu_chat_lollipop'" />
+    <option name="SEARCH_SCOPE" value="Project 'edu_chat_lollipop'" />
   </component>
 </application>
