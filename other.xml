@@ -130,6 +130,7 @@
   </component>
   <component name="RefactoringSettings">
     <option name="MOVE_INNER_PREVIEW_USAGES" value="false" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
   </component>
   <component name="XcodeSettings">
     <option name="selectedXcode" value="/Applications/Xcode.app/Contents/Developer" />
