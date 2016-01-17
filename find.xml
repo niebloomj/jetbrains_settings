@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Edu Chat'" />
-    <option name="defaultScopeName" value="Project 'Edu Chat'" />
-    <option name="SEARCH_SCOPE" value="Project 'Edu Chat'" />
+    <option name="customScope" value="Project 'edu-chat-android'" />
+    <option name="defaultScopeName" value="Project 'edu-chat-android'" />
+    <option name="SEARCH_SCOPE" value="Project 'edu-chat-android'" />
   </component>
 </application>
