@@ -1,7 +1,20 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="edu chat" />
-    <option name="defaultScopeName" value="edu chat" />
-    <option name="SEARCH_SCOPE" value="edu chat" />
+    <option name="customScope" value="Project 'Univent'" />
+    <option name="defaultScopeName" value="Project 'Univent'" />
+    <option name="SEARCH_SCOPE" value="Project 'Univent'" />
+    <option name="FILE_MASK" value="build.gradle" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>build.gradle</mask>
+    </recentFileMasks>
   </component>
 </application>
