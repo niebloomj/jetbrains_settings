@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="edu chat" />
-    <option name="defaultScopeName" value="edu chat" />
-    <option name="SEARCH_SCOPE" value="edu chat" />
+    <option name="customScope" value="Project 'EduChat'" />
+    <option name="defaultScopeName" value="Project 'EduChat'" />
+    <option name="SEARCH_SCOPE" value="Project 'EduChat'" />
     <option name="FILE_MASK" value="build.gradle" />
     <recentFileMasks>
       <mask>*.properties</mask>
