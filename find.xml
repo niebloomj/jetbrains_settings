@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'project4'" />
-    <option name="defaultScopeName" value="Project 'project4'" />
-    <option name="SEARCH_SCOPE" value="Project 'project4'" />
+    <option name="customScope" value="File '.../src/Life.java - [HW6]'" />
+    <option name="defaultScopeName" value="File '.../src/Life.java - [HW6]'" />
+    <option name="SEARCH_SCOPE" value="File '.../src/Life.java - [HW6]'" />
+    <option name="FILE_MASK" value="build.gradle" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
